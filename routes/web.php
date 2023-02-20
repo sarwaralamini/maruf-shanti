@@ -14,5 +14,18 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
-});
+    return view('frontend.index');
+})->name('homepage');
+
+//ABOUT ROUTES
+
+Route::get('holistic-escapes', function () {
+    return view('frontend.about.holistic-escapes');
+})->name('holistic-escapes');
+Route::get('shanti-concept', function () {
+    return view('frontend.about.shanti-concept');
+})->name('shanti-concept');
+Route::get('serenity-and-discovery', function () {
+    return view('frontend.about.serenity-and-discovery');
+})->name('serenity-and-discovery');
+
