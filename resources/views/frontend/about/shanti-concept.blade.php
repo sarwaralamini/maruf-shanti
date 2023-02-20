@@ -51,9 +51,17 @@
                 <article class="mad-entity">
                     <div style="max-width:100rem;font-size: 1.125rem;padding: 0rem 5rem;line-height:1.5rem;" >
                         <div class="mad-entity-pre-title">What is Shanti?</div>
-                        <h6 class="mad-entity-title" style="text-align:center;">
-                            “Shanti is a word from Sanskrit which means peace. In particular, inner peace or peace of mind, a state of mental and spiritual peace that allows one to remain whole and grounded during stress. Shanti means peace, rest, calmness, tranquility or bliss”.
-                        </h6>
+                        <div class="mad-testimonial-bg content-element-4">
+                            <div class="mad-testimonial">
+                                <div class="mad-testimonial-info">
+                                <blockquote>
+                                    <p>
+                                        “Shanti is a word from Sanskrit which means peace. In particular, inner peace or peace of mind, a state of mental and spiritual peace that allows one to remain whole and grounded during stress. Shanti means peace, rest, calmness, tranquility or bliss”.
+                                    </p>
+                                </blockquote>
+                                </div>
+                            </div>
+                        </div>
                         <p>
                             <img src="{{ asset('assets/img/about/shanti_concept.jpg') }}" alt="" />
                         </p>

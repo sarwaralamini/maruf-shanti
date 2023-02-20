@@ -26,13 +26,13 @@
                             <a href="{{ route('serenity-and-discovery') }}">Serenity and Discovery</a>
                         </li>
                         <li class="menu-item">
-                            <a href="">History</a>
+                            <a href="{{ route('history') }}">History</a>
                         </li>
                         <li class="menu-item">
-                            <a href="">Sustainability</a>
+                            <a href="{{ route('sustainability') }}">Sustainability</a>
                         </li>
                         <li class="menu-item">
-                            <a href="">Our Vision</a>
+                            <a href="{{ route('our-vision') }}">Our Vision</a>
                         </li>
                     </ul>
                     <!--================ End of Sub Menu ================-->

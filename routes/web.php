@@ -28,4 +28,14 @@ Route::get('shanti-concept', function () {
 Route::get('serenity-and-discovery', function () {
     return view('frontend.about.serenity-and-discovery');
 })->name('serenity-and-discovery');
+Route::get('history', function () {
+    return view('frontend.about.history');
+})->name('history');
+Route::get('sustainability', function () {
+    return view('frontend.about.sustainability');
+})->name('sustainability');
+Route::get('our-vision', function () {
+    return view('frontend.about.our-vision');
+})->name('our-vision');
+
 
