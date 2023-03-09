@@ -37,6 +37,7 @@
     <h1 class="mad-page-title">Holistic Escapes</h1>
     <nav class="mad-breadcrumb-path">
         <span><a href="{{ route('homepage') }}" class="mad-link">Home</a></span> /
+        <span>About</span> /
         <span>Holistic Escapes</span>
     </nav>
     </div>
@@ -49,7 +50,7 @@
                 <div class="mad-entities mad-entities-reverse type-4">
                 <!--================ Entity ================-->
                 <article class="mad-entity">
-                    <div style="max-width:100rem;font-size: 1.125rem;padding: 0rem 5rem;line-height:1.5rem;" >
+                    <div style="max-width:100rem;font-size: 1.125rem;line-height:1.5rem;" >
                         <div class="mad-entity-pre-title">Holistic Escapes</div>
                         <h6 class="mad-entity-title" style="text-align:center;">
                             Minutes away from the charming city of Tagaytay, within 4 hectares of tropical greenery, serenity awaits.

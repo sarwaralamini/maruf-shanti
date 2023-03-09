@@ -50,6 +50,7 @@
   <link rel="stylesheet" href="{{ asset('assets/vendors/revolution/css/settings.css') }}" />
   <link rel="stylesheet" href="{{ asset('assets/vendors/revolution/css/layers.min.css') }}" />
   <link rel="stylesheet" href="{{ asset('assets/vendors/revolution/css/navigation.min.css') }}" />
+  <link rel="stylesheet" href="{{ asset('assets/vendors/fancybox/jquery.fancybox.min.css') }}" />
   <!--================ Theme CSS ================-->
   <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}" />
   <link rel="stylesheet" href="{{ asset('assets/css/date.css') }}" />
@@ -58,7 +59,7 @@
 </head>
 
 <body>
-  <div class="mad-preloader"></div>
+  {{-- <div class="mad-preloader"></div> --}}
   <div id="mad-page-wrapper" class="mad-page-wrapper">
     <!--================ Header ================-->
     @include('frontend.layouts.inc.header')
@@ -80,8 +81,11 @@
   <script src="{{ asset('assets/vendors/monkeysan.jquery.nav.1.0.js') }}"></script>
   <script src="{{ asset('assets/vendors/monkeysan.validator.min.js') }}"></script>
   <script src="{{ asset('assets/vendors/handlebars-v4.0.5.min.js') }}"></script>
+  <script src="{{ asset('assets/vendors/isotope.pkgd.min.js') }}"></script>
+  <script src="{{ asset('assets/js/modules/isotope.pkgd.min.js') }}"></script>
   <script src="{{ asset('assets/vendors/arcticmodal/jquery.arcticmodal-0.3.min.js') }}"></script>
   <script src="{{ asset('assets/vendors/retina.min.js') }}"></script>
+  <script src="{{ asset('assets/vendors/fancybox/jquery.fancybox.min.js') }}"></script>
   <script src="{{ asset('assets/vendors/sticky-sidebar.js') }}"></script>
   <script src="{{ asset('assets/vendors/owl-carousel/owl.carousel.min.js') }}"></script>
   <script src="{{ asset('assets/vendors/mad.customselect.js') }}"></script>
@@ -99,6 +103,13 @@
   <script type="text/javascript"
     src="{{ asset('assets/vendors/revolution/js/extensions/revolution.extension.layeranimation.min.js') }}"></script>
   <script type="text/javascript" src="{{ asset('assets/vendors/revolution/js/extensions/revolution.extension.navigation.min.js') }}"></script>
+  <script>
+    $('.mad-grid--isotope').isotope({
+  // options
+  itemSelector: '.mad-grid-item',
+  layoutMode: 'masonry',
+});
+  </script>
 </body>
 
 </html>

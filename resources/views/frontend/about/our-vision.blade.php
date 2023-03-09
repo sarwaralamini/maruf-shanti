@@ -37,6 +37,7 @@
     <h1 class="mad-page-title">Our Vision</h1>
     <nav class="mad-breadcrumb-path">
         <span><a href="{{ route('homepage') }}" class="mad-link">Home</a></span> /
+        <span>About</span> /
         <span>Our Vision</span>
     </nav>
     </div>
@@ -49,7 +50,7 @@
                 <div class="mad-entities mad-entities-reverse type-4">
                 <!--================ Entity ================-->
                 <article class="mad-entity">
-                    <div style="max-width:100rem;font-size: 1.125rem;padding: 0rem 5rem;line-height:1.5rem;" >
+                    <div style="max-width:100rem;font-size: 1.125rem;line-height:1.5rem;" >
                         <div class="mad-entity-pre-title">What is Shanti?</div>
                         <h6 class="mad-entity-title" style="text-align:center;">
                             Shanti is the brainchild of Dr. Maruf Hasan, founder of Bigfish Manila Inc. BIGFISH Hospitality with its resorts in Boracay and El Nido, <br> though with a different concept, he dreamed of creating a total mind and body experience superior to any in existence way back in 2004.

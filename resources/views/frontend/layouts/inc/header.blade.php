@@ -37,6 +37,29 @@
                     </ul>
                     <!--================ End of Sub Menu ================-->
                 </li>
+                <li class="menu-item menu-item-has-children">
+                    <a href="#">Accommodation</a>
+                    <!--================ Sub Menu ================-->
+                    <ul class="sub-menu">
+                        <li class="menu-item">
+                            <a href="{{ route('villas') }}">Villas</a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="{{ route('villa-amenities') }}">Villa Amenities</a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="{{ route('resort-services-or-amenities') }}">Resort Services / Amenities </a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="{{ route('make-it-romantic') }}">Make it Romantic</a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="{{ route('birthday-setup') }}">Birthday Setup</a>
+                        </li>
+
+                    </ul>
+                    <!--================ End of Sub Menu ================-->
+                </li>
                 </ul>
             </nav>
             <!--================ End of Navigation ================-->
