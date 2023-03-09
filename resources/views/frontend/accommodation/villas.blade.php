@@ -180,7 +180,7 @@
                         <h4 class="mad-title text-center">
                             Shakti Single Dome Pool Villa
                         </h4>
-                        <div data-isotope-layout="masonry" data-isotope-filter="#portfolio-filter" class="mad-gallery item-col-3 mad-grid--isotope">
+                        <div data-isotope-layout="masonry" class="mad-gallery item-col-3 mad-grid--isotope g2">
                             <div class="mad-grid-sizer"></div>
                             <div class="mad-grid-item">
                                 <!--================ Gallery Item ================-->
@@ -256,7 +256,7 @@
                         <h4 class="mad-title text-center">
                             Ananda Single Dome Pool Villa
                         </h4>
-                        <div data-isotope-layout="masonry" data-isotope-filter="#portfolio-filter" class="mad-gallery item-col-3 mad-grid--isotope">
+                        <div data-isotope-layout="masonry" class="mad-gallery item-col-3 mad-grid--isotope g3">
                             <div class="mad-grid-sizer"></div>
                             <div class="mad-grid-item">
                                 <!--================ Gallery Item ================-->
@@ -332,7 +332,7 @@
                         <h4 class="mad-title text-center">
                             Prana Single Dome Pool Villa
                         </h4>
-                        <div data-isotope-layout="masonry" data-isotope-filter="#portfolio-filter" class="mad-gallery item-col-3 mad-grid--isotope">
+                        <div data-isotope-layout="masonry" class="mad-gallery item-col-3 mad-grid--isotope g4">
                             <div class="mad-grid-sizer"></div>
                             <div class="mad-grid-item">
                                 <!--================ Gallery Item ================-->
@@ -408,7 +408,7 @@
                         <h4 class="mad-title text-center">
                             Mandala Single Dome Pool Villa
                         </h4>
-                        <div data-isotope-layout="masonry" data-isotope-filter="#portfolio-filter" class="mad-gallery item-col-3 mad-grid--isotope">
+                        <div data-isotope-layout="masonry" class="mad-gallery item-col-3 mad-grid--isotope g5">
                             <div class="mad-grid-sizer"></div>
                             <div class="mad-grid-item">
                                 <!--================ Gallery Item ================-->

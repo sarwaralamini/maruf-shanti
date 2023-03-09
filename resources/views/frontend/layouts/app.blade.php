@@ -105,10 +105,30 @@
   <script type="text/javascript" src="{{ asset('assets/vendors/revolution/js/extensions/revolution.extension.navigation.min.js') }}"></script>
   <script>
     $('.mad-grid--isotope').isotope({
-  // options
-  itemSelector: '.mad-grid-item',
-  layoutMode: 'masonry',
-});
+        // options
+        itemSelector: '.mad-grid-item',
+        layoutMode: 'masonry',
+    });
+    $('.g2').isotope({
+        // options
+        itemSelector: '.mad-grid-item',
+        layoutMode: 'masonry',
+    });
+    $('.g3').isotope({
+        // options
+        itemSelector: '.mad-grid-item',
+        layoutMode: 'masonry',
+    });
+    $('.g4').isotope({
+        // options
+        itemSelector: '.mad-grid-item',
+        layoutMode: 'masonry',
+    });
+    $('.g5').isotope({
+        // options
+        itemSelector: '.mad-grid-item',
+        layoutMode: 'masonry',
+    });
   </script>
 </body>
 
