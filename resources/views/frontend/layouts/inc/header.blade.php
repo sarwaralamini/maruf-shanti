@@ -9,57 +9,81 @@
             <!--================ Navigation ================-->
             <nav class="mad-navigation-container">
                 <ul class="mad-navigation mad-navigation--vertical-sm">
-                <li class="menu-item current-menu-item">
-                    <a href="{{ route('homepage') }}">Home</a>
-                </li>
-                <li class="menu-item menu-item-has-children">
-                    <a href="#">About</a>
-                    <!--================ Sub Menu ================-->
-                    <ul class="sub-menu">
-                        <li class="menu-item">
-                            <a href="{{ route('holistic-escapes') }}">Holistic Escapes</a>
-                        </li>
-                        <li class="menu-item">
-                            <a href="{{ route('shanti-concept') }}">Shanti Concept</a>
-                        </li>
-                        <li class="menu-item">
-                            <a href="{{ route('serenity-and-discovery') }}">Serenity and Discovery</a>
-                        </li>
-                        <li class="menu-item">
-                            <a href="{{ route('history') }}">History</a>
-                        </li>
-                        <li class="menu-item">
-                            <a href="{{ route('sustainability') }}">Sustainability</a>
-                        </li>
-                        <li class="menu-item">
-                            <a href="{{ route('our-vision') }}">Our Vision</a>
-                        </li>
-                    </ul>
-                    <!--================ End of Sub Menu ================-->
-                </li>
-                <li class="menu-item menu-item-has-children">
-                    <a href="#">Accommodation</a>
-                    <!--================ Sub Menu ================-->
-                    <ul class="sub-menu">
-                        <li class="menu-item">
-                            <a href="{{ route('villas') }}">Villas</a>
-                        </li>
-                        <li class="menu-item">
-                            <a href="{{ route('villa-amenities') }}">Villa Amenities</a>
-                        </li>
-                        <li class="menu-item">
-                            <a href="{{ route('resort-services-or-amenities') }}">Resort Services / Amenities </a>
-                        </li>
-                        <li class="menu-item">
-                            <a href="{{ route('make-it-romantic') }}">Make it Romantic</a>
-                        </li>
-                        <li class="menu-item">
-                            <a href="{{ route('birthday-setup') }}">Birthday Setup</a>
-                        </li>
+                    <li class="menu-item current-menu-item">
+                        <a href="{{ route('homepage') }}">Home</a>
+                    </li>
+                    <li class="menu-item menu-item-has-children">
+                        <a href="#">About</a>
+                        <!--================ Sub Menu ================-->
+                        <ul class="sub-menu">
+                            <li class="menu-item">
+                                <a href="{{ route('holistic-escapes') }}">Holistic Escapes</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="{{ route('shanti-concept') }}">Shanti Concept</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="{{ route('serenity-and-discovery') }}">Serenity and Discovery</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="{{ route('history') }}">History</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="{{ route('sustainability') }}">Sustainability</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="{{ route('our-vision') }}">Our Vision</a>
+                            </li>
+                        </ul>
+                        <!--================ End of Sub Menu ================-->
+                    </li>
+                    <li class="menu-item menu-item-has-children">
+                        <a href="#">Accommodation</a>
+                        <!--================ Sub Menu ================-->
+                        <ul class="sub-menu">
+                            <li class="menu-item">
+                                <a href="{{ route('villas') }}">Villas</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="{{ route('villa-amenities') }}">Villa Amenities</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="{{ route('resort-services-or-amenities') }}">Resort Services / Amenities </a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="{{ route('make-it-romantic') }}">Make it Romantic</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="{{ route('birthday-setup') }}">Birthday Setup</a>
+                            </li>
 
-                    </ul>
-                    <!--================ End of Sub Menu ================-->
-                </li>
+                        </ul>
+                        <!--================ End of Sub Menu ================-->
+                    </li>
+
+                    <li class="menu-item menu-item-has-children">
+                        <a href="#">WELLNESS</a>
+                        <!--================ Sub Menu ================-->
+                        <ul class="sub-menu">
+                            <li class="menu-item">
+                                <a href="{{ route('wellness-village') }}">Wellness Village</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="{{ route('activities') }}">Activities</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="{{ route('resort-services-or-amenities') }}">Spa Village</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="{{ route('make-it-romantic') }}">Spa& Bath Menu</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="{{ route('birthday-setup') }}">Packages</a>
+                            </li>
+
+                        </ul>
+                        <!--================ End of Sub Menu ================-->
+                    </li>
                 </ul>
             </nav>
             <!--================ End of Navigation ================-->

@@ -61,6 +61,17 @@ Route::get('accommodation/birthday-setup', function () {
     return view('frontend.accommodation.birthday-setup');
 })->name('birthday-setup');
 
+//WELLNESS ROUTES
+Route::get('wellness/wellness-village', function () {
+    return view('frontend.wellness.wellness-village');
+})->name('wellness-village');
+
+Route::get('wellness/activities', function () {
+    return view('frontend.wellness.activities');
+})->name('activities');
+
+
+
 
 
 

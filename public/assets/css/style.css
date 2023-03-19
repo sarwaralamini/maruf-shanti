@@ -1544,8 +1544,8 @@ html.with-src-menu .mad-header.header-5 .mad-header-section--sticky-xl {
 
 .mad-breadcrumb.with-bg-img {
     background-size: cover;
-    padding-top: 12.75rem;
-    padding-bottom: 12.75rem;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
     background-repeat: no-repeat;
     color: var(--color-neutral-15);
 }
