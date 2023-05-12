@@ -70,6 +70,18 @@ Route::get('wellness/activities', function () {
     return view('frontend.wellness.activities');
 })->name('activities');
 
+Route::get('wellness/spa-village', function () {
+    return view('frontend.wellness.spa-village');
+})->name('spa-village');
+
+Route::get('wellness/spa-and-bath-menu', function () {
+    return view('frontend.wellness.spa-and-bath-menu');
+})->name('spa-and-bath-menu');
+
+Route::get('healthy-living', function () {
+    return view('frontend.healthy-living');
+})->name('healthy-living');
+
 
 
 

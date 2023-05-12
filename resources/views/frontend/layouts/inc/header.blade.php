@@ -72,24 +72,82 @@
                                 <a href="{{ route('activities') }}">Activities</a>
                             </li>
                             <li class="menu-item">
-                                <a href="{{ route('resort-services-or-amenities') }}">Spa Village</a>
+                                <a href="{{ route('spa-village') }}">Spa Village</a>
                             </li>
                             <li class="menu-item">
-                                <a href="{{ route('make-it-romantic') }}">Spa& Bath Menu</a>
+                                <a href="{{ route('spa-and-bath-menu') }}">Spa & Bath Menu</a>
                             </li>
-                            <li class="menu-item">
-                                <a href="{{ route('birthday-setup') }}">Packages</a>
-                            </li>
-
                         </ul>
                         <!--================ End of Sub Menu ================-->
+                    </li>
+
+                    <li class="menu-item">
+                        <a href="{{ route('healthy-living') }}">Healthy Living</a>
+                    </li>
+
+                    <li class="menu-item menu-item-has-children">
+                        <a href="#">EVENTS / MEETINGS</a>
+                        <!--================ Sub Menu ================-->
+                        <ul class="sub-menu">
+                            <li class="menu-item">
+                                <a href="#">Celebrate</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="#">Meeting, Wellness Team Building For Company</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="#">Wedding in Shanti</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="#">Prenup Packages</a>
+                            </li>
+                        </ul>
+                        <!--================ End of Sub Menu ================-->
+                    </li>
+
+                    <li class="menu-item menu-item-has-children">
+                        <a href="#">DINING</a>
+                        <!--================ Sub Menu ================-->
+                        <ul class="sub-menu">
+                            <li class="menu-item">
+                                <a href="#">Private Dining</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="#">Romantic Dining</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="#">Bohemian Dining</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="#">Glam Picnic</a>
+                            </li>
+                        </ul>
+                        <!--================ End of Sub Menu ================-->
+                    </li>
+
+                    <li class="menu-item menu-item-has-children">
+                        <a href="#">CONTACT</a>
+                        <!--================ Sub Menu ================-->
+                        <ul class="sub-menu">
+                            <li class="menu-item">
+                                <a href="#">Location</a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="#">Contact Us</a>
+                            </li>
+                        </ul>
+                        <!--================ End of Sub Menu ================-->
+                    </li>
+
+                    <li class="menu-item">
+                        <a href="#">NEARBY ATTRACTIONS</a>
                     </li>
                 </ul>
             </nav>
             <!--================ End of Navigation ================-->
             <div class="mad-actions">
                 <div class="mad-col">
-                <a href="rooms_top_3_col_gallery_v2.html" class="btn">Book Now</a>
+                <a href="https://bit.ly/32Ymmwo" class="btn">Book Now</a>
                 </div>
             </div>
             </div>
