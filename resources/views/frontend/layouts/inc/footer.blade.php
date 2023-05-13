@@ -3,125 +3,63 @@
 <div class="mad-footer-main">
     <div class="container-fluid">
     <div class="row justify-content-between vr-size-2">
+
+
         <div class="col-xl-3 col-lg-4 col-md-6">
         <!--================ Widget ================-->
         <section class="mad-widget">
-            <h6 class="mad-widget-title">Current Weather</h6>
-            <div class="mad-footer-subtitle">zanzibar, Tanzania</div>
-            <div class="mad-weather-section">
-            <div class="mad-weather-icon">
-                <img src="royal_beach_resort_svg/sun.svg" alt="" class="svg" />
-            </div>
-            <div class="mad-weather-temp">
-                <span class="mad-weather-num">35</span>
-                <span class="mad-weather-let">°C / °F</span>
-            </div>
-            </div>
-        </section>
-        <!--================ End of Widget ================-->
-        </div>
-        <div class="col-xl-6 col-lg-12">
-        <!--================ Widget ================-->
-        <section class="mad-widget">
-            <h6 class="mad-widget-title">Newsletter Sign Up</h6>
-            <form class="mad-newsletter-form one-line">
-            <div class="mad-col">
-                <div class="mad-footer-subtitle"> Sign up for news and special offers </div>
-                <input type="email" name="email" placeholder="Enter Email Address" />
-            </div>
-            <div class="mad-col">
-                <button type="submit" class="btn btn-huge btn-style-3"> Subscribe </button>
-            </div>
-            </form>
-        </section>
-        <!--================ End of Widget ================-->
-        </div>
-        <div class="col-xl-3 col-lg-4 col-md-6">
-        <!--================ Widget ================-->
-        <section class="mad-widget">
-            <h6 class="mad-widget-title">Stay Connected</h6>
-            <div class="mad-footer-subtitle"> Follow us on social media channels </div>
-            <div class="mad-social-icons">
-            <ul>
-                <li>
-                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                </li>
-                <li>
-                <a href="#"><i class="fab fa-instagram"></i></a>
-                </li>
-                <li>
-                <a href="#"><i class="fab fa-twitter"></i></a>
-                </li>
-                <li>
-                <a href="#"><i class="fab fa-tripadvisor"></i></a>
-                </li>
-            </ul>
-            </div>
-        </section>
-        <!--================ End of Widget ================-->
-        </div>
-        <div class="col-xl-3 col-lg-4 col-md-6">
-        <!--================ Widget ================-->
-        <section class="mad-widget">
-            <a href="index.html" class="mad-logo"><img src="{{ asset('assets/images/logo2.png') }}" alt="" /></a>
+            <h6 class="mad-widget-title">Payments</h6>
+            <p class="content-element-4">
+                We accept credit/debit card.
+            </p>
+            <h6 class="mad-widget-title">
+                For bank payments:
+            </h6>
+            <p class="content-element-4">
+                <b>Account name:</b> BIGFISH MANILA INC <br>
+                <b>Metro Bank Account number:</b> 215-3-21519560-1 <br>
+                <b>Banco De Oro Account number:</b> 0000-503-175-63 <br>
+                <b>Bank of the Philippine Islands Account number:</b> 4403-0376-19
+            </p>
+
+
         </section>
         <!--================ End of Widget ================-->
         </div>
         <div class="col-xl-4 col-lg-4 col-md-6">
         <!--================ Widget ================-->
         <section class="mad-widget">
-            <h6 class="mad-widget-title">About</h6>
-            <p class="content-element-4"> Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer
-            rutrum ante eu lacus.Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus
-            eget nibh. Etiam cursus leo vel metus. </p>
-            <div class="btn-set mad-logos">
-            <a href="#"><img src="images/logo-img1.png" alt="" /></a>
-            <a href="#"><img src="images/logo-img3.png" alt="" /></a>
-            <a href="#"><img src="images/logo-img2.png" alt="" /></a>
-            </div>
+            <h6 class="mad-widget-title">Privacy Policy</h6>
+            <p class="content-element-4">
+                <b>Refund & Cancellation Policy</b><br>
+                All booking are under non-refundable policy.<br>
+                **Thirty days advance notice is required except for emergency situations such as:
+                <div class="mad-list-content">
+                    <ul class="mad-list--icon">
+                        <li><i class="icon material-icons">check</i>Sudden govt declared lockdown</li>
+                        <li><i class="icon material-icons">check</i>Positive covid, health reasons with medical proof</li>
+                        <li><i class="icon material-icons">check</i>Sudden flight cancellation by airlines. </li>
+                    </ul>
+                </div>
+                <br>
+                *Booking is transferable with 30 days prior conformity but strictly non-refundable.<br>
+                * Rate difference may apply when changed to high or peak season, however no refund or credit will be issued when changed to low season.<br>
+                * Subject to villa availability.
+            </p>
         </section>
         <!--================ End of Widget ================-->
         </div>
         <div class="col-xl-2 col-lg-4 col-md-6">
         <!--================ Widget ================-->
         <section class="mad-widget">
-            <h6 class="mad-widget-title">Menu</h6>
-            <div class="mad-vr-list menu">
-            <ul>
-                <li>
-                <a href="pages_about.html" class="mad-text-link">
-                    <div class="link-container">
-                    <span class="link-title1 title">About</span>
-                    <span class="link-title2 title">About</span>
-                    </div>
-                </a>
-                </li>
-                <li>
-                <a href="pages_offers.html" class="mad-text-link">
-                    <div class="link-container">
-                    <span class="link-title1 title">Special Offers</span>
-                    <span class="link-title2 title">Special Offers</span>
-                    </div>
-                </a>
-                </li>
-                <li>
-                <a href="blog_classic_sidebar.html" class="mad-text-link">
-                    <div class="link-container">
-                    <span class="link-title1 title">News</span>
-                    <span class="link-title2 title">News</span>
-                    </div>
-                </a>
-                </li>
-                <li>
-                <a href="pages_contact_v1.html" class="mad-text-link">
-                    <div class="link-container">
-                    <span class="link-title1 title">Contact Us</span>
-                    <span class="link-title2 title">Contact Us</span>
-                    </div>
-                </a>
-                </li>
-            </ul>
-            </div>
+            <h6 class="mad-widget-title">Work With Us</h6>
+            Please send resume to this email address:
+            <a href="#" class="mad-link">hr@bigfish.ph</a>
+
+            <h6 class="mad-widget-title">Partner With Us</h6>
+            <p>
+                Shanti Academy
+            </p>
         </section>
         <!--================ End of Widget ================-->
         </div>
@@ -131,12 +69,11 @@
             <h6 class="mad-widget-title">Contact Us</h6>
             <div class="mad-vr-list">
             <ul>
-                <li>7 Rue Caulaincourt, 75018 Zanzibar, Tanzania</li>
-                <li><b>Phone:</b> +1 800 603 6035 (Viber, WhatsApp)</li>
-                <li><b>Fax:</b> +1 800 889 9898</li>
+                <li>Manila Sales and Reservations: 9am to 4pm</li>
+                <li><b>Phone:</b> (0920) 972 3346</li>
                 <li>
                 <b>Email:</b>
-                <a href="#" class="mad-link">mail@companyname.com</a>
+                <a href="#" class="mad-link">life@shanti.ph</a>
                 </li>
             </ul>
             </div>
@@ -145,7 +82,7 @@
         </div>
     </div>
     <div class="mad-footer-bottom">
-        <p class="copyrights align-center"> Copyright © 2021 <a href="#">Hôtel Privé</a>. All Rights Reserved. </p>
+        <p class="copyrights align-center"> Copyright © {{ date('Y') }} <a href="#">BIGFISH HOSPITALITY GROUP</a>. All Rights Reserved. </p>
     </div>
     </div>
 </div>

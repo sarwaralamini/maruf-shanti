@@ -82,6 +82,57 @@ Route::get('healthy-living', function () {
     return view('frontend.healthy-living');
 })->name('healthy-living');
 
+Route::get('events-meetings/celebrate', function () {
+    return view('frontend.events-meetings.celebrate');
+})->name('celebrate');
+
+Route::get('events-meetings/meeting-wellness-team-building-for-company', function () {
+    return view('frontend.events-meetings.meeting-wellness-team-building-for-company');
+})->name('meeting-wellness-team-building-for-company');
+
+Route::get('events-meetings/wedding-in-shanti', function () {
+    return view('frontend.events-meetings.wedding-in-shanti');
+})->name('wedding-in-shanti');
+
+Route::get('events-meetings/prenup-packages', function () {
+    return view('frontend.events-meetings.prenup-packages');
+})->name('prenup-packages');
+
+Route::get('dining/private-dining', function () {
+    return view('frontend.dining.private-dining');
+})->name('dining.private-dining');
+
+Route::get('dining/romantic-dining', function () {
+    return view('frontend.dining.romantic-dining');
+})->name('dining.romantic-dining');
+
+Route::get('dining/bohemian-dining', function () {
+    return view('frontend.dining.bohemian-dining');
+})->name('dining.bohemian-dining');
+
+Route::get('dining/glam-picnic', function () {
+    return view('frontend.dining.glam-picnic');
+})->name('dining.glam-picnic');
+
+Route::get('contact/location', function () {
+    return view('frontend.contact.location');
+})->name('contact.location');
+
+Route::get('contact/contact-us', function () {
+    return view('frontend.contact.contact-us');
+})->name('contact.contact-us');
+
+Route::get('nearby-attractions', function () {
+    return view('frontend.nearby-attractions');
+})->name('nearby-attractions');
+
+
+
+
+
+
+
+
 
 
 

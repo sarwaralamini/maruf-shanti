@@ -90,16 +90,16 @@
                         <!--================ Sub Menu ================-->
                         <ul class="sub-menu">
                             <li class="menu-item">
-                                <a href="#">Celebrate</a>
+                                <a href="{{ route('celebrate') }}">Celebrate</a>
                             </li>
                             <li class="menu-item">
-                                <a href="#">Meeting, Wellness Team Building For Company</a>
+                                <a href="{{ route('meeting-wellness-team-building-for-company') }}">Meeting, Wellness Team Building For Company</a>
                             </li>
                             <li class="menu-item">
-                                <a href="#">Wedding in Shanti</a>
+                                <a href="{{ route('wedding-in-shanti') }}">Wedding in Shanti</a>
                             </li>
                             <li class="menu-item">
-                                <a href="#">Prenup Packages</a>
+                                <a href="{{ route('prenup-packages') }}">Prenup Packages</a>
                             </li>
                         </ul>
                         <!--================ End of Sub Menu ================-->
@@ -110,16 +110,16 @@
                         <!--================ Sub Menu ================-->
                         <ul class="sub-menu">
                             <li class="menu-item">
-                                <a href="#">Private Dining</a>
+                                <a href="{{ route('dining.private-dining') }}">Private Dining</a>
                             </li>
                             <li class="menu-item">
-                                <a href="#">Romantic Dining</a>
+                                <a href="{{ route('dining.romantic-dining') }}">Romantic Dining</a>
                             </li>
                             <li class="menu-item">
-                                <a href="#">Bohemian Dining</a>
+                                <a href="{{ route('dining.bohemian-dining') }}">Bohemian Dining</a>
                             </li>
                             <li class="menu-item">
-                                <a href="#">Glam Picnic</a>
+                                <a href="{{ route('dining.glam-picnic') }}">Glam Picnic</a>
                             </li>
                         </ul>
                         <!--================ End of Sub Menu ================-->
@@ -130,17 +130,17 @@
                         <!--================ Sub Menu ================-->
                         <ul class="sub-menu">
                             <li class="menu-item">
-                                <a href="#">Location</a>
+                                <a href="{{ route('contact.location') }}">Location</a>
                             </li>
                             <li class="menu-item">
-                                <a href="#">Contact Us</a>
+                                <a href="{{ route('contact.contact-us') }}">Contact Us</a>
                             </li>
                         </ul>
                         <!--================ End of Sub Menu ================-->
                     </li>
 
                     <li class="menu-item">
-                        <a href="#">NEARBY ATTRACTIONS</a>
+                        <a href="{{ route('nearby-attractions') }}">NEARBY ATTRACTIONS</a>
                     </li>
                 </ul>
             </nav>

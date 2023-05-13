@@ -45,6 +45,7 @@
     rel="stylesheet" />
   <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}" />
   <link rel="stylesheet" href="{{ asset('assets/css/animate.min.css') }}" />
+  <link rel="stylesheet" href="{{ asset('assets/css/fontawesome-all.min.css') }}" />
   <link rel="stylesheet" href="{{ asset('assets/vendors/arcticmodal/jquery.arcticmodal-0.3.css') }}" />
   <link rel="stylesheet" href="{{ asset('assets/vendors/owl-carousel/assets/owl.carousel.min.css') }}" />
   <link rel="stylesheet" href="{{ asset('assets/vendors/revolution/css/settings.css') }}" />
@@ -55,6 +56,7 @@
   <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}" />
   <link rel="stylesheet" href="{{ asset('assets/css/date.css') }}" />
   <link rel="stylesheet" href="{{ asset('assets/css/responsive.css') }}" />
+
   <!--================ Vendor JS ================-->
 </head>
 
