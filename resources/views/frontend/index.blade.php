@@ -53,7 +53,7 @@
           <!--================ Layer ================-->
           <div data-start="0" data-x="center" data-y="center" data-voffset="['120', '120', '120', '120']"
             data-width="['98%', '98%', '98%', '98%']" data-textAlign="['center']" class="tp-caption tp-resizeme">
-            <a href="pages_offers.html" class="btn btn-huge">Discover More</a>
+            <a href="#" class="btn btn-huge">Discover More</a>
           </div>
           <!--================ End of Layer ================-->
         </li>
@@ -79,7 +79,7 @@
           <!--================ Layer ================-->
           <div data-start="0" data-x="center" data-y="center" data-voffset="['120', '120', '120', '120']"
             data-width="['98%', '98%', '98%', '98%']" data-textAlign="['center']" class="tp-caption tp-resizeme">
-            <a href="pages_offers.html" class="btn btn-huge">Discover More</a>
+            <a href="#" class="btn btn-huge">Discover More</a>
           </div>
           <!--================ End of Layer ================-->
         </li>
@@ -105,7 +105,7 @@
           <!--================ Layer ================-->
           <div data-start="0" data-x="center" data-y="center" data-voffset="['120', '120', '120', '120']"
             data-width="['98%', '98%', '98%', '98%']" data-textAlign="['center']" class="tp-caption tp-resizeme">
-            <a href="pages_offers.html" class="btn btn-huge">Discover More</a>
+            <a href="#" class="btn btn-huge">Discover More</a>
           </div>
           <!--================ End of Layer ================-->
         </li>
@@ -155,7 +155,7 @@
         <!--================ Icon Boxes ================-->
         <div class="mad-icon-boxes grid-type hr-type item-col-4 no-gutters">
           <!--================ Icon Box ================-->
-          <a href="pages_services.html" class="mad-icon-box">
+          <a href="#" class="mad-icon-box">
             <div class="mad-icon-box-content">
               <h6 class="mad-icon-box-title"> 01. <br /> Airport Transfer </h6>
               <p> Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna.
@@ -164,7 +164,7 @@
           </a>
           <!--================ End of Icon Box ================-->
           <!--================ Icon Box ================-->
-          <a href="pages_services.html" class="mad-icon-box" data-bg-image-src="{{ asset('assets/img/448x448_img1.jpg') }}">
+          <a href="#" class="mad-icon-box" data-bg-image-src="{{ asset('assets/img/448x448_img1.jpg') }}">
             <div class="back-side">
               <i class="mad-icon-box-icon">
                 <svg xmlns="http://www.w3.org/2000/svg" width="98" height="98" viewBox="0 0 98 98" fill="none" class="svg replaced-svg">
@@ -175,7 +175,7 @@
           </a>
           <!--================ End of Icon Box ================-->
           <!--================ Icon Box ================-->
-          <a href="pages_services.html" class="mad-icon-box">
+          <a href="#" class="mad-icon-box">
             <div class="mad-icon-box-content">
               <h6 class="mad-icon-box-title"> 02. <br /> Free Wi-Fi </h6>
               <p> Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. </p>
@@ -183,7 +183,7 @@
           </a>
           <!--================ End of Icon Box ================-->
           <!--================ Icon Box ================-->
-          <a href="pages_services.html" class="mad-icon-box" data-bg-image-src="{{ asset('assets/img/448x448_img1.jpg') }}">
+          <a href="#" class="mad-icon-box" data-bg-image-src="{{ asset('assets/img/448x448_img1.jpg') }}">
             <div class="back-side">
               <i class="mad-icon-box-icon">
                 <svg xmlns="http://www.w3.org/2000/svg" width="98" height="98" viewBox="0 0 98 98" fill="none" class="svg replaced-svg">
@@ -205,7 +205,7 @@
               grid-reverse
             ">
           <!--================ Icon Box ================-->
-          <a href="pages_services.html" class="mad-icon-box">
+          <a href="#" class="mad-icon-box">
             <div class="mad-icon-box-content">
               <h6 class="mad-icon-box-title"> 04. <br /> King Size </h6>
               <p> Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur.
@@ -214,7 +214,7 @@
           </a>
           <!--================ End of Icon Box ================-->
           <!--================ Icon Box ================-->
-          <a href="pages_services.html" class="mad-icon-box" data-bg-image-src="{{ asset('assets/img/448x448_img2.jpg') }}">
+          <a href="#" class="mad-icon-box" data-bg-image-src="{{ asset('assets/img/448x448_img2.jpg') }}">
             <div class="back-side">
               <i class="mad-icon-box-icon">
                 <svg xmlns="http://www.w3.org/2000/svg" width="98" height="98" viewBox="0 0 98 98" fill="none" class="svg replaced-svg">
@@ -225,7 +225,7 @@
           </a>
           <!--================ End of Icon Box ================-->
           <!--================ Icon Box ================-->
-          <a href="pages_services.html" class="mad-icon-box">
+          <a href="#" class="mad-icon-box">
             <div class="mad-icon-box-content">
               <h6 class="mad-icon-box-title"> 03. <br /> Wellness </h6>
               <p> Aliquam erat volutpat. Duis ac turpis. Donec sit amet eros. Lorem ipsum dolor sit amet,
@@ -234,7 +234,7 @@
           </a>
           <!--================ End of Icon Box ================-->
           <!--================ Icon Box ================-->
-          <a href="pages_services.html" class="mad-icon-box" data-bg-image-src="{{ asset('assets/img/448x448_img2.jpg') }}">
+          <a href="#" class="mad-icon-box" data-bg-image-src="{{ asset('assets/img/448x448_img2.jpg') }}">
             <div class="back-side">
               <i class="mad-icon-box-icon">
                 <svg xmlns="http://www.w3.org/2000/svg" width="130" height="130" viewBox="0 0 130 130" fill="none" class="svg replaced-svg">
@@ -256,14 +256,14 @@
           ">
         <div class="mad-colorizer-bg-color">
           <div class="mad-section-svg to-left-2">
-            <img src="royal_beach_resort_svg/leaves_bg5.svg" alt="" />
+            <img src="{{ asset('assets/img/leaves_bg5.svg') }}" alt="" />
           </div>
         </div>
         <div class="content-element-main">
           <!--================ Icon Boxes ================-->
           <div class="mad-icon-boxes grid-type hr-type item-col-4 no-gutters">
             <!--================ Icon Box ================-->
-            <a href="pages_services.html" class="mad-icon-box">
+            <a href="#" class="mad-icon-box">
               <div class="mad-icon-box-content">
                 <h6 class="mad-icon-box-title"> 05. <br /> Room Service </h6>
                 <p> Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit agna,endrerit sit
@@ -272,7 +272,7 @@
             </a>
             <!--================ End of Icon Box ================-->
             <!--================ Icon Box ================-->
-            <a href="pages_services.html" class="mad-icon-box empty-item" data-bg-image-src="{{ asset('assets/img/448x448_img4.jpg') }}">
+            <a href="#" class="mad-icon-box empty-item" data-bg-image-src="{{ asset('assets/img/448x448_img4.jpg') }}">
               <div class="back-side">
                 <i class="mad-icon-box-icon">
                     <svg xmlns="http://www.w3.org/2000/svg" width="98" height="98" viewBox="0 0 98 98" fill="none" class="svg replaced-svg">
@@ -283,7 +283,7 @@
             </a>
             <!--================ End of Icon Box ================-->
             <!--================ Icon Box ================-->
-            <a href="pages_services.html" class="mad-icon-box">
+            <a href="#" class="mad-icon-box">
               <div class="mad-icon-box-content">
                 <h6 class="mad-icon-box-title"> 06. <br /> Restaurant & Bar </h6>
                 <p> Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,nsectetur, adipisci. </p>
@@ -291,7 +291,7 @@
             </a>
             <!--================ End of Icon Box ================-->
             <!--================ Icon Box ================-->
-            <a href="pages_services.html" class="mad-icon-box" data-bg-image-src="{{ asset('assets/img/448x448_img4.jpg') }}">
+            <a href="#" class="mad-icon-box" data-bg-image-src="{{ asset('assets/img/448x448_img4.jpg') }}">
               <div class="back-side">
                 <i class="mad-icon-box-icon">
                     <svg xmlns="http://www.w3.org/2000/svg" width="130" height="130" viewBox="0 0 130 130" fill="none" class="svg replaced-svg">
@@ -342,7 +342,7 @@
               <!--================ Entity ================-->
               <article class="mad-entity">
                 <div class="mad-entity-media mad-owl-center-img">
-                  <a href="rooms_single_carousel.html"><img src="images/880x704_img2.jpg" alt="" /></a>
+                  <a href="#"><img src="{{ asset('assets/img/slider_2/880x704_img2.jpg') }}" alt="" /></a>
                 </div>
                 <div class="mad-entity-content mad-owl-center-element">
                   <h4 class="mad-entity-title">Superior Single Room</h4>
@@ -355,8 +355,8 @@
                       <span class="mad-pricing-value-num">$199/<span>night</span></span>
                     </div>
                     <div class="btn-set justify-content-center">
-                      <a href="rooms_single_image_sidebar.html" class="btn btn-big">Book Now</a>
-                      <a href="rooms_single_slider_sidebar.html" class="btn btn-big style-2">Details</a>
+                      <a href="#" class="btn btn-big">Book Now</a>
+                      <a href="#" class="btn btn-big style-2">Details</a>
                     </div>
                   </div>
                 </div>
@@ -369,7 +369,7 @@
               <!--================ Entity ================-->
               <article class="mad-entity">
                 <div class="mad-entity-media mad-owl-center-img">
-                  <a href="#"><img src="images/880x704_img3.jpg" alt="" /></a>
+                  <a href="#"><img src="{{ asset('assets/img/slider_2/880x704_img3.jpg') }}" alt="" /></a>
                 </div>
                 <div class="mad-entity-content mad-owl-center-element">
                   <h4 class="mad-entity-title">Superior Double Room</h4>
@@ -382,7 +382,7 @@
                       <span class="mad-pricing-value-num">$199/<span>night</span></span>
                     </div>
                     <div class="btn-set justify-content-center">
-                      <a href="rooms_single_image_sidebar.html" class="btn btn-big">Book Now</a>
+                      <a href="#" class="btn btn-big">Book Now</a>
                       <a href="rooms_single_slider_sidebar.html" class="btn btn-big style-2">Details</a>
                     </div>
                   </div>
@@ -396,7 +396,7 @@
               <!--================ Entity ================-->
               <article class="mad-entity">
                 <div class="mad-entity-media mad-owl-center-img">
-                  <a href="#"><img src="images/880x704_img4.jpg" alt="" /></a>
+                  <a href="#"><img src="{{ asset('assets/img/slider_2/880x704_img4.jpg') }}" alt="" /></a>
                 </div>
                 <div class="mad-entity-content mad-owl-center-element">
                   <h4 class="mad-entity-title">Superior Single Room</h4>
@@ -409,7 +409,7 @@
                       <span class="mad-pricing-value-num">$199/<span>night</span></span>
                     </div>
                     <div class="btn-set justify-content-center">
-                      <a href="rooms_single_image_sidebar.html" class="btn btn-big">Book Now</a>
+                      <a href="#" class="btn btn-big">Book Now</a>
                       <a href="rooms_single_slider_sidebar.html" class="btn btn-big style-2">Details</a>
                     </div>
                   </div>
@@ -459,14 +459,14 @@
               <!--================ Entity ================-->
               <article class="mad-entity">
                 <div class="mad-entity-media">
-                  <a href="blog_single_sidebar.html"><img src="images/576x728_img1.jpg" alt="" /></a>
+                  <a href="blog_single_sidebar.html"><img src="{{ asset('assets/img/slider_3/576x728_img1.jpg') }}" alt="" /></a>
                 </div>
                 <div class="mad-entity-content">
                   <h4 class="mad-entity-title">Romantic Getaway</h4>
                   <p> Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit.
                     Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus.
                   </p>
-                  <a href="pages_services.html#" class="mad-text-link">
+                  <a href="##" class="mad-text-link">
                     <div class="link-container">
                       <span class="link-title1 title">Discover More</span>
                       <span class="link-title2 title">Discover More</span>
@@ -480,14 +480,14 @@
               <!--================ Entity ================-->
               <article class="mad-entity">
                 <div class="mad-entity-media">
-                  <a href="blog_single_sidebar.html"><img src="images/576x728_img2.jpg" alt="" /></a>
+                  <a href="blog_single_sidebar.html"><img src="{{ asset('assets/img/slider_3/576x728_img2.jpg') }}" alt="" /></a>
                 </div>
                 <div class="mad-entity-content">
                   <h4 class="mad-entity-title">Diving & Snorkeling</h4>
                   <p> Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit.
                     Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus.
                   </p>
-                  <a href="pages_services.html#" class="mad-text-link">
+                  <a href="##" class="mad-text-link">
                     <div class="link-container">
                       <span class="link-title1 title">Discover More</span>
                       <span class="link-title2 title">Discover More</span>
@@ -501,14 +501,14 @@
               <!--================ Entity ================-->
               <article class="mad-entity">
                 <div class="mad-entity-media">
-                  <a href="blog_single_sidebar.html"><img src="images/576x728_img3.jpg" alt="" /></a>
+                  <a href="blog_single_sidebar.html"><img src="{{ asset('assets/img/slider_3/576x728_img3.jpg') }}" alt="" /></a>
                 </div>
                 <div class="mad-entity-content">
                   <h4 class="mad-entity-title">For Body and Soul</h4>
                   <p> Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit.
                     Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus.
                   </p>
-                  <a href="pages_services.html#" class="mad-text-link">
+                  <a href="##" class="mad-text-link">
                     <div class="link-container">
                       <span class="link-title1 title">Discover More</span>
                       <span class="link-title2 title">Discover More</span>
@@ -564,149 +564,6 @@
           </div>
         </div>
         <!--================ End of Testimonials ================-->
-      </div>
-      <div class="
-            mad-section
-            no-pd
-            mad-section--stretched-content-no-px
-            mad-colorizer--scheme-
-          ">
-        <div class="
-              mad-entities mad-pricing
-              style-2
-              mad-grid
-              owl-carousel
-              mad-grid--cols-1
-              mad-owl-moving
-              nav-size-2
-              no-dots
-            ">
-          <div class="mad-col">
-            <div class="mad-section with-overlay mad-colorizer--scheme-" data-bg-image-src="images/1916x568_bg3.jpg">
-              <!--================ Entity ================-->
-              <article class="mad-entity">
-                <div class="mad-pre-title">Rates and Offers</div>
-                <h2 class="mad-entity-title">Honeymoon Package</h2>
-                <div class="mad-pricing-value">
-                  <span>From</span>
-                  <span class="mad-pricing-value-num">$973/</span>
-                  <span>stay</span>
-                </div>
-                <a href="pages_offers.html" class="btn btn-huge">Discover More</a>
-              </article>
-              <!--================ End of Entity ================-->
-            </div>
-          </div>
-          <div class="mad-col">
-            <div class="
-                  mad-section
-                  with-overlay
-                  mad-section--stretched
-                  mad-colorizer--scheme-
-                " data-bg-image-src="images/1916x568_bg1.jpg">
-              <!--================ Entity ================-->
-              <article class="mad-entity">
-                <div class="mad-pre-title">Rates and Offers</div>
-                <h2 class="mad-entity-title">Always Sunday</h2>
-                <div class="mad-pricing-value">
-                  <span>From</span>
-                  <span class="mad-pricing-value-num">$299/</span>
-                  <span>stay</span>
-                </div>
-                <a href="pages_offers.html" class="btn btn-huge">Discover More</a>
-              </article>
-              <!--================ End of Entity ================-->
-            </div>
-          </div>
-          <div class="mad-col">
-            <div class="mad-section with-overlay mad-colorizer--scheme-" data-bg-image-src="images/1916x568_bg2.jpg">
-              <!--================ Entity ================-->
-              <article class="mad-entity">
-                <div class="mad-pre-title">Rates and Offers</div>
-                <h2 class="mad-entity-title">E-Bike Sightseeing</h2>
-                <div class="mad-pricing-value">
-                  <span>From</span>
-                  <span class="mad-pricing-value-num">$99/</span>
-                  <span>stay</span>
-                </div>
-                <a href="pages_offers.html" class="btn btn-huge">Discover More</a>
-              </article>
-              <!--================ End of Entity ================-->
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="
-            mad-section mad-section--stretched
-            mad-colorizer--scheme-color-6 mad-colorizer--scheme-light
-          ">
-        <div class="row">
-          <div class="col-xxl-5">
-            <div class="mad-pre-title">Make Reservation</div>
-            <h2 class="mad-page-title">Book Your Stay</h2>
-          </div>
-          <div class="col-xxl-7">
-            <form class="mad-form mad-booking-form--style-1">
-              <div class="mad-form-row">
-                <div class="mad-form-col form-col--arrival-date">
-                  <div class="form-control">
-                    <label for="booking-form-arrival-date">Arrival Date</label><span class="mad-field-datepicker mad-field-datepicker--style-1"><span class="mad-field-datepicker-day">15</span><span class="mad-field-datepicker-others"><span class="mad-field-datepicker-month-year">April, 2022</span><span class="mad-field-datepicker-dayname">Monday</span></span></span>
-                    <input type="text" id="booking-form-arrival-date" name="booking-form-arrival-date" class="mad-datepicker mad-field-datepicker-invoker">
-                  </div>
-                </div>
-                <div class="mad-form-col form-col--arrival-date">
-                  <div class="form-control">
-                    <label for="booking-form-arrival-date">DEPARTURE DATE</label><span class="mad-field-datepicker mad-field-datepicker--style-1"><span class="mad-field-datepicker-day">27</span><span class="mad-field-datepicker-others"><span class="mad-field-datepicker-month-year">April, 2022</span><span class="mad-field-datepicker-dayname">Wednesday</span></span></span>
-                    <input type="text" id="booking-form-departure-date" name="booking-form-arrival-date" class="mad-datepicker mad-field-datepicker-invoker">
-                  </div>
-                </div>
-                <div class="mad-form-col short-col">
-                  <label>Adults</label>
-                  <div class="quantity">
-                    <input type="text" value="1" readonly="" />
-                    <button type="button" class="qty-plus">
-                      <i class="material-icons">keyboard_arrow_up</i>
-                    </button>
-                    <button type="button" class="qty-minus">
-                      <i class="material-icons">keyboard_arrow_down</i>
-                    </button>
-                  </div>
-                </div>
-                <div class="mad-form-col short-col">
-                  <label>children</label>
-                  <div class="quantity">
-                    <input type="text" value="0" readonly="" />
-                    <button type="button" class="qty-plus">
-                      <i class="material-icons">keyboard_arrow_up</i>
-                    </button>
-                    <button type="button" class="qty-minus">
-                      <i class="material-icons">keyboard_arrow_down</i>
-                    </button>
-                  </div>
-                </div>
-              </div>
-              <button type="submit" class="btn btn-huge"> Check Availability </button>
-            </form>
-          </div>
-        </div>
-      </div>
-      <div class="mad-section no-pd mad-section--stretched-content-no-px">
-        <div class="mad-instafeed">
-          <div class="mad-grid item-col-4 no-gutters">
-            <div class="mad-col">
-              <a href="#"><img src="images/480x480_img1.jpg" alt="" /></a>
-            </div>
-            <div class="mad-col">
-              <a href="#"><img src="images/480x480_img2.jpg" alt="" /></a>
-            </div>
-            <div class="mad-col">
-              <a href="#"><img src="images/480x480_img3.jpg" alt="" /></a>
-            </div>
-            <div class="mad-col">
-              <a href="#"><img src="images/480x480_img4.jpg" alt="" /></a>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

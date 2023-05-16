@@ -3,7 +3,7 @@
     <div class="container-fluid">
         <div class="mad-header-items">
             <div class="mad-header-item">
-            <a href="{{ route('homepage') }}" class="mad-logo"><img src="{{ asset('assets/images/logo.png') }}" alt="" /></a>
+            <a href="{{ route('homepage') }}" class="mad-logo"><img src="{{ asset('assets/img/logo.jpg') }}" alt="" /></a>
             </div>
             <div class="mad-header-item">
             <!--================ Navigation ================-->
