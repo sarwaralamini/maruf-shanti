@@ -56,6 +56,7 @@
   <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}" />
   <link rel="stylesheet" href="{{ asset('assets/css/date.css') }}" />
   <link rel="stylesheet" href="{{ asset('assets/css/responsive.css') }}" />
+  <link rel="stylesheet" href="{{ asset('assets/css/custom.css') }}" />
 
   <!--================ Vendor JS ================-->
 </head>

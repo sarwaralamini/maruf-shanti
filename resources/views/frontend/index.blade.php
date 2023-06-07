@@ -82,7 +82,7 @@
         </div>
         <div class="content-element-6">
           <p class="mad-text-medium content-element-3">
-            <b>5 mins away from Twin Lakes Tagaytay.</b>
+            <b>15 mins away from Twin Lakes Tagaytay.</b>
           </p>
           <p class="mad-text-medium"> A resort in a haven of tranquility. Nestled deep in the heart of Tagaytay-Batangas valleys. Offering unique accommodation and wellness.</p>
         </div>
@@ -103,7 +103,7 @@
           <a href="#" class="mad-icon-box">
             <div class="mad-icon-box-content">
               <h6 class="mad-icon-box-title"> 01. <br /> Accommodation </h6>
-              <p> Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna.
+              <p> Accommodation Featuring our 4 Single Dome Pool Villas, 1 Twin Dome Pool Villa and 2 Junior Tent Lodges.
               </p>
             </div>
           </a>
@@ -121,7 +121,7 @@
           <a href="#" class="mad-icon-box">
             <div class="mad-icon-box-content">
               <h6 class="mad-icon-box-title"> 02. <br /> Spa & Wellness </h6>
-              <p> Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. </p>
+              <p> Spa & Wellness Need a hump day reset? Try our Spa and Wellness services. </p>
             </div>
           </a>
           <!--================ End of Icon Box ================-->
@@ -149,7 +149,7 @@
           <a href="#" class="mad-icon-box">
             <div class="mad-icon-box-content">
               <h6 class="mad-icon-box-title"> 04. <br /> Promo Packages </h6>
-              <p> Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur.
+              <p> romo Packages Get 15% less on combined selected services.
               </p>
             </div>
           </a>
@@ -167,8 +167,7 @@
           <a href="#" class="mad-icon-box">
             <div class="mad-icon-box-content">
               <h6 class="mad-icon-box-title"> 03. <br /> Private Dining Experience </h6>
-              <p> Aliquam erat volutpat. Duis ac turpis. Donec sit amet eros. Lorem ipsum dolor sit amet,
-                consectetuer. </p>
+              <p> Private Dining Experience Pre-order your food with us or book our bohemian dinner package, glam picnic or romantic dinner table setup. </p>
             </div>
           </a>
           <!--================ End of Icon Box ================-->
@@ -203,8 +202,7 @@
             <a href="#" class="mad-icon-box">
               <div class="mad-icon-box-content">
                 <h6 class="mad-icon-box-title"> 05. <br /> Paid Services </h6>
-                <p> Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit agna,endrerit sit
-                  amet. </p>
+                <p> Paid Services Check out our paid activities to enjoy more of your stay. </p>
               </div>
             </a>
             <!--================ End of Icon Box ================-->
@@ -221,7 +219,7 @@
             <a href="#" class="mad-icon-box">
               <div class="mad-icon-box-content">
                 <h6 class="mad-icon-box-title"> 06. <br /> Things To Do </h6>
-                <p> Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,nsectetur, adipisci. </p>
+                <p> Things To Do Experience or things you may love to do at Shanti (complimentary and self-experienced). </p>
               </div>
             </a>
             <!--================ End of Icon Box ================-->
