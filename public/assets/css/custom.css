@@ -5,3 +5,10 @@
 .mad-navigation>li>a {
     font-size: 0.7rem!important;
 }
+
+.mad-icon-boxes.grid-type .mad-icon-box
+{
+    background-position: center!important;
+    height: 488px!important;
+    background-size: cover!important;
+}

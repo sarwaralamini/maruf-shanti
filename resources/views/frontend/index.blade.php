@@ -35,7 +35,7 @@
         <!--================ Slide 1 ================-->
         <li data-transition="fade">
           <!-- MAIN IMAGE -->
-          <img src="{{ asset('assets/img/slider/home_slider.jpg') }}" alt="" data-bgposition="top center" data-bgfit="cover"
+          <img src="{{ asset('assets/img/slider/home_slider.jpg') }}" alt="" data-bgposition="center" data-bgfit="cover"
             data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina />
           <!--================ Layer ================-->
           <div data-start="0" data-x="center" data-y="center" data-voffset="['-44', '-44', '-44', '-44']"
@@ -69,7 +69,7 @@
             align-center
             mad-section--stretched
             mad-colorizer--scheme-
-          ">
+          " style="padding-top:5rem!important;padding-bottom:5rem!important;">
         <div class="mad-colorizer-bg-color">
           <div class="mad-section-svg to-right">
             <img src="royal_beach_resort_svg/leaves_bg4.svg" alt="" />
@@ -86,10 +86,6 @@
           </p>
           <p class="mad-text-medium"> A resort in a haven of tranquility. Nestled deep in the heart of Tagaytay-Batangas valleys. Offering unique accommodation and wellness.</p>
         </div>
-        <div class="mad-signa">
-          <img src="{{ asset('assets/img/sign.png') }}" alt="" />
-          <div>Hotel Manager</div>
-        </div>
       </div>
       <div class="
             mad-section
@@ -103,7 +99,7 @@
           <a href="#" class="mad-icon-box">
             <div class="mad-icon-box-content">
               <h6 class="mad-icon-box-title"> 01. <br /> Accommodation </h6>
-              <p> Accommodation Featuring our 4 Single Dome Pool Villas, 1 Twin Dome Pool Villa and 2 Junior Tent Lodges.
+              <p> Featuring our 4 Single Dome Pool Villas, 1 Twin Dome Pool Villa and 2 Junior Tent Lodges.
               </p>
             </div>
           </a>
@@ -235,22 +231,7 @@
           </div>
           <!--================ End of Icon Boxes ================-->
         </div>
-        <div class="content-element-5">
-          <div class="container">
-            <div class="row">
-              <div class="col-lg-5">
-                <div class="mad-pre-title">accommodation</div>
-                <h2 class="mad-page-title">Rooms & Suits</h2>
-              </div>
-              <div class="col-lg-7">
-                <p class="mad-text-medium"> Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam
-                  elit agna,endrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque
-                  diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia
-                  fermentum. </p>
-              </div>
-            </div>
-          </div>
-        </div>
+
         <div class="
               mad-section
               no-pd
