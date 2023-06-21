@@ -10,16 +10,19 @@
         <section class="mad-widget">
             <h6 class="mad-widget-title">Payments</h6>
             <p class="content-element-4">
-                We accept credit/debit card.
+                We accept credit/debit card, PayPal, bank transfer, gcash to bank transfer.
             </p>
             <h6 class="mad-widget-title">
                 For bank payments:
             </h6>
             <p class="content-element-4">
-                <b>Account name:</b> BIGFISH MANILA INC <br>
-                <b>Metro Bank Account number:</b> 215-3-21519560-1 <br>
-                <b>Banco De Oro Account number:</b> 0000-503-175-63 <br>
-                <b>Bank of the Philippine Islands Account number:</b> 4403-0376-19
+                <b>Account Name:</b> Shanti Wellness Sanctuary Inc <br>
+                <b>BDO:</b> 000058028924
+                <br>
+                <br>
+                <b>Account Name:</b> BIGFISH MANILA INC <br>
+                <b>Metro Bank:</b> 2153215195601 <br>
+                <b>BPI:</b> 4403037619
             </p>
 
 
@@ -32,19 +35,14 @@
             <h6 class="mad-widget-title">Privacy Policy</h6>
             <p class="content-element-4">
                 <b>Refund & Cancellation Policy</b><br>
-                All booking are under non-refundable policy.<br>
-                **Thirty days advance notice is required except for emergency situations such as:
                 <div class="mad-list-content">
                     <ul class="mad-list--icon">
-                        <li><i class="icon material-icons">check</i>Sudden govt declared lockdown</li>
-                        <li><i class="icon material-icons">check</i>Positive covid, health reasons with medical proof</li>
-                        <li><i class="icon material-icons">check</i>Sudden flight cancellation by airlines. </li>
+                        <li><i class="icon material-icons">check</i>All bookings are under strict non-refundable policy. Re-booking is allowed until Dec. 2023 but we need 30 days advance notification except for medical emergencies (medical certificate copy will be required).</li>
+                        <li><i class="icon material-icons">check</i>Booking is transferable with 30 days prior conformity but strictly non-refundable.</li>
+                        <li><i class="icon material-icons">check</i>Rate difference may apply when changed to high or peak season, however no refund or credit will be issued when changed to low season.</li>
+                        <li><i class="icon material-icons">check</i>Subject to villa availability.</li>
                     </ul>
                 </div>
-                <br>
-                *Booking is transferable with 30 days prior conformity but strictly non-refundable.<br>
-                * Rate difference may apply when changed to high or peak season, however no refund or credit will be issued when changed to low season.<br>
-                * Subject to villa availability.
             </p>
         </section>
         <!--================ End of Widget ================-->

@@ -76,7 +76,7 @@
           </div>
         </div>
         <div class="mad-title-wrap">
-          <div class="mad-pre-title">—WELCOME</div>
+          <div class="mad-pre-title">WELCOME TO</div>
           <h2 class="mad-section-title">Shanti Wellness Sanctuary</h2>
           <h4 class="mad-section-title">in Lemery, Batangas</h4>
         </div>
