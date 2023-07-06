@@ -126,6 +126,35 @@ Route::get('nearby-attractions', function () {
     return view('frontend.nearby-attractions');
 })->name('nearby-attractions');
 
+//FOOTER ROUTS
+Route::get('payments', function () {
+    return view('frontend.footer.payments');
+})->name('footer.payment');
+
+Route::get('privacy-policy', function () {
+    return view('frontend.footer.privacy-policy');
+})->name('footer.privacy-policy');
+
+Route::get('refund-and-cancellation-policy', function () {
+    return view('frontend.footer.refund-and-cancellation-policy');
+})->name('footer.refund-and-cancellation-policy');
+
+Route::get('work-with-us', function () {
+    return view('frontend.footer.work-with-us');
+})->name('footer.work-with-us');
+
+Route::get('partner-with-us', function () {
+    return view('frontend.footer.partner-with-us');
+})->name('footer.partner-with-us');
+
+Route::get('shanti-academy', function () {
+    return view('frontend.footer.shanti-academy');
+})->name('footer.shanti-academy');
+
+
+
+
+
 
 
 
