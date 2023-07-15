@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\Frontend\ContactController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -121,6 +121,8 @@ Route::get('contact/location', function () {
 Route::get('contact/contact-us', function () {
     return view('frontend.contact.contact-us');
 })->name('contact.contact-us');
+
+Route::post('contact/contact-us', [ContactController::class, 'contactSubmit'])->name('contact-send');
 
 Route::get('nearby-attractions', function () {
     return view('frontend.nearby-attractions');

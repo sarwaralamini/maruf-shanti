@@ -45,3 +45,8 @@
 .custom-footer-links a:hover{
     color: var(--color-primary);
 }
+
+.mad-footer {
+    padding: 0rem 0;
+    padding-bottom: 20px;
+}

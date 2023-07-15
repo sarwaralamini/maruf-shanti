@@ -58,6 +58,8 @@
   <link rel="stylesheet" href="{{ asset('assets/css/responsive.css') }}" />
   <link rel="stylesheet" href="{{ asset('assets/css/custom.css') }}" />
 
+  {!! htmlScriptTagJsApi() !!}
+
   <!--================ Vendor JS ================-->
 </head>
 

@@ -73,44 +73,68 @@
                       <div class="mad-social-icons">
                         <ul>
                           <li>
-                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://www.facebook.com/shantiphils"><i class="fab fa-facebook-f"></i></a>
                           </li>
                           <li>
-                            <a href="#"><i class="fab fa-instagram"></i></a>
+                            <a href="https://www.instagram.com/shantiphils"><i class="fab fa-instagram"></i></a>
                           </li>
-                          <li>
-                            <a href="#"><i class="fab fa-twitter"></i></a>
-                          </li>
-                          <li>
-                            <a href="#"><i class="fab fa-tripadvisor"></i></a>
-                          </li>
+                          {{-- <li>
+                            <a href="#"><i class="fab fa-tiktok"></i></a>
+                          </li> --}}
                         </ul>
                       </div>
                     </div>
-                    <div class="col-lg-7">
-                      <form class="mad-contact-form mad-form type-2 item-col-2">
+                        <div class="col-lg-7">
+                        @if(session('successContactMessage'))
+                            <div class="alert alert-success text-center" role="alert" style="color:#009dc4;">
+                                {{ session('successContactMessage') }}
+                            </div>
+                        @endif
+
+                        @if(session('errorContactMessage'))
+                            <div class="alert alert-danger text-center" role="alert" style="color:#ff0000">
+                                {{ session('errorContactMessage') }}
+                            </div>
+                        @endif
+                      <form class="mad-contact-form mad-form type-2 item-col-2" action="{{ route('contact-send') }}" method="POST">
+                        @csrf
                         <div class="mad-col">
                           <div class="mad-form-item">
-                            <label>First name *</label>
-                            <input type="text" id="cf_name" name="cf_name" required="" placeholder="First Name">
+                            <label>Full Name <span style="color:#ff0000">*</span></label>
+                            <input type="text" id="cf_name" name="name" required="" placeholder="First Name">
+                            @error('name')
+                                <div class="help-block with-errors" style="color:#ff0000">{{ $message }}</div>
+                            @enderror
                           </div>
                           <div class="mad-form-item">
-                            <label>Last name *</label>
-                            <input type="text" id="cf_lname" name="cf_lname" required="" placeholder="Last Name">
+                            <label>Subject <span style="color:#ff0000">*</span></label>
+                            <input type="text" id="cf_subject" name="subject" required="" placeholder="Subject">
+                            @error('subject')
+                                <div class="help-block with-errors" style="color:#ff0000">{{ $message }}</div>
+                            @enderror
                           </div>
                           <div class="mad-form-item">
-                            <label>Email *</label>
-                            <input type="email" id="cf_email" name="cf_email" required="" placeholder="Email Address">
+                            <label>Phone Number <span style="color:#ff0000">*</span></label>
+                            <input type="text" id="cf_phone" name="phone" placeholder="Phone Number">
+                            @error('phone')
+                                <div class="help-block with-errors" style="color:#ff0000">{{ $message }}</div>
+                            @enderror
                           </div>
                           <div class="mad-form-item">
-                            <label>Phone number</label>
-                            <input type="tel" id="cf_phone" name="cf_phone" placeholder="Phone Number">
+                            <label>reCAPTCHA <span style="color:#ff0000">*</span></label>
+                            {!! htmlFormSnippet() !!}
+                            @error('g-recaptcha-response')
+                                <div class="help-block with-errors text-warning" style="color:#ff0000">{{ $message }}</div>
+                            @enderror
                           </div>
                         </div>
                         <div class="mad-col">
                           <div class="mad-form-item full-height">
-                            <label>Message *</label>
-                            <textarea rows="5" id="message" name="cf_message" required="" placeholder="Message"></textarea>
+                            <label>Message <span style="color:#ff0000">*</span>
+                            <textarea rows="5" id="message" name="message" required="" placeholder="Message"></textarea>
+                            @error('message')
+                                <div class="help-block with-errors" style="color:#ff0000">{{ $message }}</div>
+                            @enderror
                           </div>
                           <div class="mad-form-item">
                             <button type="submit" class="btn btn-big">
