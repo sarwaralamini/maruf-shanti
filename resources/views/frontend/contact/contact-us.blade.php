@@ -66,17 +66,23 @@
                           <li><b>Phone:</b> (0920) 972 3346</li>
                           <li>
                             <b>Email:</b>
-                            <a href="#" class="mad-link">life@shanti.ph</a>
+                            <a href="mailto:life@shanti.ph" class="mad-link">life@shanti.ph</a>
                           </li>
                         </ul>
                       </div>
                       <div class="mad-social-icons">
                         <ul>
                           <li>
-                            <a href="https://www.facebook.com/shantiphils"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://www.facebook.com/shantiphils" target="_blank"><i class="fab fa-facebook-f" style="vertical-align: middle!important;"></i></a>
                           </li>
                           <li>
-                            <a href="https://www.instagram.com/shantiphils"><i class="fab fa-instagram"></i></a>
+                            <a href="https://www.instagram.com/shantiphils" target="_blank"><i class="fab fa-instagram" style="vertical-align: middle!important;"></i></a>
+                          </li>
+                          <li>
+                            <a href="https://www.tiktok.com/@shantiphils" target="_blank"><i class="fa-brands fa-tiktok" style="vertical-align: middle!important;"></i></a>
+                          </li>
+                          <li>
+                            <a href="https://www.youtube.com/@shantiphils" target="_blank"><i class="fa-brands fa-youtube" style="vertical-align: middle!important;"></i></a>
                           </li>
                           {{-- <li>
                             <a href="#"><i class="fab fa-tiktok"></i></a>
@@ -101,22 +107,38 @@
                         <div class="mad-col">
                           <div class="mad-form-item">
                             <label>Full Name <span style="color:#ff0000">*</span></label>
-                            <input type="text" id="cf_name" name="name" required="" placeholder="First Name">
+                            <input type="text" id="cf_name" name="name" required="" placeholder="Enter your full name" value="{{ old('name') }}">
                             @error('name')
                                 <div class="help-block with-errors" style="color:#ff0000">{{ $message }}</div>
                             @enderror
                           </div>
                           <div class="mad-form-item">
                             <label>Subject <span style="color:#ff0000">*</span></label>
-                            <input type="text" id="cf_subject" name="subject" required="" placeholder="Subject">
+                            <input type="text" id="cf_subject" name="subject" required="" placeholder="Enter subject" value="{{ old('subject') }}">
                             @error('subject')
                                 <div class="help-block with-errors" style="color:#ff0000">{{ $message }}</div>
                             @enderror
                           </div>
                           <div class="mad-form-item">
                             <label>Phone Number <span style="color:#ff0000">*</span></label>
-                            <input type="text" id="cf_phone" name="phone" placeholder="Phone Number">
+                            <input type="number" id="cf_phone" name="phone" placeholder="Enter your phone number" value="{{ old('phone') }}">
                             @error('phone')
+                                <div class="help-block with-errors" style="color:#ff0000">{{ $message }}</div>
+                            @enderror
+                          </div>
+                          <div class="mad-form-item">
+                            <label>Email Address <span style="color:#ff0000">*</span></label>
+                            <input type="email" id="cf_email" name="email" placeholder="Enter your email address" value="{{ old('email') }}">
+                            @error('email')
+                                <div class="help-block with-errors" style="color:#ff0000">{{ $message }}</div>
+                            @enderror
+                          </div>
+                        </div>
+                        <div class="mad-col">
+                          <div class="mad-form-item full-height">
+                            <label>Message <span style="color:#ff0000">*</span>
+                            <textarea rows="5" id="message" name="message" required="" placeholder="Write your message here...">{{ old('message') }}</textarea>
+                            @error('message')
                                 <div class="help-block with-errors" style="color:#ff0000">{{ $message }}</div>
                             @enderror
                           </div>
@@ -125,15 +147,6 @@
                             {!! htmlFormSnippet() !!}
                             @error('g-recaptcha-response')
                                 <div class="help-block with-errors text-warning" style="color:#ff0000">{{ $message }}</div>
-                            @enderror
-                          </div>
-                        </div>
-                        <div class="mad-col">
-                          <div class="mad-form-item full-height">
-                            <label>Message <span style="color:#ff0000">*</span>
-                            <textarea rows="5" id="message" name="message" required="" placeholder="Message"></textarea>
-                            @error('message')
-                                <div class="help-block with-errors" style="color:#ff0000">{{ $message }}</div>
                             @enderror
                           </div>
                           <div class="mad-form-item">

@@ -5,7 +5,7 @@
 <h3>Contact person:</h3>
 
 <div class="contact-details">
-<table border="1px solid #718096" style="width:100%!important;">
+<table style="border=1px solid #718096;width:100%!important;">
     <tr>
         <th style="text-align: left;">Name:</th>
         <td>{{ $data['name']}}</td>
@@ -13,6 +13,12 @@
     <tr>
         <th style="text-align: left;">Subject:</th>
         <td>{{ $data['subject']}}</td>
+    </tr>
+    <tr>
+        <th style="text-align: left;">Email:</th>
+        <td>
+            <a href="mailto:{{ $data['email']}}">{{ $data['email']}}</a>
+        </td>
     </tr>
     <tr>
         <th style="text-align: left;">Phone:</th>

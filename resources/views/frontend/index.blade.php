@@ -48,7 +48,7 @@
           <div data-start="0" data-x="center" data-y="center" data-voffset="['20', '0', '0', '0']"
             data-width="['98%', '98%', '98%', '98%']" data-height="['auto']" data-textAlign="['center']"
             data-color="['#ffffff']" data-fontsize="['72']" data-lineheight="['88']"
-            class="tp-caption tp-resizeme tp-layer-section-title custom-slider-title"> Go outdoors, practice mindfulness, <br> feel the energy around you. </div>
+            class="tp-caption tp-resizeme tp-layer-section-title custom-slider-title"> Go outdoors, <br> practice mindfulness, <br> feel the energy around you. </div>
           <!--================ End of Layer ================-->
           <!--================ Layer ================-->
           <div data-start="0" data-x="center" data-y="center" data-voffset="['120', '120', '120', '120']"

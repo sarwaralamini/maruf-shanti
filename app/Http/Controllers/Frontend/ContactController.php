@@ -14,11 +14,14 @@ class ContactController extends Controller
         $validatedData = $request->validate([
             'name'                 => 'required',
             'subject'              => 'required',
-            'phone'                => 'required',
+            'phone'                => 'required|numeric',
+            'email'                => 'required|email',
             'message'              => 'required',
             'g-recaptcha-response' => 'recaptcha',
         ],
         [
+            'phone.required'                 => 'Phone number is required.',
+            'phone.numeric'                  => 'Please enter valid phone number.',
             'g-recaptcha-response.recaptcha' => 'Recaptcha validation required'
         ]);
 

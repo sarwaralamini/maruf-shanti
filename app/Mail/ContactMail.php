@@ -32,6 +32,7 @@ class ContactMail extends Mailable
         // return $this->markdown('emails.contact');
         return $this->subject('Shanti Contact Email')
                     ->markdown('emails.contact')
+                    ->replyTo($this->data['email'], $this->data['name'])
                     ->with('data', $this->data);
     }
 }

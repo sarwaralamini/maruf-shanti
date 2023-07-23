@@ -89,9 +89,11 @@
             </div>
         </div>
         <div class="mad-footer-bottom">
-            <p class="align-center">
+            <p class="align-center" style="margin-bottom:10px;">
                 <b>Phone:</b> (0920) 972 3346 <br>
-                <b>Email:</b><a href="#" class="mad-link">life@shanti.ph</a>
+                <p class="align-center">
+                    <b>Email:</b><a href="mailto:life@shanti.ph" class="mad-link"> life@shanti.ph</a>
+                </p>
             </p>
             <p class="align-center custom-footer-links">
                 <a href="{{ route('footer.payment') }}">Payments</a> |
