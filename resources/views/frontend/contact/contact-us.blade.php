@@ -92,7 +92,7 @@
                     </div>
                         <div class="col-lg-7">
                         @if(session('successContactMessage'))
-                            <div class="alert alert-success text-center" role="alert" style="color:#009dc4;">
+                            <div class="alert alert-success text-center" role="alert" style="color:#009dc4;text-align: center;font-size: 22px;">
                                 {{ session('successContactMessage') }}
                             </div>
                         @endif
@@ -102,7 +102,7 @@
                                 {{ session('errorContactMessage') }}
                             </div>
                         @endif
-                      <form class="mad-contact-form mad-form type-2 item-col-2" action="{{ route('contact-send') }}" method="POST">
+                      <form class="mad-contact-form mad-form type-2 item-col-2" action="{{ route('contact-send') }}" method="POST" style="@if(session('successContactMessage')) display:none!important; @endif">
                         @csrf
                         <div class="mad-col">
                           <div class="mad-form-item">
@@ -139,7 +139,7 @@
                             <label>Message <span style="color:#ff0000">*</span>
                             <textarea rows="5" id="message" name="message" required="" placeholder="Write your message here...">{{ old('message') }}</textarea>
                             @error('message')
-                                <div class="help-block with-errors" style="color:#ff0000">{{ $message }}</div>
+                                <div class="help-block with-errors" style="color:#ff0000;margin-top:10px;">{{ $message }}</div>
                             @enderror
                           </div>
                           <div class="mad-form-item">

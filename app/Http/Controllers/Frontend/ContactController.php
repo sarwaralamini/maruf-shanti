@@ -15,13 +15,17 @@ class ContactController extends Controller
             'name'                 => 'required',
             'subject'              => 'required',
             'phone'                => 'required|numeric',
-            'email'                => 'required|email',
-            'message'              => 'required',
+            'email'                => 'required|email:rfc,dns',
+            'message'              => 'required|min:20',
             'g-recaptcha-response' => 'recaptcha',
         ],
         [
             'phone.required'                 => 'Phone number is required.',
             'phone.numeric'                  => 'Please enter valid phone number.',
+            'email.required'                 => 'Email address is required.',
+            'email.email'                    => 'Please enter valid email address.',
+            'message.required'               => 'Message address is required.',
+            'message.min'                    => 'Minimum message length should be 20.',
             'g-recaptcha-response.recaptcha' => 'Recaptcha validation required'
         ]);
 
@@ -30,7 +34,7 @@ class ContactController extends Controller
         try{
             Mail::to('life@shanti.ph')->send(new ContactMail($validatedData));
             return redirect()->route('contact.contact-us')
-                            ->with('successContactMessage', 'Message successfully sent!');
+                            ->with('successContactMessage', 'Thank you. Your message has been submitted successfully.');
         }catch(\Exception $ex)
         {
             return redirect()->route('contact.contact-us')->with('errorContactMessage', 'An error has occurred please try again later!');
