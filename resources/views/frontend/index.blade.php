@@ -1,7 +1,7 @@
 @extends('frontend.layouts.app')
 
 {{-- Website SEO --}}
-@section('title', 'Home')
+@section('title', 'Home1')
 @section('meta_description', '')
 @section('meta_author', '')
 @section('meta_copyright', '')
