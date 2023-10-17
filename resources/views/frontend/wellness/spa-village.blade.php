@@ -60,7 +60,9 @@
                             Relax to the soothing sound of nature and let all your cares melt away.
                         </p>
                         <p style="text-align:center;">
-                            <div role="alert" class="mad-alert-box mad-alert-box--info">
+                            <div role="alert" class="mad-alert-box mad-alert-box--info" style="
+    margin-bottom: -13px!important;
+">
                                 <div class="mad-alert-box-inner">
                                     Surrounded by untouched nature, the SPA Village provides a unique wellness immersion.
                                 </div>
@@ -74,7 +76,9 @@
                                 <li><i class="icon material-icons">check</i>For bathing, we offer the traditional Kawa bath and our salt, herbal, detox, milk and tea baths.</li>
                             </ul>
                         </div>
-                        <div class="mad-testimonial-bg content-element-4">
+                        <div class="mad-testimonial-bg content-element-4" style="
+    margin-top: 11px;
+">
                             <div class="mad-testimonial">
                                 <div class="mad-testimonial-info">
                                 <blockquote>

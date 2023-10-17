@@ -37,7 +37,7 @@
     <h1 class="mad-page-title">Meeting, Wellness Team Building For Company</h1>
     <nav class="mad-breadcrumb-path">
         <span><a href="{{ route('homepage') }}" class="mad-link">Home</a></span> /
-        <span>EVENTS / MEETINGS</span> /
+        <span>EVENTS & MEETINGS</span> /
         <span>Meeting, Wellness Team Building For Company</span>
     </nav>
     </div>
@@ -59,7 +59,7 @@
                             We offer a meeting area in our SPA Village, a relaxing environment with a new level of guest experience. Surprisingly different.
                         </p>
                         <p style="text-align:center!important;">
-                            <button type="button" class="btn btn-huge btn-style-3 mt-3"> Message us for details </button>
+                            <a href="https://shanti.ph/contact/contact-us" target="_blank" class="btn btn-huge btn-style-3 mt-3" > Message us for details </a>
                         </p>
                     </div>
                 </article>

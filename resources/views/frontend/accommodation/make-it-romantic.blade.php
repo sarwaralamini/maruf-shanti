@@ -34,7 +34,7 @@
     data-bg-image-src="{{ asset('assets/img/bc.jpg') }}"
     >
     <div class="container wide">
-    <h1 class="mad-page-title">Make it Romantic</h1>
+    <h1 class="mad-page-title">Make It Romantic</h1>
     <nav class="mad-breadcrumb-path">
         <span><a href="{{ route('homepage') }}" class="mad-link">Home</a></span> /
         <span>Accommodation</span> /
@@ -52,10 +52,10 @@
                 <article class="mad-entity">
                     <div style="max-width:100rem;font-size: 1.125rem;line-height:1.5rem;" >
                         <div class="mad-entity-pre-title">Make it Romantic</div>
-                        <h6 class="mad-entity-title" style="text-align:center;">
+                        <h6 class="mad-entity-title" style="text-align:justify;">
                             Immerse yourself in a romantic gateway with your loved ones at Shanti. It’s a place to be.
                         </h6>
-                        <p style="text-align:center;">
+                        <p style="text-align:justify;">
                             We offer a romantic dome setup. The design of the dome will depend on the occasion.
 
                             P1000/room setup with banner, balloons, petals, bathtub candles, etc.

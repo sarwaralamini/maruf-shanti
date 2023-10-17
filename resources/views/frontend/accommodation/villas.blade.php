@@ -56,7 +56,7 @@
                             </h6>
                             <div role="alert" class="mad-alert-box mad-alert-box--info">
                                 <div class="mad-alert-box-inner">
-                                    Welcome to Shanti.
+                                    Welcome to Shanti
                                 </div>
                             </div>
 
@@ -156,7 +156,7 @@
                                     </tr>
                                     <tr>
                                         <th>Floor area</th>
-                                        <td><span><b>110 sqm</b></span></td>
+                                        <td>110 sqm</td>
                                     </tr>
                                     <tr>
                                         <th>Dome interior floor area</th>
@@ -232,7 +232,7 @@
                                     </tr>
                                     <tr>
                                         <th>Floor area</th>
-                                        <td><span><b>55 sqm</b></span></td>
+                                        <td>55 sqm</td>
                                     </tr>
                                     <tr>
                                         <th>Dome interior floor area</th>
@@ -254,7 +254,7 @@
 
                     <div class="villa-item mt-5">
                         <h4 class="mad-title text-center">
-                            Ananda Single Dome Pool Villa
+                            Ananda Single Dome Pool Villa 1
                         </h4>
                         <div data-isotope-layout="masonry" class="mad-gallery item-col-3 mad-grid--isotope g3">
                             <div class="mad-grid-sizer"></div>
@@ -294,6 +294,15 @@
                                 </div>
                                 <!--================ End Of Gallery Item ================-->
                             </div>
+                            <div class="mad-grid-item">
+                                <!--================ Gallery Item ================-->
+                                <div class="mad-gallery-item">
+                                    <a href="{{ asset('assets/img/accommodation/villa/Ananda-Single-Dome-Pool-Villa/5.jpg')}}" data-fancybox="gallery"
+                                    ><img src="{{ asset('assets/img/accommodation/villa/Ananda-Single-Dome-Pool-Villa/5.jpg')}}" alt=""
+                                    /></a>
+                                </div>
+                                <!--================ End Of Gallery Item ================-->
+                            </div>
                         </div>
                         <div class="mad-table-wrap mt-5">
                             <table class="mad-table mad-table--vertical">
@@ -308,7 +317,7 @@
                                     </tr>
                                     <tr>
                                         <th>Floor area</th>
-                                        <td><span><b>55 sqm</b></span></td>
+                                        <td>55 sqm</td>
                                     </tr>
                                     <tr>
                                         <th>Dome interior floor area</th>
@@ -370,6 +379,15 @@
                                 </div>
                                 <!--================ End Of Gallery Item ================-->
                             </div>
+                            <div class="mad-grid-item">
+                                <!--================ Gallery Item ================-->
+                                <div class="mad-gallery-item">
+                                    <a href="{{ asset('assets/img/accommodation/villa/Prana-Single-Dome-Pool-Villa/5.jpg')}}" data-fancybox="gallery"
+                                    ><img src="{{ asset('assets/img/accommodation/villa/Prana-Single-Dome-Pool-Villa/5.jpg')}}" alt=""
+                                    /></a>
+                                </div>
+                                <!--================ End Of Gallery Item ================-->
+                            </div>
                         </div>
                         <div class="mad-table-wrap mt-5">
                             <table class="mad-table mad-table--vertical">
@@ -384,7 +402,7 @@
                                     </tr>
                                     <tr>
                                         <th>Floor area</th>
-                                        <td><span><b>55 sqm</b></span></td>
+                                        <td>55 sqm</td>
                                     </tr>
                                     <tr>
                                         <th>Dome interior floor area</th>
@@ -460,7 +478,7 @@
                                     </tr>
                                     <tr>
                                         <th>Floor area</th>
-                                        <td><span><b>55 sqm</b></span></td>
+                                        <td>55 sqm</td>
                                     </tr>
                                     <tr>
                                         <th>Dome interior floor area</th>
@@ -473,6 +491,135 @@
                                     <tr>
                                         <td colspan="2" style="text-align:center;">
                                             <a target="_blank" href="https://bit.ly/3AY2VAO" class="btn btn-style-3 btn-big w-100">More of Mandala Villa</a>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <div class="villa-item mt-5">
+                        <h4 class="mad-title text-center">
+                            Junior Tent Lodges 1 & 2
+                        </h4>
+                        <div data-isotope-layout="masonry" class="mad-gallery item-col-3 mad-grid--isotope g5">
+                            <div class="mad-grid-sizer"></div>
+                            <div class="mad-grid-item">
+                                <!--================ Gallery Item ================-->
+                                <div class="mad-gallery-item">
+                                    <a href="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/1.jpg')}}" data-fancybox="gallery"
+                                    ><img src="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/1.jpg')}}" alt=""
+                                    /></a>
+                                </div>
+                                <!--================ End Of Gallery Item ================-->
+                            </div>
+                            <div class="mad-grid-item">
+                                <!--================ Gallery Item ================-->
+                                <div class="mad-gallery-item">
+                                    <a href="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/2.jpg')}}" data-fancybox="gallery"
+                                    ><img src="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/2.jpg')}}" alt=""
+                                    /></a>
+                                </div>
+                                <!--================ End Of Gallery Item ================-->
+                            </div>
+                            <div class="mad-grid-item">
+                                <!--================ Gallery Item ================-->
+                                <div class="mad-gallery-item">
+                                    <a href="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/3.jpg')}}" data-fancybox="gallery"
+                                    ><img src="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/3.jpg')}}" alt=""
+                                    /></a>
+                                </div>
+                                <!--================ End Of Gallery Item ================-->
+                            </div>
+                            <div class="mad-grid-item">
+                                <!--================ Gallery Item ================-->
+                                <div class="mad-gallery-item">
+                                    <a href="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/4.jpg')}}" data-fancybox="gallery"
+                                    ><img src="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/4.jpg')}}" alt=""
+                                    /></a>
+                                </div>
+                                <!--================ End Of Gallery Item ================-->
+                            </div>
+                            <div class="mad-grid-item">
+                                <!--================ Gallery Item ================-->
+                                <div class="mad-gallery-item">
+                                    <a href="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/5.jpg')}}" data-fancybox="gallery"
+                                    ><img src="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/5.jpg')}}" alt=""
+                                    /></a>
+                                </div>
+                                <!--================ End Of Gallery Item ================-->
+                            </div>
+                            <div class="mad-grid-item">
+                                <!--================ Gallery Item ================-->
+                                <div class="mad-gallery-item">
+                                    <a href="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/6.jpg')}}" data-fancybox="gallery"
+                                    ><img src="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/6.jpg')}}" alt=""
+                                    /></a>
+                                </div>
+                                <!--================ End Of Gallery Item ================-->
+                            </div>
+                            <div class="mad-grid-item">
+                                <!--================ Gallery Item ================-->
+                                <div class="mad-gallery-item">
+                                    <a href="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/7.jpg')}}" data-fancybox="gallery"
+                                    ><img src="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/7.jpg')}}" alt=""
+                                    /></a>
+                                </div>
+                                <!--================ End Of Gallery Item ================-->
+                            </div>
+                            <div class="mad-grid-item">
+                                <!--================ Gallery Item ================-->
+                                <div class="mad-gallery-item">
+                                    <a href="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/8.jpg')}}" data-fancybox="gallery"
+                                    ><img src="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/8.jpg')}}" alt=""
+                                    /></a>
+                                </div>
+                                <!--================ End Of Gallery Item ================-->
+                            </div>
+                            <div class="mad-grid-item">
+                                <!--================ Gallery Item ================-->
+                                <div class="mad-gallery-item">
+                                    <a href="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/9.jpg')}}" data-fancybox="gallery"
+                                    ><img src="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/9.jpg')}}" alt=""
+                                    /></a>
+                                </div>
+                                <!--================ End Of Gallery Item ================-->
+                            </div>
+                        </div>
+                        <div class="mad-table-wrap mt-5">
+                            <table class="mad-table mad-table--vertical">
+                                <tbody>
+                                    <tr>
+                                        <th>View</th>
+                                        <td>Forest & Spa Village</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Bedding</th>
+                                        <td>One double size floor mattress 54 X 75 if 1-2 pax staying. For 3-4 pax, one extra floor mattress will be provided.</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Floor area</th>
+                                        <td>15.75 sqm</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Height</th>
+                                        <td>2 meters. Can stand inside the tent.</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Entire floor area</th>
+                                        <td>182.6 sqm with bbq, dining tent lounge, tent lodge and bonfire</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Others</th>
+                                        <td>
+                                            No pool access.<br>
+                                            No kitchen.<br>
+                                            Shared bathroom.<br>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="2" style="text-align:center;">
+                                            <a target="_blank" href="https://www.facebook.com/media/set/?set=a.5789291941093466&type=3" class="btn btn-style-3 btn-big w-100">More of Junior Tent Lodges 1 & 2</a>
                                         </td>
                                     </tr>
                                 </tbody>

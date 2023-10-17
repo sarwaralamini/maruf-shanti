@@ -1,7 +1,7 @@
 @extends('frontend.layouts.app')
 
 {{-- Website SEO --}}
-@section('title', 'Home1')
+@section('title', 'Home')
 @section('meta_description', '')
 @section('meta_author', '')
 @section('meta_copyright', '')
@@ -69,7 +69,7 @@
             align-center
             mad-section--stretched
             mad-colorizer--scheme-
-          " style="padding-top:5rem!important;padding-bottom:5rem!important;">
+          " style="padding-top:2rem!important;padding-bottom:2rem!important;">
         <div class="mad-colorizer-bg-color">
           <div class="mad-section-svg to-right">
             <img src="royal_beach_resort_svg/leaves_bg4.svg" alt="" />

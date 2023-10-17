@@ -77,6 +77,10 @@
                             <li class="menu-item">
                                 <a href="{{ route('spa-and-bath-menu') }}">Spa & Bath Menu</a>
                             </li>
+
+                            <li class="menu-item">
+                                <a href="{{ route('sweat-lounge') }}">Sweat Lounge</a>
+                            </li>
                         </ul>
                         <!--================ End of Sub Menu ================-->
                     </li>
@@ -86,7 +90,7 @@
                     </li>
 
                     <li class="menu-item menu-item-has-children">
-                        <a href="#">EVENTS / MEETINGS</a>
+                        <a href="#">EVENTS & MEETINGS</a>
                         <!--================ Sub Menu ================-->
                         <ul class="sub-menu">
                             <li class="menu-item">

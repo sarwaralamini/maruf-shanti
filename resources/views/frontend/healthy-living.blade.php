@@ -55,7 +55,7 @@
                             <div class="mad-testimonial">
                                 <div class="mad-testimonial-info">
                                 <blockquote>
-                                    <p>
+                                    <p style="text-align:center;">
                                         “Nature heals. Naturally.”.
                                     </p>
                                 </blockquote>

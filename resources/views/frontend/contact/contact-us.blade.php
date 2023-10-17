@@ -48,7 +48,7 @@
         <div class="container">
             <div class="mad-section">
                 <div class="row vr-size-2">
-                    <p>
+                    <p style="text-align: justify;">
                         Another day in paradise begins.
                         <br>
                         The serene Shanti Wellness Sanctuary is built in an enchanting setting overlooking spectacular hills along the Balayan Bay.
@@ -63,7 +63,7 @@
                       <div class="mad-vr-list mad-text-medium content-element-3">
                         <ul>
                           <li>Manila Sales and Reservations: 9am to 4pm</li>
-                          <li><b>Phone:</b> (0920) 972 3346</li>
+                          <li><b>Phone:</b> +63 920 972 3346</li>
                           <li>
                             <b>Email:</b>
                             <a href="mailto:life@shanti.ph" class="mad-link">life@shanti.ph</a>
@@ -93,7 +93,10 @@
                         <div class="col-lg-7">
                         @if(session('successContactMessage'))
                             <div class="alert alert-success text-center" role="alert" style="color:#009dc4;text-align: center;font-size: 22px;">
-                                {{ session('successContactMessage') }}
+                                <p>We’ve got your message.</p>
+                                <p>Our response will be sent to the email address you’ve indicated within 48 hours. Don't forget to check your SPAM folder. If it’s urgent, we encourage you to call us at 0920 972 3346.</p>
+                                <p>Want to stay in touch? Follow us on Facebook!</p>
+                                <p>Have a wonderful healthy day!</p>
                             </div>
                         @endif
 

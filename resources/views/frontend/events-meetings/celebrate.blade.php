@@ -37,7 +37,7 @@
     <h1 class="mad-page-title">Celebrate</h1>
     <nav class="mad-breadcrumb-path">
         <span><a href="{{ route('homepage') }}" class="mad-link">Home</a></span> /
-        <span>EVENTS / MEETINGS</span> /
+        <span>EVENTS & MEETINGS</span> /
         <span>Celebrate</span>
     </nav>
     </div>
@@ -59,7 +59,7 @@
                             Without a doubt, Shanti Wellness Sanctuary has been blessed with one of the best pieces of natural landscape western Batangas has to offer. Nestled deep within the serene rural village of Lemery, on the outskirts of Tagaytay. This captivating sanctuary truly celebrates love and wellness.
                         </p>
                         <p style="text-align:center!important;">
-                            <button type="button" class="btn btn-huge btn-style-3 mt-3"> For event proposal/ celebrations at Shanti, please message us </button>
+                            <a href="https://shanti.ph/contact/contact-us" target="_blank" class="btn btn-huge btn-style-3 mt-3" > For event proposal/ celebrations at Shanti, please message us </a>
                         </p>
                     </div>
                 </article>

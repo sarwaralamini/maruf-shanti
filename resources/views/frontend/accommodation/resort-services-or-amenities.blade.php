@@ -110,10 +110,78 @@
                                 <li><i class="icon material-icons">check</i>SPA Village</li>
                             </ul>
                         </div>
-
-                        <p>
-                            <img src="{{ asset('assets/img/accommodation/inclusions.jpg') }}" alt="" />
+                        <br><br>
+                        <p style="text-align:justify;">
+                            There are places where you feel that everything around you seems to stop for while. Where time stands still.
+                            Welcome to Shanti Wellness Sanctuary. A secluded world of serenity and tranquility.
                         </p>
+                        <p style="text-align:justify;">
+                            The jungle-bound resort is the kind of place that offers unique accommodation with both relaxation and wellness.
+                        </p>
+
+                        <h3 class="mad-title" style="margin-bottom:0px!important;text-align:center;">
+                            Inclusions
+                        </h3>
+
+                        <p style="text-align:justify;">
+                            Experience or do things you may love to do here (complimentary and self-experienced):
+                        </p>
+                        <table class="mad-table">
+                            <tbody>
+                                <tr>
+                                    <td>Jungle or poolside meditation</td>
+                                    <td>Jungle BBQ</td>
+                                </tr>
+                                <tr>
+                                    <td>Yoga</td>
+                                    <td>Bonfire</td>
+                                </tr>
+                                <tr>
+                                    <td>Balance walk</td>
+                                    <td>Swimming</td>
+                                </tr>
+                                <tr>
+                                    <td>Stone walk</td>
+                                    <td>Gardening activities</td>
+                                </tr>
+                                <tr>
+                                    <td>Labyrinth</td>
+                                    <td>Sunset -- overlooking Balayan Bay (watch from the main entrance gate)</td>
+                                </tr>
+                                <tr>
+                                    <td>Grounding or earthing</td>
+                                    <td>Forest full moon experience</td>
+                                </tr>
+                                <tr>
+                                    <td>Fruit picking (seasonal availability)</td>
+                                    <td>Relaxing on hammock/duyan</td>
+                                </tr>
+                                <tr>
+                                    <td>Mandala arrangement</td>
+                                    <td>Semi outdoor bathroom experience</td>
+                                </tr>
+                                <tr>
+                                    <td>Breathing exercise</td>
+                                    <td>Sunrise (watch from kawa bath area)</td>
+                                </tr>
+                                <tr>
+                                    <td>Rock balancing</td>
+                                    <td>Reading books</td>
+                                </tr>
+                                <tr>
+                                    <td>Bird watching</td>
+                                    <td>Watching movies</td>
+                                </tr>
+                                <tr>
+                                    <td>Cooking in nature</td>
+                                    <td>Staring at the milky way or counting stars at night from hammock</td>
+                                </tr>
+                                <tr>
+                                    <td>Nature or forest trailing</td>
+                                    <td>Unwind and chill at your way or simply do nothing, listen to the silence.</td>
+                                </tr>
+                            </tbody>
+                        </table>
                         <div class="mad-info-header">
                             <h5 class="mad-team-member-name">
                                 <a href="#">Pet Policy:</a>
@@ -123,14 +191,14 @@
                             <div class="mad-testimonial">
                                 <div class="mad-testimonial-info" style="text-align:center">
                                 <blockquote>
-                                    <p>
+                                    <p style="text-align:center;">
                                         We welcome your pets.
                                     </p>
                                 </blockquote>
                                 </div>
                             </div>
                         </div>
-                        <p style="text-align:center">
+                        <p style="text-align:justify;">
                             While in the dome, must keep them away from the tent. Stains, scratches to any areas or any damages by the pet will be charged.
                             <br>
                             Please be advised that we shall allow 3 pets maximum per dome, fully domesticated & non-aggressive.

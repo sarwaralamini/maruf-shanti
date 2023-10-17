@@ -90,7 +90,7 @@
         </div>
         <div class="mad-footer-bottom">
             <p class="align-center" style="margin-bottom:10px;">
-                <b>Phone:</b> (0920) 972 3346 <br>
+                <b>Phone:</b> +63 920 972 3346 <br>
                 <p class="align-center">
                     <b>Email:</b><a href="mailto:life@shanti.ph" class="mad-link"> life@shanti.ph</a>
                 </p>
@@ -104,7 +104,7 @@
                 <a href="{{ route('footer.shanti-academy') }}">Shanti Academy</a> |
                 <a href="{{ route('contact.contact-us') }}">Contact Us</a>
             </p>
-            <p class="copyrights align-center"> Copyright © {{ date('Y') }} <a href="#">BIGFISH HOSPITALITY GROUP</a>. All Rights Reserved. </p>
+            <p class="copyrights align-center"> Copyright © {{ date('Y') }} <a href="#">BIGFISH HOSPITALITY GROUP</a>. <br> All Rights Reserved. </p>
         </div>
     </div>
 </div>

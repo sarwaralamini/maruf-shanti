@@ -74,7 +74,7 @@
                         <p style="text-align:justify;">
                             Shanti is where mind, body and spirit exist in harmony. A crossroads of east and west, its name means ‘peace’.
                         </p>
-                        <p>
+                        <p style="text-align:center;">
                             <img src="{{ asset('assets/img/about/our_vision_1.jpg') }}" alt="" />
                         </p>
                         <div class="mad-info-header">

@@ -51,11 +51,11 @@
                     <article class="mad-entity">
                         <div style="max-width:100rem;font-size: 1.125rem;line-height:1.5rem;" >
                             <div class="mad-entity-pre-title">Activities</div>
-                            <h6 class="mad-entity-title" style="text-align:center;">
-                                … far from the everyday world.
+                            <h6 class="mad-entity-title">
+                                …far from the everyday world.
                             </h6>
-                            <h6 class="mad-entity-title" style="text-align:center;">
-                                … perched majestically between hills and valleys.
+                            <h6 class="mad-entity-title">
+                                …perched majestically between hills and valleys.
                             </h6>
                             <h6 class="mad-entity-title" style="text-align:center;">
                                 Shanti Wellness Sanctuary is a unique concept, amidst the lushness of nature. A place where the mind can escape. An oasis for body, mind and spirit. Minutes away from Tagaytay.
@@ -69,7 +69,7 @@
                     </article>
                     <div class="villa-item">
                         <h4 class="mad-title text-center">
-                            Shinrin You (Forest Bathing)
+                            Shinrin Yoku (Forest Bathing)
                         </h4>
                         <p>
                             <img src="{{ asset('assets/img/wellness/activities/1.jpg') }}" alt="" />
@@ -100,11 +100,11 @@
                         <p>
                             <img src="{{ asset('assets/img/wellness/activities/2.jpg') }}" alt="" />
                         </p>
-                        <h4 class="mad-title text-center">
+                        <h4 class="mad-title text-center" style="margin-top: 25px;">
                             In-room Sound Bath
                         </h4>
                         <p>
-                            <img src="{{ asset('assets/img/wellness/activities/3.jpg') }}" alt="" />
+                            <img src="{{ asset('assets/img/wellness/activities/6.jpg') }}" alt="" />
                         </p>
                         <div class="mad-table-wrap mt-5">
                             <table class="mad-table mad-table--vertical">
@@ -130,7 +130,7 @@
                             Kawa Bath
                         </h4>
                         <p>
-                            <img src="{{ asset('assets/img/wellness/activities/4.jpg') }}" alt="" />
+                            <img src="{{ asset('assets/img/wellness/activities/3.jpg') }}" alt="" />
                         </p>
                         <div class="mad-table-wrap mt-5">
                             <table class="mad-table mad-table--vertical">
@@ -164,7 +164,7 @@
                             Aqua Yoga
                         </h4>
                         <p>
-                            <img src="{{ asset('assets/img/wellness/activities/5.jpg') }}" alt="" />
+                            <img src="{{ asset('assets/img/wellness/activities/4.jpg') }}" alt="" />
                         </p>
                         <div class="mad-table-wrap mt-5">
                             <table class="mad-table mad-table--vertical">
@@ -190,7 +190,7 @@
                             Guided Forest Meditation
                         </h4>
                         <p>
-                            <img src="{{ asset('assets/img/wellness/activities/6.jpg') }}" alt="" />
+                            <img src="{{ asset('assets/img/wellness/activities/5.jpg') }}" alt="" />
                         </p>
                         <div class="mad-table-wrap mt-5">
                             <table class="mad-table mad-table--vertical">

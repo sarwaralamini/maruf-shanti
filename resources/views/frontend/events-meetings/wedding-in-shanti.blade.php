@@ -34,10 +34,10 @@
     data-bg-image-src="{{ asset('assets/img/bc.jpg') }}"
     >
     <div class="container wide">
-    <h1 class="mad-page-title">Wedding in Shanti</h1>
+    <h1 class="mad-page-title">Wedding In Shanti</h1>
     <nav class="mad-breadcrumb-path">
         <span><a href="{{ route('homepage') }}" class="mad-link">Home</a></span> /
-        <span>EVENTS / MEETINGS</span> /
+        <span>EVENTS & MEETINGS</span> /
         <span>Wedding in Shanti</span>
     </nav>
     </div>
@@ -62,7 +62,7 @@
                             Shanti Wellness Sanctuary is an ideal choice for those looking for a special place on the untouched side of Tagaytay and Batangas; a wedding destination or a romantic hideaway, where guests can experience peace and tranquility in beautiful surroundings.
                         </p>
                         <p style="text-align:center!important;">
-                            <button type="button" class="btn btn-huge btn-style-3 mt-3"> For wedding events at Shanti, please message us </button>
+                            <a href="https://shanti.ph/contact/contact-us" target="_blank" class="btn btn-huge btn-style-3 mt-3" > For wedding events at Shanti, please message us </a>
                         </p>
                     </div>
                 </article>

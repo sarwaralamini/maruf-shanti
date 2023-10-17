@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Frontend\ContactController;
+use Illuminate\Support\Facades\Artisan;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -17,6 +18,14 @@ Route::get('/', function () {
     return view('frontend.index');
 })->name('homepage');
 
+Route::get('clear', function () {
+    Artisan::call('optimize:clear');
+    Artisan::call('route:clear');
+    Artisan::call('view:clear');
+    Artisan::call('cache:clear');
+    Artisan::call('config:cache');
+    dd("Done");
+});
 //ABOUT ROUTES
 
 Route::get('about/holistic-escapes', function () {
@@ -77,6 +86,11 @@ Route::get('wellness/spa-village', function () {
 Route::get('wellness/spa-and-bath-menu', function () {
     return view('frontend.wellness.spa-and-bath-menu');
 })->name('spa-and-bath-menu');
+
+Route::get('wellness/sweat-lounge', function () {
+    return view('frontend.wellness.sweat-lounge');
+})->name('sweat-lounge');
+
 
 Route::get('healthy-living', function () {
     return view('frontend.healthy-living');

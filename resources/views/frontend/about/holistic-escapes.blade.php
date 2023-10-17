@@ -52,16 +52,16 @@
                 <article class="mad-entity">
                     <div style="max-width:100rem;font-size: 1.125rem;line-height:1.5rem;" >
                         <div class="mad-entity-pre-title">Holistic Escapes</div>
-                        <h6 class="mad-entity-title" style="text-align:center;">
+                        <p style="text-align:center;">
                             Minutes away from the charming city of Tagaytay, within 4 hectares of tropical greenery, serenity awaits.
-                        </h6>
-                        <h6 class="mad-entity-title" style="text-align:center;">
+                        </p>
+                        <p style="text-align:center;">
                             Shanti Wellness Sanctuary. The haven of life. A beautiful sanctuary where enrichment thrives and creates good memories.
-                        </h6>
+                        </p>
                         <p style="text-align:center;">
                             <b>A MEANINGFUL JOURNEY.  A MEANINGFUL VACATION. A JOURNEY WITH A PURPOSE.</b>
                         </p>
-                        <p>
+                        <p style="text-align:center;">
                             <img src="{{ asset('assets/img/about/holistic_escapes.jpg') }}" alt="" />
                         </p>
 

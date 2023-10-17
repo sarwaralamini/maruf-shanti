@@ -96,7 +96,7 @@
                         <p style="text-align:justify;">
                             Shanti is a magical retreat for those seeking peace of mind and relaxation. Relax in your private sanctuary with sensational views of the surrounding verdant gardens. A relaxing atmosphere throughout. Experience a hidden paradise.
                         </p>
-                        <p>
+                        <p style="text-align:center;">
                             <img src="{{ asset('assets/img/about/history_2.jpg') }}" alt="" />
                         </p>
                     </div>
