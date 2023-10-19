@@ -52,7 +52,6 @@
                     <div style="max-width:100rem;font-size: 1.125rem;line-height:1.5rem;" >
                         <div class="mad-entity-pre-title">REFUND & CANCELLATION POLICY</div>
                         <section class="mad-widget">
-                            <h6 class="mad-widget-title">Refund & Cancellation Policy</h6>
                             <p class="content-element-4">
                                 <div class="mad-list-content">
                                     <ul class="mad-list--icon">

@@ -89,21 +89,22 @@
             </div>
         </div>
         <div class="mad-footer-bottom">
-            <p class="align-center" style="margin-bottom:10px;">
+            <p class="align-center" style="margin-bottom:-1px;">
                 <b>Phone:</b> +63 920 972 3346 <br>
                 <p class="align-center">
                     <b>Email:</b><a href="mailto:life@shanti.ph" class="mad-link"> life@shanti.ph</a>
                 </p>
             </p>
-            <p class="align-center custom-footer-links">
+            <p class="align-center custom-footer-links" style="margin-bottom: 8px;">
                 <a href="{{ route('footer.payment') }}">Payments</a> |
                 <a href="{{ route('footer.privacy-policy') }}">Privacy Policy</a> |
                 <a href="{{ route('footer.refund-and-cancellation-policy') }}">Refund & Cancellation Policy</a> |
                 <a href="{{ route('footer.work-with-us') }}">Work With Us</a> |
                 <a href="{{ route('footer.partner-with-us') }}">Partner With Us</a> |
                 <a href="{{ route('footer.shanti-academy') }}">Shanti Academy</a> |
-                <a href="{{ route('contact.contact-us') }}">Contact Us</a>
+                <a href="{{ route('contact.contact-us') }}">Contact Us</a> <br>
             </p>
+           
             <p class="copyrights align-center"> Copyright © {{ date('Y') }} <a href="#">BIGFISH HOSPITALITY GROUP</a>. <br> All Rights Reserved. </p>
         </div>
     </div>

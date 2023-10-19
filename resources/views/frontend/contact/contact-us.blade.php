@@ -48,7 +48,7 @@
         <div class="container">
             <div class="mad-section">
                 <div class="row vr-size-2">
-                    <p style="text-align: justify;">
+                    <p style="text-align: justify;margin-bottom: -25px;">
                         Another day in paradise begins.
                         <br>
                         The serene Shanti Wellness Sanctuary is built in an enchanting setting overlooking spectacular hills along the Balayan Bay.
@@ -57,8 +57,7 @@
                     </p>
                     <div class="col-lg-5">
                       <div class="mad-title-wrap">
-                        <div class="mad-pre-title">Contact Details</div>
-                        <h2 class="mad-section-title">Get In Touch</h2>
+                        <h3 class="mad-section-title">Get In Touch</h3>
                       </div>
                       <div class="mad-vr-list mad-text-medium content-element-3">
                         <ul>

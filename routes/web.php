@@ -116,6 +116,10 @@ Route::get('dining/private-dining', function () {
     return view('frontend.dining.private-dining');
 })->name('dining.private-dining');
 
+Route::get('dining/private-dining/food-menu', function () {
+    return view('frontend.dining.private-dining-food-menu');
+})->name('dining.private-dining.food-menu');
+
 Route::get('dining/romantic-dining', function () {
     return view('frontend.dining.romantic-dining');
 })->name('dining.romantic-dining');
@@ -152,7 +156,7 @@ Route::get('privacy-policy', function () {
 })->name('footer.privacy-policy');
 
 Route::get('refund-and-cancellation-policy', function () {
-    return view('frontend.footer.refund-and-cancellation-policy');
+    return view('frontend.footer.refund-and-cancellation-policy-2');
 })->name('footer.refund-and-cancellation-policy');
 
 Route::get('work-with-us', function () {

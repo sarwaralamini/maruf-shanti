@@ -59,7 +59,8 @@
                             <b>Feel free to bring and cook your own food. No corkage fee. There's a private kitchen in each Villa. It's fully-equipped. OR You may order food at SHANTI.</b>
                         </p>
                         <p style="text-align: center;">
-                            <a href="http://bit.ly/3sUz4G9" class="btn btn-huge btn-style-3 mt-3"> SEE FOOD MENU </a>
+                            {{-- <a href="{http://bit.ly/3sUz4G9}" class="btn btn-huge btn-style-3 mt-3"> SEE FOOD MENU </a> --}}
+                            <a href="{{ route('dining.private-dining.food-menu') }}" class="btn btn-huge btn-style-3 mt-3"> SEE FOOD MENU </a>
                         </p>
                         <p style="text-align: center;">
                             <img src="{{ asset('assets/img/dining/private-dining/1.jpg')}}" alt="">

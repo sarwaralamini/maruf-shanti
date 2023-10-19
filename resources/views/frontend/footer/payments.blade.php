@@ -52,10 +52,10 @@
                     <div style="max-width:100rem;font-size: 1.125rem;line-height:1.5rem;" >
                         <div class="mad-entity-pre-title">PAYMENTS</div>
                         <section class="mad-widget">
-                            <p class="content-element-4">
+                            <p class="content-element-4" style=" margin-bottom: 10px; ">
                                 We accept credit/debit cards, PayPal, bank transfer, GCASH to bank transfer.
                             </p>
-                            <h6 class="mad-widget-title">
+                            <h6 class="mad-widget-title" style="margin-bottom: -1.75rem;">
                                 For bank payments:
                             </h6>
                             <p class="content-element-4">
@@ -78,7 +78,7 @@
                             </p>
 
                             <p>
-                                <i>**PLEASE SEND US THE PAYMENT COPY FOR CONFIRMATION OF YOUR BOOKING. THANK YOU</i>
+                                <i>Please send us the payment copy for the confirmation of your booking. Thank you.</i>
                             </p>
 
                         </section>

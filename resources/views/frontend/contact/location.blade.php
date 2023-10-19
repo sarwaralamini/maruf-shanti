@@ -55,10 +55,10 @@
                         <h6 class="mad-entity-title" style="text-align:center;">
                             Welcome to Shanti. The nature lovers' haven.
                         </h6>
-                        <p style="text-align:center;">
+                        <p style="text-align:justify;">
                             <b>Not many places in the world offer a timeless lifestyle the way Shanti does. Where relaxation, health & vacation blend together to create an irresistible charm. Away from crowds with beautiful surroundings, with the intoxicating sounds of serenity in the air.</b>
                         </p>
-                        <p>
+                        <p style="text-align:justify;">
                             It’s around 15 mins away from Tagaytay. Hidden gem. Wonderful rich nature - Shanti Wellness Sanctuary. The surroundings are so beautiful because of lush greens and coconut plantations.
                         </p>
 
@@ -78,7 +78,7 @@
                             <img src="{{ asset('assets/img/contact/location/2.jpg')}}" alt="">
                         </p>
 
-                        <p style="text-align:center;">
+                        <p style="text-align:center;margin-bottom:0px;">
                             <b>RESORT MAP:</b>
                         </p>
 

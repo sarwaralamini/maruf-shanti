@@ -81,12 +81,12 @@
                             <li class="menu-item">
                                 <a href="{{ route('sweat-lounge') }}">Sweat Lounge</a>
                             </li>
+                            
+                            <li class="menu-item">
+                                <a href="{{ route('healthy-living') }}">Healthy Living</a>
+                            </li>
                         </ul>
                         <!--================ End of Sub Menu ================-->
-                    </li>
-
-                    <li class="menu-item">
-                        <a href="{{ route('healthy-living') }}">Healthy Living</a>
                     </li>
 
                     <li class="menu-item menu-item-has-children">
@@ -151,7 +151,7 @@
             <!--================ End of Navigation ================-->
             <div class="mad-actions">
                 <div class="mad-col">
-                <a href="https://bit.ly/32Ymmwo" class="btn">Book Now</a>
+                <a href="https://bit.ly/32Ymmwo" class="btn" target="_new">Book Now</a>
                 </div>
             </div>
             </div>

@@ -52,7 +52,7 @@
                     <div style="max-width:100rem;font-size: 1.125rem;line-height:1.5rem;" >
                         <div class="mad-entity-pre-title">PRIVACY POLICY</div>
                         <section class="mad-widget">
-                            <h6 class="mad-widget-title">Privacy Policy</h6>
+                           
                         </section>
                     </div>
                 </article>

@@ -1,7 +1,7 @@
 
 @extends('frontend.layouts.app')
 {{-- Website SEO --}}
-@section('title', 'Partner With Us')
+@section('title', 'Refund & Cancellation Policy')
 @section('meta_description', '')
 @section('meta_author', '')
 @section('meta_copyright', '')
@@ -9,7 +9,7 @@
 @section('meta_robot', '')
 
 {{-- Facebook SEO --}}
-@section('og_title', 'Partner With Us')
+@section('og_title', 'Refund & Cancellation Policy')
 @section('og_description', '')
 @section('og_type', '')
 @section('og_url', '')
@@ -34,10 +34,10 @@
     data-bg-image-src="{{ asset('assets/img/bc.jpg') }}"
     >
     <div class="container wide">
-    <h1 class="mad-page-title">PARTNER WITH US</h1>
+    <h1 class="mad-page-title">REFUND & CANCELLATION POLICY</h1>
     <nav class="mad-breadcrumb-path">
         <span><a href="{{ route('homepage') }}" class="mad-link">Home</a></span> /
-        <span>PARTNER WITH US</span>
+        <span>REFUND & CANCELLATION POLICY</span>
     </nav>
     </div>
     </div>
@@ -50,9 +50,16 @@
                 <!--================ Entity ================-->
                 <article class="mad-entity" style="justify-content: flex-start;">
                     <div style="max-width:100rem;font-size: 1.125rem;line-height:1.5rem;" >
-                        <div class="mad-entity-pre-title">PARTNER WITH US</div>
+                        <div class="mad-entity-pre-title">PAYMENTS</div>
                         <section class="mad-widget">
-                            
+                            <div class="mad-list-content">
+                                <ul class="mad-list--icon">
+                                    <li><i class="icon material-icons">check</i>All bookings are under strict non-refundable policy. Re-booking is allowed until Dec. 2023 but we need 30 days advance notification except for medical emergencies (medical certificate copy will be required).</li>
+                                    <li><i class="icon material-icons">check</i>Booking is transferable with 30 days prior conformity but strictly non-refundable.</li>
+                                    <li><i class="icon material-icons">check</i>Rate difference may apply when changed to high or peak season, however no refund or credit will be issued when changed to low season.</li>
+                                    <li><i class="icon material-icons">check</i>Subject to villa availability.</li>
+                                </ul>
+                            </div>
                         </section>
                     </div>
                 </article>

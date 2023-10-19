@@ -67,7 +67,20 @@ the soothing rustle of swaying leaves create a harmonious symphony for your sens
                             you on a journey of serenity, where the benefits of our sweat lounge await.
                         </p>
 
-                        <h4 class="mad-title text-center" style="margin-bottom:0px!important;">
+                        <p style="text-align:center;">
+                            <a href="#tm1" class="mad-link">Halotherapy Himalayan Salt Room</a> <br>
+                            <a href="#tm2" class="mad-link">Negative Ion Energy Room</a> <br>
+                            <a href="#tm3" class="mad-link">Basalt Salt Natural Stone Bed</a> <br>
+                            <a href="#tm4" class="mad-link">Tourmaline Germanium Pad</a> <br>
+                            <a href="#tm5" class="mad-link">Himalayan Salt Chunk Bed</a> <br>
+                            <a href="#tm6" class="mad-link">Natural Jade Stone Bed</a> <br>
+                            <a href="#tm7" class="mad-link">Negative Ion Bed</a> <br>
+                            <a href="#tm8" class="mad-link">Far-Infrared Thermal Therapy</a> <br>
+                            <a href="#tm9" class="mad-link">Herbs Infused Steam Room</a> <br>
+                            <a href="#tm10" class="mad-link">River Rock Sauna Room</a>
+                        </p>
+
+                        <h4 class="mad-title text-center" style="margin-bottom:0px!important;" id="tm1">
                             Halotherapy Himalayan Salt Room:
                         </h4>
                         <p style="text-align:justify;">
@@ -108,7 +121,7 @@ the soothing rustle of swaying leaves create a harmonious symphony for your sens
                             pink salt.
                         </p>
 
-                        <h4 class="mad-title text-center" style="margin-bottom:0px!important;">
+                        <h4 class="mad-title text-center" style="margin-bottom:0px!important;" id="tm2">
                             Negative Ion Energy Room:
                         </h4>
                         <p style="text-align:justify;">
@@ -128,7 +141,7 @@ the soothing rustle of swaying leaves create a harmonious symphony for your sens
                             Here are the benefits of each heated bed in the Shanti Sweat Lounge:
                         </p>
 
-                        <h4 class="mad-title text-center" style="margin-bottom:0px!important;">
+                        <h4 class="mad-title text-center" style="margin-bottom:0px!important;"  id="tm3">
                             Basalt Salt Natural Stone Bed:
                         </h4>
                         <p style="text-align:justify;">
@@ -138,7 +151,7 @@ the soothing rustle of swaying leaves create a harmonious symphony for your sens
                             and enhances overall well-being.
                         </p>
 
-                        <h4 class="mad-title text-center" style="margin-bottom:0px!important;">
+                        <h4 class="mad-title text-center" style="margin-bottom:0px!important;" id="tm4">
                             Tourmaline Germanium Pad:
                         </h4>
                         <p style="text-align:justify;">
@@ -148,7 +161,7 @@ the soothing rustle of swaying leaves create a harmonious symphony for your sens
                             cocoon of warmth and let stress melt away.
                         </p>
 
-                        <h4 class="mad-title text-center" style="margin-bottom:0px!important;">
+                        <h4 class="mad-title text-center" style="margin-bottom:0px!important;" id="tm5">
                             Himalayan Salt Chunk Bed:
                         </h4>
                         <p style="text-align:justify;">
@@ -158,7 +171,7 @@ ability to balance the body's energy. As the bed is heated, the salt releases ne
 purifying the air and promoting a sense of calm and well-being.
                         </p>
 
-                        <h4 class="mad-title text-center" style="margin-bottom:0px!important;">
+                        <h4 class="mad-title text-center" style="margin-bottom:0px!important;" id="tm6">
                             Natural Jade Stone Bed:
                         </h4>
                         <p style="text-align:justify;">
@@ -168,7 +181,7 @@ gently warms, it transfers its soothing energy to your body. This experience hel
 tension, improve blood circulation, and restore balance to your energy flow.
                         </p>
 
-                        <h4 class="mad-title text-center" style="margin-bottom:0px!important;">
+                        <h4 class="mad-title text-center" style="margin-bottom:0px!important;" id="tm7">
                             Negative Ion Bed:
                         </h4>
                         <p style="text-align:justify;">
@@ -178,7 +191,7 @@ tension, improve blood circulation, and restore balance to your energy flow.
                             creating a serene environment that leaves you feeling refreshed and revitalized.
                         </p>
 
-                        <h4 class="mad-title text-center" style="margin-bottom:0px!important;">
+                        <h4 class="mad-title text-center" style="margin-bottom:0px!important;" id="tm8">
                             Far-Infrared Thermal Therapy:
                         </h4>
                         <p style="text-align:justify;">
@@ -187,6 +200,57 @@ tension, improve blood circulation, and restore balance to your energy flow.
                             and increased oxygen supply to your cells. This therapy can aid in relieving muscle pain,
                             reducing inflammation, and improving joint flexibility, leaving you feeling rejuvenated and
                             revitalized.
+                        </p>
+
+                        <h4 class="mad-title text-center" style="margin-bottom:0px!important;" id="tm9">
+                            Herbs Infused Steam Room:
+                        </h4>
+                        <p style="text-align:justify;">
+                            Immerse yourself in the soothing embrace of our Herbs Infused
+Steam Room. Enveloped in aromatic clouds of steam infused with carefully selected herbs, this
+experience promotes relaxation, rejuvenation, and skin health. Allow the warmth to seep into
+your pores, opening them up for a deep cleanse, while the healing properties of the herbs
+provide a delightful sensory journey.
+                        </p>
+
+                        <p style="text-align:justify;">
+                            Enjoy while being captivated by the enchanting forest views just outside. As you unwind in the
+steam, allow your gaze to wander through the glass window, where the beauty of the
+surrounding forest unfolds before your eyes. The combination of the aromatic steam and the
+green views creates a truly unique and immersive experience, connecting you with nature and
+enhancing your sense of well-being.
+                        </p>
+
+                        <h4 class="mad-title text-center" style="margin-bottom:0px!important;" id="tm10">
+                            River Rock Sauna Room:
+                        </h4>
+                        <p style="text-align:justify;">
+                            Step into our River Rock Sauna Room, where the dry heat from heated river rocks creates a
+tranquil environment for detoxification and relaxation. Feel the therapeutic warmth envelop
+your body, releasing tension and promoting a sense of well-being. Let the sauna experience
+invigorate your senses and leave you feeling refreshed and revitalized.
+                        </p>
+                        <p style="text-align:justify;">
+                            while offering a breathtaking glimpse of the forest scenery beyond. Let your eyes wander
+through the glass window that showcase the natural splendor of the forest. Immerse yourself
+in this serene environment, where the fusion of therapeutic warmth and the picturesque
+
+views creates an extraordinary sensory experience. Relax, rejuvenate, and feel a profound
+connection with nature, as the forest becomes an integral part of your sauna journey.
+                        </p>
+                        <p style="text-align:justify;">
+                            To enhance your journey of relaxation, our Sweat Lounge offers the choice of indulging in an
+outdoor forest setting bath or an indoor bath. Immerse yourself in the beauty of nature as you
+unwind, connecting with the elements that surround you. Complete with well-appointed
+facilities, including toilets and a spa lobby, we ensure your visit to the Shanti Sweat Lounge is
+seamless and comfortable.
+                        </p>
+                        <p style="text-align:justify;">
+                            Indulge in the transformative power of relaxation and rejuvenation at the Shanti Sweat
+Lounge. Immerse yourself in an oasis of tranquility, where the gentle sounds of nature and our
+therapeutic offerings harmonize to create an unforgettable experience. Embrace the serenity
+of Shanti Spa Village, where every visit to the Sweat Lounge nurtures your well-being and
+ignites your inner bliss.
                         </p>
                     </div>
                 </article>
