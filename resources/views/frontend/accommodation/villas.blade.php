@@ -86,7 +86,26 @@
                         <h4 class="mad-title text-center">
                             Drishti Single Dome Pool Villa
                         </h4>
-                        <div data-isotope-layout="masonry" data-isotope-filter="#portfolio-filter" class="mad-gallery item-col-3 mad-grid--isotope">
+                        <div class="mad-section no-pd content-element-main mad-section--stretched-content-no-px mad-colorizer--scheme-" style="margin-bottom: 3rem!important; margin-top: -1rem!important;">
+                            <div class=" mad-gallery-slider mad-grid owl-carousel mad-grid--cols-1 mad-owl-moving nav-size-2">
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Drishti-Single-Dome-Pool-Villa/1.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Drishti-Single-Dome-Pool-Villa/2.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Drishti-Single-Dome-Pool-Villa/3.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Drishti-Single-Dome-Pool-Villa/4.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Drishti-Single-Dome-Pool-Villa/6.jpg')}}" alt="" />
+                                </div>
+                            </div>
+                        </div>
+                        {{-- <div data-isotope-layout="masonry" data-isotope-filter="#portfolio-filter" class="mad-gallery item-col-3 mad-grid--isotope">
                             <div class="mad-grid-sizer"></div>
                             <div class="mad-grid-item">
                                 <!--================ Gallery Item ================-->
@@ -142,7 +161,7 @@
                                 </div>
                                 <!--================ End Of Gallery Item ================-->
                             </div>
-                        </div>
+                        </div> --}}
                         <div class="mad-table-wrap mt-5">
                             <table class="mad-table mad-table--vertical">
                                 <tbody>
@@ -180,43 +199,14 @@
                         <h4 class="mad-title text-center">
                             Shakti Single Dome Pool Villa
                         </h4>
-                        <div data-isotope-layout="masonry" class="mad-gallery item-col-3 mad-grid--isotope g2">
-                            <div class="mad-grid-sizer"></div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/villa/Shakti-Single-Dome-Pool-Villa/1.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/villa/Shakti-Single-Dome-Pool-Villa/1.jpg')}}" alt=""
-                                    /></a>
+                        <div class="mad-section no-pd content-element-main mad-section--stretched-content-no-px mad-colorizer--scheme-" style="margin-bottom: 3rem!important; margin-top: -1rem!important;">
+                            <div class=" mad-gallery-slider mad-grid owl-carousel mad-grid--cols-1 mad-owl-moving nav-size-2">
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Shakti-Single-Dome-Pool-Villa/3.jpg')}}" alt="" />
                                 </div>
-                                <!--================ End Of Gallery Item ================-->
-                            </div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/villa/Shakti-Single-Dome-Pool-Villa/2.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/villa/Shakti-Single-Dome-Pool-Villa/2.jpg')}}" alt=""
-                                    /></a>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Shakti-Single-Dome-Pool-Villa/4.jpg')}}" alt="" />
                                 </div>
-                                <!--================ End Of Gallery Item ================-->
-                            </div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/villa/Shakti-Single-Dome-Pool-Villa/3.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/villa/Shakti-Single-Dome-Pool-Villa/3.jpg')}}" alt=""
-                                    /></a>
-                                </div>
-                                <!--================ End Of Gallery Item ================-->
-                            </div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/villa/Shakti-Single-Dome-Pool-Villa/4.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/villa/Shakti-Single-Dome-Pool-Villa/4.jpg')}}" alt=""
-                                    /></a>
-                                </div>
-                                <!--================ End Of Gallery Item ================-->
                             </div>
                         </div>
                         <div class="mad-table-wrap mt-5">
@@ -254,54 +244,22 @@
 
                     <div class="villa-item mt-5">
                         <h4 class="mad-title text-center">
-                            Ananda Single Dome Pool Villa 1
+                            Ananda Single Dome Pool Villa
                         </h4>
-                        <div data-isotope-layout="masonry" class="mad-gallery item-col-3 mad-grid--isotope g3">
-                            <div class="mad-grid-sizer"></div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/villa/Ananda-Single-Dome-Pool-Villa/1.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/villa/Ananda-Single-Dome-Pool-Villa/1.jpg')}}" alt=""
-                                    /></a>
+                        <div class="mad-section no-pd content-element-main mad-section--stretched-content-no-px mad-colorizer--scheme-" style="margin-bottom: 3rem!important; margin-top: -1rem!important;">
+                            <div class=" mad-gallery-slider mad-grid owl-carousel mad-grid--cols-1 mad-owl-moving nav-size-2">
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Ananda-Single-Dome-Pool-Villa/1.jpg')}}" alt="" />
                                 </div>
-                                <!--================ End Of Gallery Item ================-->
-                            </div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/villa/Ananda-Single-Dome-Pool-Villa/2.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/villa/Ananda-Single-Dome-Pool-Villa/2.jpg')}}" alt=""
-                                    /></a>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Ananda-Single-Dome-Pool-Villa/3.jpg')}}" alt="" />
                                 </div>
-                                <!--================ End Of Gallery Item ================-->
-                            </div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/villa/Ananda-Single-Dome-Pool-Villa/3.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/villa/Ananda-Single-Dome-Pool-Villa/3.jpg')}}" alt=""
-                                    /></a>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Ananda-Single-Dome-Pool-Villa/4.jpg')}}" alt="" />
                                 </div>
-                                <!--================ End Of Gallery Item ================-->
-                            </div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/villa/Ananda-Single-Dome-Pool-Villa/4.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/villa/Ananda-Single-Dome-Pool-Villa/4.jpg')}}" alt=""
-                                    /></a>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Ananda-Single-Dome-Pool-Villa/5.jpg')}}" alt="" />
                                 </div>
-                                <!--================ End Of Gallery Item ================-->
-                            </div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/villa/Ananda-Single-Dome-Pool-Villa/5.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/villa/Ananda-Single-Dome-Pool-Villa/5.jpg')}}" alt=""
-                                    /></a>
-                                </div>
-                                <!--================ End Of Gallery Item ================-->
                             </div>
                         </div>
                         <div class="mad-table-wrap mt-5">
@@ -341,52 +299,20 @@
                         <h4 class="mad-title text-center">
                             Prana Single Dome Pool Villa
                         </h4>
-                        <div data-isotope-layout="masonry" class="mad-gallery item-col-3 mad-grid--isotope g4">
-                            <div class="mad-grid-sizer"></div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/villa/Prana-Single-Dome-Pool-Villa/1.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/villa/Prana-Single-Dome-Pool-Villa/1.jpg')}}" alt=""
-                                    /></a>
+                        <div class="mad-section no-pd content-element-main mad-section--stretched-content-no-px mad-colorizer--scheme-" style="margin-bottom: 3rem!important; margin-top: -1rem!important;">
+                            <div class=" mad-gallery-slider mad-grid owl-carousel mad-grid--cols-1 mad-owl-moving nav-size-2">
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Prana-Single-Dome-Pool-Villa/2.jpg')}}" alt="" />
                                 </div>
-                                <!--================ End Of Gallery Item ================-->
-                            </div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/villa/Prana-Single-Dome-Pool-Villa/2.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/villa/Prana-Single-Dome-Pool-Villa/2.jpg')}}" alt=""
-                                    /></a>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Prana-Single-Dome-Pool-Villa/3.jpg')}}" alt="" />
                                 </div>
-                                <!--================ End Of Gallery Item ================-->
-                            </div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/villa/Prana-Single-Dome-Pool-Villa/3.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/villa/Prana-Single-Dome-Pool-Villa/3.jpg')}}" alt=""
-                                    /></a>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Prana-Single-Dome-Pool-Villa/4.jpg')}}" alt="" />
                                 </div>
-                                <!--================ End Of Gallery Item ================-->
-                            </div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/villa/Prana-Single-Dome-Pool-Villa/4.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/villa/Prana-Single-Dome-Pool-Villa/4.jpg')}}" alt=""
-                                    /></a>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Prana-Single-Dome-Pool-Villa/5.jpg')}}" alt="" />
                                 </div>
-                                <!--================ End Of Gallery Item ================-->
-                            </div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/villa/Prana-Single-Dome-Pool-Villa/5.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/villa/Prana-Single-Dome-Pool-Villa/5.jpg')}}" alt=""
-                                    /></a>
-                                </div>
-                                <!--================ End Of Gallery Item ================-->
                             </div>
                         </div>
                         <div class="mad-table-wrap mt-5">
@@ -426,43 +352,17 @@
                         <h4 class="mad-title text-center">
                             Mandala Single Dome Pool Villa
                         </h4>
-                        <div data-isotope-layout="masonry" class="mad-gallery item-col-3 mad-grid--isotope g5">
-                            <div class="mad-grid-sizer"></div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/villa/Mandala-Single-Dome-Pool-Villa/1.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/villa/Mandala-Single-Dome-Pool-Villa/1.jpg')}}" alt=""
-                                    /></a>
+                        <div class="mad-section no-pd content-element-main mad-section--stretched-content-no-px mad-colorizer--scheme-" style="margin-bottom: 3rem!important; margin-top: -1rem!important;">
+                            <div class=" mad-gallery-slider mad-grid owl-carousel mad-grid--cols-1 mad-owl-moving nav-size-2">
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Mandala-Single-Dome-Pool-Villa/1.jpg')}}" alt="" />
                                 </div>
-                                <!--================ End Of Gallery Item ================-->
-                            </div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/villa/Mandala-Single-Dome-Pool-Villa/2.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/villa/Mandala-Single-Dome-Pool-Villa/2.jpg')}}" alt=""
-                                    /></a>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Mandala-Single-Dome-Pool-Villa/2.jpg')}}" alt="" />
                                 </div>
-                                <!--================ End Of Gallery Item ================-->
-                            </div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/villa/Mandala-Single-Dome-Pool-Villa/3.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/villa/Mandala-Single-Dome-Pool-Villa/3.jpg')}}" alt=""
-                                    /></a>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Mandala-Single-Dome-Pool-Villa/4.jpg')}}" alt="" />
                                 </div>
-                                <!--================ End Of Gallery Item ================-->
-                            </div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/villa/Mandala-Single-Dome-Pool-Villa/4.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/villa/Mandala-Single-Dome-Pool-Villa/4.jpg')}}" alt=""
-                                    /></a>
-                                </div>
-                                <!--================ End Of Gallery Item ================-->
                             </div>
                         </div>
                         <div class="mad-table-wrap mt-5">
@@ -502,88 +402,17 @@
                         <h4 class="mad-title text-center">
                             Junior Tent Lodges 1 & 2
                         </h4>
-                        <div data-isotope-layout="masonry" class="mad-gallery item-col-3 mad-grid--isotope g5">
-                            <div class="mad-grid-sizer"></div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/1.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/1.jpg')}}" alt=""
-                                    /></a>
+                        <div class="mad-section no-pd content-element-main mad-section--stretched-content-no-px mad-colorizer--scheme-" style="margin-bottom: 3rem!important; margin-top: -1rem!important;">
+                            <div class=" mad-gallery-slider mad-grid owl-carousel mad-grid--cols-1 mad-owl-moving nav-size-2">
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/1.jpg')}}" alt="" />
                                 </div>
-                                <!--================ End Of Gallery Item ================-->
-                            </div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/2.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/2.jpg')}}" alt=""
-                                    /></a>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/2.jpg')}}" alt="" />
                                 </div>
-                                <!--================ End Of Gallery Item ================-->
-                            </div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/3.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/3.jpg')}}" alt=""
-                                    /></a>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/9.jpg')}}" alt="" />
                                 </div>
-                                <!--================ End Of Gallery Item ================-->
-                            </div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/4.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/4.jpg')}}" alt=""
-                                    /></a>
-                                </div>
-                                <!--================ End Of Gallery Item ================-->
-                            </div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/5.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/5.jpg')}}" alt=""
-                                    /></a>
-                                </div>
-                                <!--================ End Of Gallery Item ================-->
-                            </div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/6.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/6.jpg')}}" alt=""
-                                    /></a>
-                                </div>
-                                <!--================ End Of Gallery Item ================-->
-                            </div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/7.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/7.jpg')}}" alt=""
-                                    /></a>
-                                </div>
-                                <!--================ End Of Gallery Item ================-->
-                            </div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/8.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/8.jpg')}}" alt=""
-                                    /></a>
-                                </div>
-                                <!--================ End Of Gallery Item ================-->
-                            </div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/9.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/9.jpg')}}" alt=""
-                                    /></a>
-                                </div>
-                                <!--================ End Of Gallery Item ================-->
                             </div>
                         </div>
                         <div class="mad-table-wrap mt-5">

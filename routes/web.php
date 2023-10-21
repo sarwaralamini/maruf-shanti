@@ -91,9 +91,12 @@ Route::get('wellness/sweat-lounge', function () {
     return view('frontend.wellness.sweat-lounge');
 })->name('sweat-lounge');
 
+Route::get('wellness/packages', function () {
+    return view('frontend.wellness.packages');
+})->name('packages');
 
-Route::get('healthy-living', function () {
-    return view('frontend.healthy-living');
+Route::get('wellness/healthy-living', function () {
+    return view('frontend.wellness.healthy-living');
 })->name('healthy-living');
 
 Route::get('events-meetings/celebrate', function () {
@@ -159,6 +162,10 @@ Route::get('refund-and-cancellation-policy', function () {
     return view('frontend.footer.refund-and-cancellation-policy-2');
 })->name('footer.refund-and-cancellation-policy');
 
+Route::get('sitemap', function () {
+    return view('frontend.footer.sitemap');
+})->name('footer.sitemap');
+
 Route::get('work-with-us', function () {
     return view('frontend.footer.work-with-us');
 })->name('footer.work-with-us');
@@ -170,6 +177,7 @@ Route::get('partner-with-us', function () {
 Route::get('shanti-academy', function () {
     return view('frontend.footer.shanti-academy');
 })->name('footer.shanti-academy');
+
 
 
 

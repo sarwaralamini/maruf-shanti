@@ -52,22 +52,22 @@
                 <article class="mad-entity">
                     <div style="max-width:100rem;font-size: 1.125rem;line-height:1.5rem;" >
                         <div class="mad-entity-pre-title">Serenity and Discovery</div>
-                        <h6 class="mad-entity-title" style="text-align:center;">
+                        <p class="mad-entity-title" style="text-align:center;margin-bottom: 0.5rem;">
                             Awaken to the songs of nature.
-                        </h6>
-                        <h6 class="mad-entity-title" style="text-align:center;">
+                        </p>
+                        <p class="mad-entity-title" style="text-align:center;margin-bottom: 0.5rem;">
                             For a few minutes every day, close your eyes and listen to the sound of silence. It’s often the most beautiful music of all.
-                        </h6>
-                        <h6 class="mad-entity-title" style="text-align:center;">
+                        </p>
+                        <p class="mad-entity-title" style="text-align:center;margin-bottom: 0.5rem;">
                             A secluded world of serenity and tranquility. A holistic destination! Begin your journey.
-                        </h6>
+                        </p>
                         <p style="text-align:center;">
                             <img src="{{ asset('assets/img/about/serenity_and_discovery.jpg') }}" style="width:50%;" alt="" />
                         </p>
                         <p style="text-align:justify;">
                             Shanti Wellness Sanctuary is an enchanting hillside retreat overlooking lush forest, coconut plantation and Balayan Bay, yet located only minutes away from Tagaytay City.
                         </p>
-                        <p style="text-align:justify;">
+                        <p style="text-align:justify;margin-bottom:0rem;">
                             Every detail has a creative touch. A spacious villa which pleasantly blends harmoniously with its natural surroundings. Plunge into the delicious seclusion of your private pool under a clear blue sky. Here, the lushness of the forest stretches before you and perfumed flowers scatter the ground. The resort provides a natural sanctuary for vividly-colored birds and butterflies. When it rains, enjoy watching the rain in the forest while listening to the sound of flowing water in the creek below.
                         </p>
                         <div class="mad-list-content">

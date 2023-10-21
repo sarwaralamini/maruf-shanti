@@ -86,7 +86,7 @@
                             Shanti is not just a great place to visit, it’s a great place to work.
                         </p>
                         <p style="text-align:center;">
-                            <img src="{{ asset('assets/img/about/our_vision_2.jpg') }}" alt="" style="width:50%;" />
+                            <img src="{{ asset('assets/img/about/our_vision_2.jpg') }}" alt=""/>
                         </p>
                         <div class="mad-info-header">
                             <h5 class="mad-team-member-name">
@@ -97,7 +97,7 @@
                             Walk with us now through the tranquil gardens of Shanti today and experience the sense of well-being. Everyone seeks a state of harmony between mind, body and spirit. And we are here to connect the dots. As this journey of the imagination, you can go anywhere you please within our 4 hectares of lush green property. The SPA village is our signature development where everything is created very artfully, carefully and passionately.
                         </p>
                         <p style="text-align:center;">
-                            <img src="{{ asset('assets/img/about/our_vision_3.jpg') }}" alt="" style="width:70%;"/>
+                            <img src="{{ asset('assets/img/about/our_vision_3.jpg') }}" alt="" />
                         </p>
 
                         <p style="text-align:justify;">

@@ -81,7 +81,11 @@
                             <li class="menu-item">
                                 <a href="{{ route('sweat-lounge') }}">Sweat Lounge</a>
                             </li>
-                            
+
+                            <li class="menu-item">
+                                <a href="{{ route('packages') }}">Packages</a>
+                            </li>
+
                             <li class="menu-item">
                                 <a href="{{ route('healthy-living') }}">Healthy Living</a>
                             </li>

@@ -1,7 +1,7 @@
 
 @extends('frontend.layouts.app')
 {{-- Website SEO --}}
-@section('title', 'Work With Us')
+@section('title', 'Refund & Cancellation Policy')
 @section('meta_description', '')
 @section('meta_author', '')
 @section('meta_copyright', '')
@@ -9,7 +9,7 @@
 @section('meta_robot', '')
 
 {{-- Facebook SEO --}}
-@section('og_title', 'Work With Us')
+@section('og_title', 'Sitemap')
 @section('og_description', '')
 @section('og_type', '')
 @section('og_url', '')
@@ -34,10 +34,10 @@
     data-bg-image-src="{{ asset('assets/img/bc.jpg') }}"
     >
     <div class="container wide">
-    <h1 class="mad-page-title">WORK WITH US</h1>
+    <h1 class="mad-page-title">SITEMAP</h1>
     <nav class="mad-breadcrumb-path">
         <span><a href="{{ route('homepage') }}" class="mad-link">Home</a></span> /
-        <span>WORK WITH US</span>
+        <span>SITEMAP</span>
     </nav>
     </div>
     </div>
@@ -50,11 +50,11 @@
                 <!--================ Entity ================-->
                 <article class="mad-entity" style="justify-content: flex-start;">
                     <div style="max-width:100rem;font-size: 1.125rem;line-height:1.5rem;" >
-                        <div class="mad-entity-pre-title">WORK WITH US</div>
+                        <div class="mad-entity-pre-title">SITEMAP</div>
                         <section class="mad-widget">
-                            Please send resume to this email address:
-                            <a href="#" class="mad-link">hr@bigfish.ph</a>
-                            <br>
+                            <div class="mad-list-content">
+
+                            </div>
                         </section>
                     </div>
                 </article>

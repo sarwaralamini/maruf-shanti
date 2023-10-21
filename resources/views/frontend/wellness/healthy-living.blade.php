@@ -37,6 +37,7 @@
     <h1 class="mad-page-title">Healthy Living</h1>
     <nav class="mad-breadcrumb-path">
         <span><a href="{{ route('homepage') }}" class="mad-link">Home</a></span> /
+        <span>Wellness</span> /
         <span>Healthy Living</span>
     </nav>
     </div>
