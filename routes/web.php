@@ -58,6 +58,10 @@ Route::get('accommodation/villa-amenities', function () {
     return view('frontend.accommodation.villa-amenities');
 })->name('villa-amenities');
 
+Route::get('accommodation/jtl-amenities', function () {
+    return view('frontend.accommodation.jtl-amenities');
+})->name('jtl-amenities');
+
 Route::get('accommodation/resort-services-or-amenities', function () {
     return view('frontend.accommodation.resort-services-or-amenities');
 })->name('resort-services-or-amenities');
@@ -130,6 +134,10 @@ Route::get('dining/romantic-dining', function () {
 Route::get('dining/bohemian-dining', function () {
     return view('frontend.dining.bohemian-dining');
 })->name('dining.bohemian-dining');
+
+Route::get('dining/bohemian-dining/food-menu', function () {
+    return view('frontend.dining.bohemian-dining-food-menu');
+})->name('dining.bohemian-dining.food-menu');
 
 Route::get('dining/glam-picnic', function () {
     return view('frontend.dining.glam-picnic');

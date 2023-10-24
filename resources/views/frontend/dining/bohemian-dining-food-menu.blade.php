@@ -1,7 +1,7 @@
 
 @extends('frontend.layouts.app')
 {{-- Website SEO --}}
-@section('title', 'Make it Romantic')
+@section('title', 'Food Menu')
 @section('meta_description', '')
 @section('meta_author', '')
 @section('meta_copyright', '')
@@ -9,7 +9,7 @@
 @section('meta_robot', '')
 
 {{-- Facebook SEO --}}
-@section('og_title', 'Make it Romantic')
+@section('og_title', 'Food Menu')
 @section('og_description', '')
 @section('og_type', '')
 @section('og_url', '')
@@ -34,11 +34,12 @@
     data-bg-image-src="{{ asset('assets/img/bc.jpg') }}"
     >
     <div class="container wide">
-    <h1 class="mad-page-title">Make It Romantic</h1>
+    <h1 class="mad-page-title">Food Menu</h1>
     <nav class="mad-breadcrumb-path">
         <span><a href="{{ route('homepage') }}" class="mad-link">Home</a></span> /
-        <span>Accommodation</span> /
-        <span>Make it Romantic</span>
+        <span>Dining</span> /
+        <span>Bohemian Dining</span> /
+        <span>Food Menu</span>
     </nav>
     </div>
     </div>
@@ -51,25 +52,15 @@
                 <!--================ Entity ================-->
                 <article class="mad-entity">
                     <div style="max-width:100rem;font-size: 1.125rem;line-height:1.5rem;" >
-                        <div class="mad-entity-pre-title">Make it Romantic</div>
-                        <h6 class="mad-entity-title" style="text-align:justify;">
-                            Immerse yourself in a romantic getaway with your loved ones at Shanti. It’s the place to be.
-                        </h6>
-                        <p style="text-align:justify;">
-                            We offer a romantic dome setup. The design of the dome will depend on the occasion.
+                        <div class="mad-entity-pre-title">Food Menu</div>
 
-                            P1000/room setup with banner, balloons, petals, bathtub candles, etc.
-                        </p>
-                        <p style="text-align: center;margin-top:-20px;">
-                                    <a href="{{ route('contact.contact-us') }}" target="_new" class="btn btn-huge btn-style-3 mt-3"> MESSAGE US TO BOOK THIS SERVICE </a>
-                                </p>
-                        <div data-isotope-layout="masonry" data-isotope-filter="#portfolio-filter" class="mad-gallery item-col-3 mad-grid--isotope">
+                        <div data-isotope-layout="masonry" class="mad-gallery item-col-3 mad-grid--isotope g4 mt-3" style="margin-top:-2rem!important">
                             <div class="mad-grid-sizer"></div>
                             <div class="mad-grid-item">
                                 <!--================ Gallery Item ================-->
                                 <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/make-it-romantic/1.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/make-it-romantic/1.jpg')}}" alt=""
+                                    <a href="{{ asset('assets/img/dining/bohemian-dining/1.jpg')}}" data-fancybox="gallery"
+                                    ><img src="{{ asset('assets/img/dining/bohemian-dining/1.jpg')}}" alt=""
                                     /></a>
                                 </div>
                                 <!--================ End Of Gallery Item ================-->
@@ -77,17 +68,8 @@
                             <div class="mad-grid-item">
                                 <!--================ Gallery Item ================-->
                                 <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/make-it-romantic/2.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/make-it-romantic/2.jpg')}}" alt=""
-                                    /></a>
-                                </div>
-                                <!--================ End Of Gallery Item ================-->
-                            </div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/accommodation/make-it-romantic/3.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/accommodation/make-it-romantic/3.jpg')}}" alt=""
+                                    <a href="{{ asset('assets/img/dining/bohemian-dining/2.jpg')}}" data-fancybox="gallery"
+                                    ><img src="{{ asset('assets/img/dining/bohemian-dining/2.jpg')}}" alt=""
                                     /></a>
                                 </div>
                                 <!--================ End Of Gallery Item ================-->

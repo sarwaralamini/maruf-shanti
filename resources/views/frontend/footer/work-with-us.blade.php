@@ -55,6 +55,8 @@
                             Please send resume to this email address:
                             <a href="#" class="mad-link">hr@bigfish.ph</a>
                             <br>
+                            <br>
+                            <br>
                         </section>
                     </div>
                 </article>

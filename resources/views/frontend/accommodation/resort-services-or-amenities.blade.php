@@ -38,7 +38,7 @@
     <nav class="mad-breadcrumb-path">
         <span><a href="{{ route('homepage') }}" class="mad-link">Home</a></span> /
         <span>Accommodation</span> /
-        <span>Resort Services / Amenities</span>
+        <span>Resort Services and Amenities</span>
     </nav>
     </div>
     </div>
@@ -61,7 +61,7 @@
                         <p style="text-align:center;">
                             <div role="alert" class="mad-alert-box mad-alert-box--info">
                                 <div class="mad-alert-box-inner">
-                                    We offer free parking inside the resort. From the car park, our 12-seater golf cart will bring you to your designated Villa.
+                                    We offer free parking inside the resort. From the car park, our 12-seater golf cart will bring you to your designated Villa or Tent Lodge.
                                 </div>
                             </div>
                         </p>
@@ -72,21 +72,21 @@
                                     <p>
                                         If you commute by bus, we can fetch you at Tagaytay-Nasugbo highway near Welcome to Nasugbu Arch, without any charge.
                                     </p>
+                                    <p style="text-align:justify;">
+                                        <span style="font-weight:700;">Please note:</span>
+                                    <br>
+                                    <i>
+                                        *One time pick up and one time drop off is free of charge at the Tagaytay-Nasugbu Highway Arch for check in and check out guests only.
+                                        <br>
+                                        *Cab capacity is maximum of 12 persons and must be scheduled in advance but may not be available from 11AM to 3PM. Please coordinate with our ground staff for proper arrangement.
+                                        <br>
+                                        *During your stay, our shuttle cab service is for within the resort premises use Only.
+                                    </i>
+                                </p>
                                 </blockquote>
                                 </div>
                             </div>
                         </div>
-                        <p>
-                            Please note:
-                            <br>
-                            <i>
-                                *One time pick up and one time drop off is free of charge at the Tagaytay-Nasugbu Highway Arch for check in and check out guests only.
-                                <br>
-                                *Cab capacity is maximum of 12 persons and must be scheduled in advance but may not be available from 11AM to 3PM. Please coordinate with our ground staff for proper arrangement.
-                                <br>
-                                *During your stay, our shuttle cab service is for within the resort premises use Only.
-                            </i>
-                        </p>
                         <p>
                             <img src="{{ asset('assets/img/accommodation/Resort_Services_Amenities_1.jpg') }}" alt="" />
                         </p>
@@ -96,35 +96,27 @@
                             </b>
                         </p>
                         <div class="mad-list-content">
-                            <ul class="mad-list--icon">
-                                <li><i class="icon material-icons">check</i>24-Hour Front Desk Service</li>
-                                <li><i class="icon material-icons">check</i>24-Hour Security</li>
-                                <li><i class="icon material-icons">check</i>Airport Pickup/Drop Off (with charge)</li>
-                                <li><i class="icon material-icons">check</i>Tagaytay Pickup/Drop Off (with charge)</li>
-                                <li><i class="icon material-icons">check</i>Free Parking</li>
-                                <li><i class="icon material-icons">check</i>Free Pickup from Tagaytay-Nasugbo highway near Welcome to Nasugbu Arch</li>
-                                <li><i class="icon material-icons">check</i>Wireless Internet In All Domes </li>
-                                <li><i class="icon material-icons">check</i>Room Service</li>
-                                <li><i class="icon material-icons">check</i>Pets Are Allowed</li>
-                                <li><i class="icon material-icons">check</i>Wellness Village</li>
-                                <li><i class="icon material-icons">check</i>SPA Village</li>
+                            <ul class="mad-list--icon-2">
+                                <li style="margin-bottom:5px;"><i class="icon material-icons">check</i>24-Hour Front Desk Service</li>
+                                <li style="margin-bottom:5px;"><i class="icon material-icons">check</i>24-Hour Security</li>
+                                <li style="margin-bottom:5px;"><i class="icon material-icons">check</i>Airport Pickup/Drop Off (with charge)</li>
+                                <li style="margin-bottom:5px;"><i class="icon material-icons">check</i>Tagaytay Pickup/Drop Off (with charge)</li>
+                                <li style="margin-bottom:5px;"><i class="icon material-icons">check</i>Free Parking</li>
+                                <li style="margin-bottom:5px;"><i class="icon material-icons">check</i>Free Pickup from Tagaytay-Nasugbo highway near Welcome to Nasugbu Arch</li>
+                                <li style="margin-bottom:5px;"><i class="icon material-icons">check</i>Wireless Internet In All Domes </li>
+                                <li style="margin-bottom:5px;"><i class="icon material-icons">check</i>Room Service</li>
+                                <li style="margin-bottom:5px;"><i class="icon material-icons">check</i>Pets Are Allowed</li>
+                                <li style="margin-bottom:5px;"><i class="icon material-icons">check</i>Wellness Village</li>
+                                <li style="margin-bottom:5px;"><i class="icon material-icons">check</i>SPA Village</li>
                             </ul>
                         </div>
-                        <br><br>
-                        <p style="text-align:justify;">
-                            There are places where you feel that everything around you seems to stop for while. Where time stands still.
-                            Welcome to Shanti Wellness Sanctuary. A secluded world of serenity and tranquility.
-                        </p>
-                        <p style="text-align:justify;">
-                            The jungle-bound resort is the kind of place that offers unique accommodation with both relaxation and wellness.
-                        </p>
 
                         <h3 class="mad-title" style="margin-bottom:0px!important;text-align:center;">
                             Inclusions
                         </h3>
 
                         <p style="text-align:justify;">
-                            Experience or do things you may love to do here (complimentary and self-experienced):
+                            Experience or things you may love to do here (complimentary and self-experienced):
                         </p>
                         <table class="mad-table">
                             <tbody>

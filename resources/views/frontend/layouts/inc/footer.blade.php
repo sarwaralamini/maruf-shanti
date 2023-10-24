@@ -102,8 +102,7 @@
                 <a href="{{ route('footer.sitemap') }}">Sitemap</a> |
                 <a href="{{ route('footer.work-with-us') }}">Work With Us</a> |
                 <a href="{{ route('footer.partner-with-us') }}">Partner With Us</a> |
-                <a href="{{ route('footer.shanti-academy') }}">Shanti Academy</a> |
-                <a href="{{ route('contact.contact-us') }}">Contact Us</a> <br>
+                <a href="{{ route('footer.shanti-academy') }}">Shanti Academy</a>
             </p>
 
             <p class="copyrights align-center"> Copyright © {{ date('Y') }} <a href="#">BIGFISH HOSPITALITY GROUP</a>. <br> All Rights Reserved. </p>

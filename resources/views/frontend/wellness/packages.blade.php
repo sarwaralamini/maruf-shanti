@@ -53,7 +53,69 @@
                     <div style="max-width:100rem;font-size: 1.125rem;line-height:1.5rem;" >
                         <div class="mad-entity-pre-title">WORK WITH US</div>
                         <section class="mad-widget">
+                            <p style="text-align:justify;">
+                                Here are the packages you may love to book with us.
+                            </p>
+                            <p style="text-align:justify;">
+                                We welcome day tour guests for wellness activities and private dining. Advance booking is required.
+                            </p>
+                            <p style="text-align: center;">
+                                <img src="{{ asset('assets/img/wellness/packages/1.jpg')}}" alt="">
+                            </p>
+                            <p style="text-align: center;">
+                                <img src="{{ asset('assets/img/wellness/packages/2.jpg')}}" alt="">
+                            </p>
+                            <p style="text-align: center;">
+                                <img src="{{ asset('assets/img/wellness/packages/3.jpg')}}" alt="">
+                            </p>
+                            <p style="text-align: center;">
+                                <img src="{{ asset('assets/img/wellness/packages/4.jpg')}}" alt="">
+                            </p>
+                            <p style="text-align: center;">
+                                <img src="{{ asset('assets/img/wellness/packages/5.jpg')}}" alt="">
+                            </p>
+                            <p style="text-align: center;">
+                                <img src="{{ asset('assets/img/wellness/packages/6.jpg')}}" alt="">
+                            </p>
+                            <p style="text-align: center;">
+                                <img src="{{ asset('assets/img/wellness/packages/1290.jpg')}}" alt="">
+                            </p>
+                            <p style="text-align: center;">
+                                <img src="{{ asset('assets/img/wellness/packages/7.jpg')}}" alt="">
+                            </p>
+                            <p style="text-align: center;">
+                                <img src="{{ asset('assets/img/wellness/packages/8.jpg')}}" alt="">
+                            </p>
+                            <p style="text-align: center;">
+                                <img src="{{ asset('assets/img/wellness/packages/9.jpg')}}" alt="">
+                            </p>
+                            <p style="text-align: center;">
+                                <img src="{{ asset('assets/img/wellness/packages/10.jpg')}}" alt="">
+                            </p>
+                            <p style="text-align: center;">
+                                <img src="{{ asset('assets/img/wellness/packages/11.jpg')}}" alt="">
+                            </p>
+                            <p style="text-align: center;">
+                                <img src="{{ asset('assets/img/wellness/packages/12.jpg')}}" alt="">
+                            </p>
 
+                            <p style="text-align: center;">
+                                <img src="{{ asset('assets/img/wellness/packages/14.jpg')}}" alt="">
+                            </p>
+                            <p style="text-align: center;">
+                                <img src="{{ asset('assets/img/wellness/packages/15.jpg')}}" alt="">
+                            </p>
+                            <p style="text-align: center;">
+                                <img src="{{ asset('assets/img/wellness/packages/16.jpg')}}" alt="">
+                            </p>
+                            <p style="text-align: center;">
+                                <img src="{{ asset('assets/img/wellness/packages/17.jpg')}}" alt="">
+                            </p>
+                            <p style="text-align: center;">
+                                <video width="100%" controls>
+                                    <source src="{{ asset('assets/img/wellness/packages/18.mp4')}}" type="video/mp4">
+                                  </video>
+                            </p>
                         </section>
                     </div>
                 </article>

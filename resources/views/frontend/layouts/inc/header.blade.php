@@ -48,10 +48,13 @@
                                 <a href="{{ route('villa-amenities') }}">Villa Amenities</a>
                             </li>
                             <li class="menu-item">
-                                <a href="{{ route('resort-services-or-amenities') }}">Resort Services / Amenities </a>
+                                <a href="{{ route('jtl-amenities') }}">JTL Amenities</a>
                             </li>
                             <li class="menu-item">
-                                <a href="{{ route('make-it-romantic') }}">Make it Romantic</a>
+                                <a href="{{ route('resort-services-or-amenities') }}">Resort Services and Amenities </a>
+                            </li>
+                            <li class="menu-item">
+                                <a href="{{ route('make-it-romantic') }}">Make It Romantic</a>
                             </li>
                             <li class="menu-item">
                                 <a href="{{ route('birthday-setup') }}">Birthday Setup</a>
@@ -75,7 +78,7 @@
                                 <a href="{{ route('spa-village') }}">Spa Village</a>
                             </li>
                             <li class="menu-item">
-                                <a href="{{ route('spa-and-bath-menu') }}">Spa & Bath Menu</a>
+                                <a href="{{ route('spa-and-bath-menu') }}">Spa and Bath Menu</a>
                             </li>
 
                             <li class="menu-item">

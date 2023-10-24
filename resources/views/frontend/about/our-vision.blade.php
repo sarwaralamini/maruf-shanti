@@ -53,7 +53,7 @@
                     <div style="max-width:100rem;font-size: 1.125rem;line-height:1.5rem;" >
                         <div class="mad-entity-pre-title">What is Shanti?</div>
                         <h6 class="mad-entity-title" style="text-align:center;">
-                            Shanti is the brainchild of Dr. Maruf Hasan, founder of Bigfish Manila Inc. BIGFISH Hospitality with its resorts in Boracay and El Nido, <br> though with a different concept, he dreamed of creating a total mind and body experience superior to any in existence way back in 2004.
+                            Shanti is the brainchild of Dr. Maruf Hasan, founder of Bigfish Manila Inc. BIGFISH Hospitality with its resorts in Boracay and El Nido, though with a different concept, he dreamed of creating a total mind and body experience superior to any in existence way back in 2004.
                         </h6>
                         <div class="mad-testimonial-bg content-element-4">
                             <div class="mad-testimonial">

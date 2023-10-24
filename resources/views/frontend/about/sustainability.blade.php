@@ -56,7 +56,7 @@
                             This 4 hectares (9.8-acre) land within a pristine forest has allowed us to create a destination spa, which is completely accessible yet blissfully secluded.
                         </h6>
                         <p style="text-align:center;">
-                            <img src="{{ asset('assets/img/about/sustainability.jpg') }}" alt="" style="width:50%;"/>
+                            <img src="{{ asset('assets/img/about/sustainability.jpg') }}" alt=""/>
                         </p>
                         <p style="text-align:justify;">
                             Shanti, named for the Sanskrit word meaning “peace”, Shanti Wellness Sanctuary offers a thoughtful, sustainable approach to wellness: we bring you close to nature to revitalize you here and we educate your mind so that you leave our wellness retreat with healthy habits and practices which allow you to enjoy greater mental, spiritual and physical well-being for years to come.

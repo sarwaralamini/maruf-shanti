@@ -34,12 +34,12 @@
     data-bg-image-src="{{ asset('assets/img/bc.jpg') }}"
     >
     <div class="container wide">
-    <h1 class="mad-page-title">Romantic Dining</h1>
-    <nav class="mad-breadcrumb-path">
-        <span><a href="{{ route('homepage') }}" class="mad-link">Home</a></span> /
-        <span>Dining</span> /
-        <span>Romantic Dining</span>
-    </nav>
+        <h1 class="mad-page-title">Romantic Dining</h1>
+        <nav class="mad-breadcrumb-path">
+            <span><a href="{{ route('homepage') }}" class="mad-link">Home</a></span> /
+            <span>Dining</span> /
+            <span>Romantic Dining</span>
+        </nav>
     </div>
     </div>
     <!--================ End of Breadcrumb ================-->
@@ -48,15 +48,11 @@
         <div class="container">
             <div class="mad-section">
                 <div class="mad-entities mad-entities-reverse type-4">
-                    <!--================ Entity ================-->
-                    <article class="mad-entity" style="justify-content: flex-start!important;">
-                        <div style="max-width:100rem;font-size: 1.125rem;line-height:1.5rem;" >
-                            <div class="mad-entity-pre-title">Romantic Dining</div>
-                        </div>
-                    </article>
-                    <article>
-                        <div>
-
+                <!--================ Entity ================-->
+                <article class="mad-entity" style="justify-content: flex-start;">
+                    <div style="max-width:100rem;font-size: 1.125rem;line-height:1.5rem;" >
+                        <div class="mad-entity-pre-title">Romantic Dining</div>
+                        <section class="mad-widget">
                             <p style="text-align:justify;">
                                 To turn the romance up by several notches, we also offer a glamorous romantic dinner table setup. Something special, very special.
                             </p>
@@ -65,48 +61,37 @@
                                 <br>
                                 P1000/table setup with petals, candles, etc.
                             </p>
-
-                            <p style="text-align:center!important;">
-                                <button type="button" class="btn btn-huge btn-style-3 mt-3"> Message us to book this service.  </button>
+                            <p style="text-align:center!important;margin-top:-15px; margin-bottom:35px;">
+                                <a href="{{ route('contact.contact-us') }}" target="_new" class="btn btn-huge btn-style-3 mt-3"> Message us to book this service </a>
                             </p>
 
-                            <div data-isotope-layout="masonry" class="mad-gallery item-col-3 mad-grid--isotope g4 mt-3">
-                                <div class="mad-grid-sizer"></div>
-                                <div class="mad-grid-item">
-                                    <!--================ Gallery Item ================-->
-                                    <div class="mad-gallery-item">
-                                        <a href="{{ asset('assets/img/dining/romantic-dining/1.jpg')}}" data-fancybox="gallery"
-                                        ><img src="{{ asset('assets/img/dining/private-dining/1.jpg')}}" alt=""
-                                        /></a>
+                            <div class="mad-section no-pd content-element-main mad-section--stretched-content-no-px mad-colorizer--scheme-" style="margin-bottom: 3rem!important; margin-top: -1rem!important;">
+                                <div class=" mad-gallery-slider mad-grid owl-carousel mad-grid--cols-1 mad-owl-moving nav-size-2">
+                                    <div class="mad-col">
+                                        <img src="{{ asset('assets/img/dining/romantic-dining/5.jpg')}}" alt="" />
                                     </div>
-                                    <!--================ End Of Gallery Item ================-->
-                                </div>
-                                <div class="mad-grid-item">
-                                    <!--================ Gallery Item ================-->
-                                    <div class="mad-gallery-item">
-                                        <a href="{{ asset('assets/img/dining/romantic-dining/2.jpg')}}" data-fancybox="gallery"
-                                        ><img src="{{ asset('assets/img/dining/private-dining/2.jpg')}}" alt=""
-                                        /></a>
+                                    <div class="mad-col">
+                                        <img src="{{ asset('assets/img/dining/romantic-dining/1.jpg')}}" alt="" />
                                     </div>
-                                    <!--================ End Of Gallery Item ================-->
-                                </div>
-                                <div class="mad-grid-item">
-                                    <!--================ Gallery Item ================-->
-                                    <div class="mad-gallery-item">
-                                        <a href="{{ asset('assets/img/dining/romantic-dining/3.jpg')}}" data-fancybox="gallery"
-                                        ><img src="{{ asset('assets/img/dining/private-dining/3.jpg')}}" alt=""
-                                        /></a>
+                                    <div class="mad-col">
+                                        <img src="{{ asset('assets/img/dining/romantic-dining/2.jpg')}}" alt="" />
                                     </div>
-                                    <!--================ End Of Gallery Item ================-->
+                                    <div class="mad-col">
+                                        <img src="{{ asset('assets/img/dining/romantic-dining/3.jpg')}}" alt="" />
+                                    </div>
+                                    <div class="mad-col">
+                                        <img src="{{ asset('assets/img/dining/romantic-dining/4.jpg')}}" alt="" />
+                                    </div>
                                 </div>
                             </div>
 
-                            <p style="text-align:center!important;">
-                                <a href="https://bit.ly/3Quag0z" class="btn btn-huge btn-style-3 mt-3"> View more photos  </a>
+                            <p style="text-align:center!important;margin-top:-25px;">
+                                <a href="https://bit.ly/3Quag0z" class="btn btn-huge btn-style-3 mt-3"> View more photos of romantic dining setup  </a>
                             </p>
-                        </div>
-                    </article>
-                    <!--================ End of Entity ================-->
+                        </section>
+                    </div>
+                </article>
+                <!--================ End of Entity ================-->
                 </div>
             </div>
         </div>

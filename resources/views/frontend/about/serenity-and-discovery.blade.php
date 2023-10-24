@@ -62,7 +62,7 @@
                             A secluded world of serenity and tranquility. A holistic destination! Begin your journey.
                         </p>
                         <p style="text-align:center;">
-                            <img src="{{ asset('assets/img/about/serenity_and_discovery.jpg') }}" style="width:50%;" alt="" />
+                            <img src="{{ asset('assets/img/about/serenity_and_discovery.jpg') }}" style="width:100%;" alt="" />
                         </p>
                         <p style="text-align:justify;">
                             Shanti Wellness Sanctuary is an enchanting hillside retreat overlooking lush forest, coconut plantation and Balayan Bay, yet located only minutes away from Tagaytay City.

@@ -58,33 +58,33 @@
                                 <br>We believe in win-wins.</p>
                                 <div class="row">
                                     <div class="col-3">
-                                        <h4 class="mad-title text-center" style="margin-bottom:0px;font-size:1.2rem!important;line-height:1.5rem;">
+                                        <h4 class="mad-title text-center" style="margin-bottom:0px;font-size:1.2rem!important;line-height:1.5rem;font-weight:700;">
                                             Quality
                                         </h4>
                                         <p style="text-align:justify;">We put our expertise at the service of our partners and believe in providing them the highest quality of service possible</p>
                                     </div>
                                     <div class="col-3">
-                                        <h4 class="mad-title text-center" style="margin-bottom:0px;font-size:1.2rem!important;line-height:1.5rem;">
+                                        <h4 class="mad-title text-center" style="margin-bottom:0px;font-size:1.2rem!important;line-height:1.5rem;font-weight:700;">
                                             Ownership
                                         </h4>
                                         <p style="text-align:justify;">We own our side of each partnership, being accountable for our performance and treating our partners’ projects as our own to guarantee long-term success</p>
                                     </div>
                                     <div class="col-3">
-                                        <h4 class="mad-title text-center" style="margin-bottom:0px;font-size:1.2rem!important;line-height:1.5rem;">
+                                        <h4 class="mad-title text-center" style="margin-bottom:0px;font-size:1.2rem!important;line-height:1.5rem;font-weight:700;">
                                             Integrity
                                         </h4>
                                         <p style="text-align:justify;">We aim to be a trusted partner, operating with honesty and in full transparency, never sacrificing long-term value for short-term results</p>
                                     </div>
                                     <div class="col-3">
-                                        <h4 class="mad-title text-center" style="margin-bottom:0px;font-size:1.2rem!important;line-height:1.5rem;">
+                                        <h4 class="mad-title text-center" style="margin-bottom:0px;font-size:1.2rem!important;line-height:1.5rem;font-weight:700;">
                                             Adaptability
                                         </h4>
                                         <p style="text-align:justify;">We adapt to our partners’ business, constantly searching for new ways to fulfill their needs</p>
                                     </div>
                                 </div>
 
-                                <h4 class="mad-title text-center" style="margin-bottom:0px;font-size:1.2rem!important;line-height:1.5rem;">
-                                    Types Of Information We Collect
+                                <h4 class="mad-title text-center" style="margin-bottom:0px;font-size:1.2rem!important;line-height:1.5rem;font-weight:700;margin-top:15px;">
+                                    Partnering with us offers you the opportunity to:
                                 </h4>
                                 <ul style="padding-left: 15px;list-style: auto;text-align: justify;">
                                     <li>Reach your audience</li>
@@ -95,7 +95,7 @@
                                 </ul>
 
                                 <p style="text-align: center;">
-                                    <a href="{{ route('contact.contact-us') }}" class="btn btn-huge btn-style-3 mt-3"> Message Us For Partnerships and Collaborations </a>
+                                    <a href="{{ route('contact.contact-us') }}" target="_new" class="btn btn-huge btn-style-3 mt-3"> Message Us For Partnerships and Collaborations </a>
                                 </p>
                         </section>
                     </div>

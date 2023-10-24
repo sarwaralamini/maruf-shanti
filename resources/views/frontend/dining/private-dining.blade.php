@@ -52,15 +52,21 @@
                 <article class="mad-entity">
                     <div style="max-width:100rem;font-size: 1.125rem;line-height:1.5rem;" >
                         <div class="mad-entity-pre-title">Private Dining</div>
-                        <h6 class="mad-entity-title" style="text-align:center;">
-                            The resort is built on 4 hectares of undulating land within an old coconut plantation. <br> Accommodation includes a villa with semi-outdoor private dining area.<br> Villas have been sited with sufficient space between the units so as to provide you with more than adequate privacy.
-                        </h6>
-                        <p>
-                            <b>Feel free to bring and cook your own food. No corkage fee. There's a private kitchen in each Villa. It's fully-equipped. OR You may order food at SHANTI.</b>
+
+                        <p style="te-align:justify;">
+                            Feel free to bring your own food and drinks. No corkage fee.
+                        </p>
+
+                        <p style="te-align:justify;">
+                            For dome villa guests: There's a private kitchen in each Villa. You may cook. It's fully-equipped. OR You may order food at SHANTI.
+                        </p>
+
+                        <p style="te-align:justify;">
+                            (NOTE: JTL is without a kitchen, but we provide bbq griller and drinking water)
                         </p>
                         <p style="text-align: center;">
                             {{-- <a href="{http://bit.ly/3sUz4G9}" class="btn btn-huge btn-style-3 mt-3"> SEE FOOD MENU </a> --}}
-                            <a href="{{ route('dining.private-dining.food-menu') }}" class="btn btn-huge btn-style-3 mt-3"> SEE FOOD MENU </a>
+                            <a href="{{ route('dining.private-dining.food-menu') }}" target="_new" class="btn btn-huge btn-style-3 mt-3"> SEE FOOD MENU </a>
                         </p>
                         <p style="text-align: center;">
                             <img src="{{ asset('assets/img/dining/private-dining/1.jpg')}}" alt="">
@@ -68,41 +74,36 @@
                         <p>
                             <b>FOOD MENU POLICY:</b>
                         </p>
-                        <div class="mad-list-content">
+                        <div class="mad-list-content" style="margin-top:-22px;">
                             <ul class="mad-list--icon">
-                                <li><i class="icon material-icons">check</i>Plan your meals in advance. A minimum of 2 days advance order for food is required. Php 2k minimum purchase per night stay. All Ala carte menu is good for 2 persons unless specified. Order separately for Lunch, Snacks, Dinner, and Breakfast. Please specify serving date and time.</li>
-                                <li><i class="icon material-icons">check</i>No restaurant yet. We will serve your food to your dining area inside your Villa. On-site menu alteration or change of a quantity is not possible as we will purchase everything in advance prior to your arrival. No cancellation or changes are accepted and full payment is required upon placing the order. All payments are strictly non-refundable.</li>
+                                <li><i class="icon material-icons">check</i>Plan your meals in advance. A minimum of 2 days advance order for food is required. All Ala carte menu is good for 2 persons unless specified. Order separately for Lunch, Snacks, Dinner, and Breakfast. Specify serving time as well.</li>
+                                <li><i class="icon material-icons">check</i>No restaurant yet. We will serve your food to your dining area inside your Villa or Tent Lodge. On-site menu alteration or change of a quantity is not possible as we will purchase everything in advance prior to your arrival. No cancellation or changes are accepted and full payment is required upon placing the order. All payments are strictly non-refundable. Nearby restaurants are located at the Twin Lakes 10-15 mins away.</li>
                             </ul>
                         </div>
 
-                        <div data-isotope-layout="masonry" class="mad-gallery item-col-3 mad-grid--isotope g4 mt-3">
-                            <div class="mad-grid-sizer"></div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/dining/private-dining/2.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/dining/private-dining/2.jpg')}}" alt=""
-                                    /></a>
+                        <div class="mad-section no-pd content-element-main mad-section--stretched-content-no-px mad-colorizer--scheme-" style="margin-bottom: 3rem!important; margin-top: 2rem!important;">
+                            <div class=" mad-gallery-slider mad-grid owl-carousel mad-grid--cols-1 mad-owl-moving nav-size-2">
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/dining/private-dining/1.jpg')}}" alt="" />
                                 </div>
-                                <!--================ End Of Gallery Item ================-->
-                            </div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/dining/private-dining/3.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/dining/private-dining/3.jpg')}}" alt=""
-                                    /></a>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/dining/private-dining/2.jpg')}}" alt="" />
                                 </div>
-                                <!--================ End Of Gallery Item ================-->
-                            </div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/dining/private-dining/4.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/dining/private-dining/4.jpg')}}" alt=""
-                                    /></a>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/dining/private-dining/3.jpg')}}" alt="" />
                                 </div>
-                                <!--================ End Of Gallery Item ================-->
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/dining/private-dining/4.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/dining/private-dining/5.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/dining/private-dining/6.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/dining/private-dining/7.jpg')}}" alt="" />
+                                </div>
                             </div>
                         </div>
                     </div>
