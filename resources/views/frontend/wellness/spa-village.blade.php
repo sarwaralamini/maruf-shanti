@@ -52,23 +52,37 @@
                 <article class="mad-entity">
                     <div style="max-width:100rem;font-size: 1.125rem;line-height:1.5rem;" >
                         <div class="mad-entity-pre-title">Spa Village</div>
-                        <h6 class="mad-entity-title" style="text-align:center;">
-                            The SPA Village is your total retreat.
-                        </h6>
-
                         <p style="text-align:justify;">
+                            The SPA Village is your total retreat. <br>
                             Relax to the soothing sound of nature and let all your cares melt away.
                         </p>
                         <p style="text-align:center;">
-                            <div role="alert" class="mad-alert-box mad-alert-box--info" style="
-    margin-bottom: -13px!important;
-">
+                            <div role="alert" class="mad-alert-box mad-alert-box--info" style="margin-bottom: -13px!important;">
                                 <div class="mad-alert-box-inner">
                                     Surrounded by untouched nature, the SPA Village provides a unique wellness immersion.
                                 </div>
                             </div>
                         </p>
-                        <div class="mad-list-content">
+                        <div class="mad-section no-pd content-element-main mad-section--stretched-content-no-px mad-colorizer--scheme-" style="margin-bottom: 2rem!important; margin-top: 2rem!important;">
+                            <div class=" mad-gallery-slider mad-grid owl-carousel mad-grid--cols-1 mad-owl-moving nav-size-2">
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/wellness/spa-village/5.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/wellness/spa-village/1.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/wellness/spa-village/2.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/wellness/spa-village/3.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/wellness/spa-village/4.jpg')}}" alt="" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="mad-list-content" style="display:none;">
                             <ul class="mad-list--icon">
                                 <li><i class="icon material-icons">check</i>At the moment, we focus on natural healing through nature like the Japanese wellness practice such as shinrin-yoku (forest bathing).</li>
                                 <li><i class="icon material-icons">check</i>We also have different massage services, nail & foot spa and relaxing facials.</li>
@@ -76,9 +90,7 @@
                                 <li><i class="icon material-icons">check</i>For bathing, we offer the traditional Kawa bath and our salt, herbal, detox, milk and tea baths.</li>
                             </ul>
                         </div>
-                        <div class="mad-testimonial-bg content-element-4" style="
-    margin-top: 11px;
-">
+                        <div class="mad-testimonial-bg content-element-4" style="margin-top: 11px;">
                             <div class="mad-testimonial">
                                 <div class="mad-testimonial-info">
                                 <blockquote>
@@ -89,6 +101,10 @@
                                 </div>
                             </div>
                         </div>
+
+                        <p style="text-align: center;margin-top:-25px;">
+                            <a href="{{ route('spa-and-bath-menu') }}" target="_new" class="btn btn-huge btn-style-3 mt-3"> VIEW SPA & BATH MENU </a>
+                        </p>
 
                     </div>
                 </article>

@@ -56,7 +56,7 @@
                             Bohemian dinner is an alfresco dinner setup, weather permitting, from 5PM to 9PM. The setup includes a low table, a fancy dining setup, pillows, candles, and lights. Food inclusive, select from our menu.
                         </p>
                         <p style="text-align: center;    margin-top: -30px;">
-                            <a href="{{ route('dining.bohemian-dining.food-menu') }}" target="_new" class="btn btn-huge btn-style-3 mt-3"> SEE FOOD MENU </a>
+                            <a href="{{ route('dining.private-dining.food-menu') }}" target="_new" class="btn btn-huge btn-style-3 mt-3"> SEE FOOD MENU </a>
                         </p>
                         <p style="text-align:justify;">
                             Advance ordering is required. Please note that each dish is good for 1-2 pax only (depending on appetite) as stated on our Menu. You may add more food at an additional rate.
@@ -68,7 +68,7 @@
                             RATES:
                         </p>
                         <div class="mad-list-content">
-                            <span style="display:block;">Bohemian Dinner for 2 PERSONS (PHP 2748.90)</span>
+                            <span style="display:block;font-weight:700;">Bohemian Dinner for 2 PERSONS (PHP 2748.90)</span>
                             <ul class="mad-list--icon" style="margin-top:-15px;">
                                 <li style="margin-bottom:0rem;"><i class="icon material-icons">check</i>2 rice</li>
                                 <li style="margin-bottom:0rem;"><i class="icon material-icons">check</i>1 choice of appetizer</li>
@@ -79,7 +79,7 @@
                         </div>
                         <br>
                         <div class="mad-list-content">
-                            <span style="display:block;">Bohemian Dinner for 4 PERSONS (PHP 3298.90)</span>
+                            <span style="display:block;;font-weight:700;">Bohemian Dinner for 4 PERSONS (PHP 3298.90)</span>
                             <ul class="mad-list--icon" style="margin-top:-15px;">
                                 <li style="margin-bottom:0rem;"><i class="icon material-icons">check</i>4 rice</li>
                                 <li style="margin-bottom:0rem;"><i class="icon material-icons">check</i>1 choice of appetizer</li>
@@ -92,7 +92,7 @@
 
                         <br>
                         <div class="mad-list-content">
-                            <span style="display:block;">Bohemian Dinner for 6 PERSONS (PHP 3958.90)</span>
+                            <span style="display:block;;font-weight:700;">Bohemian Dinner for 6 PERSONS (PHP 3958.90)</span>
                             <ul class="mad-list--icon" style="margin-top:-15px;">
                                 <li style="margin-bottom:0rem;"><i class="icon material-icons">check</i>6 rice</li>
                                 <li style="margin-bottom:0rem;"><i class="icon material-icons">check</i>2 choice of appetizer</li>
@@ -103,8 +103,12 @@
                             </ul>
                         </div>
 
-                        <p style="text-align:center!important;">
+                        <p style="text-align:center!important;margin-bottom:0px">
                             <a href="{{ route('contact.contact-us') }}" target="_new" class="btn btn-huge btn-style-3 mt-3"> Message us to book this service </a>
+                        </p>
+                        
+                        <p style="text-align:center!important;">
+                            <a href="https://www.facebook.com/media/set/?set=a.5789105154445478&type=3" target="_new" class="btn btn-huge btn-style-3 mt-3">VIEW MORE PHOTOS OF BOHEMIAN DINING</a>
                         </p>
                     </div>
                 </article>

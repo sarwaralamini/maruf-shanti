@@ -42,7 +42,7 @@
                         <!--================ Sub Menu ================-->
                         <ul class="sub-menu">
                             <li class="menu-item">
-                                <a href="{{ route('villas') }}">Villas</a>
+                                <a href="{{ route('villas') }}">Villas and JTL</a>
                             </li>
                             <li class="menu-item">
                                 <a href="{{ route('villa-amenities') }}">Villa Amenities</a>
@@ -72,13 +72,13 @@
                                 <a href="{{ route('wellness-village') }}">Wellness Village</a>
                             </li>
                             <li class="menu-item">
-                                <a href="{{ route('activities') }}">Activities</a>
+                                <a href="{{ route('paid-services') }}">Paid Services</a>
                             </li>
                             <li class="menu-item">
                                 <a href="{{ route('spa-village') }}">Spa Village</a>
                             </li>
                             <li class="menu-item">
-                                <a href="{{ route('spa-and-bath-menu') }}">Spa and Bath Menu</a>
+                                <a href="{{ route('signature-bath') }}">Signature Bath</a>
                             </li>
 
                             <li class="menu-item">
@@ -158,7 +158,7 @@
             <!--================ End of Navigation ================-->
             <div class="mad-actions">
                 <div class="mad-col">
-                <a href="https://bit.ly/32Ymmwo" class="btn" target="_new">Book Now</a>
+                <a href="https://bit.ly/32Ymmwo" class="btn" target="_blank">Book Now</a>
                 </div>
             </div>
             </div>

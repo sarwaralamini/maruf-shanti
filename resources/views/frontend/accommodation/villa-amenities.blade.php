@@ -75,7 +75,7 @@
                               </div>
                         </p>
 
-                        <h3 class="mad-title" style="margin-bottom:0px!important;text-align:center;">
+                        <h3 class="mad-title" style="margin-bottom:0px!important;text-align:center;margin-top:-28px;">
                             Villa Amenities
                         </h3>
                         <table class="mad-table">

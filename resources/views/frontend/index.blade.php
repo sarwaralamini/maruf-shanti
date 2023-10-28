@@ -96,7 +96,7 @@
         <!--================ Icon Boxes ================-->
         <div class="mad-icon-boxes grid-type hr-type item-col-4 no-gutters">
           <!--================ Icon Box ================-->
-          <a href="#" class="mad-icon-box">
+          <a href="{{ route('villas') }}" target="_blank" class="mad-icon-box">
             <div class="mad-icon-box-content">
               <h6 class="mad-icon-box-title">Accommodation </h6>
               <p> Featuring our 4 Single Dome Pool Villas, 1 Twin Dome Pool Villa and 2 Junior Tent Lodges.
@@ -105,7 +105,7 @@
           </a>
           <!--================ End of Icon Box ================-->
           <!--================ Icon Box ================-->
-          <a href="#" class="mad-icon-box" data-bg-image-src="{{ asset('assets/img/home_section_2/01.jpg') }}">
+          <a href="{{ route('villas') }}" target="_blank" class="mad-icon-box" data-bg-image-src="{{ asset('assets/img/home_section_2/01.jpg') }}">
             <div class="back-side" style="background-image: url({{ asset('assets/img/home_section_2/hover/01.jpg') }});background-position: center!important;height: 488px!important;background-size: cover!important;">
               <i class="mad-icon-box-icon">
                 <img src="#" alt="">
@@ -114,7 +114,7 @@
           </a>
           <!--================ End of Icon Box ================-->
           <!--================ Icon Box ================-->
-          <a href="#" class="mad-icon-box">
+          <a href="{{ route('spa-village')}}" target="_blank" class="mad-icon-box">
             <div class="mad-icon-box-content">
               <h6 class="mad-icon-box-title">Spa & Wellness </h6>
               <p> Need a hump day reset? Try our Spa and Wellness services. </p>
@@ -122,7 +122,7 @@
           </a>
           <!--================ End of Icon Box ================-->
           <!--================ Icon Box ================-->
-          <a href="#" class="mad-icon-box" data-bg-image-src="{{ asset('assets/img/home_section_2/02.jpg') }}">
+          <a href="{{ route('spa-village')}}" target="_blank" class="mad-icon-box" data-bg-image-src="{{ asset('assets/img/home_section_2/02.jpg') }}">
             <div class="back-side" style="background-image: url({{ asset('assets/img/home_section_2/hover/02.jpg') }});background-position: center!important;height: 488px!important;background-size: cover!important;">
               <i class="mad-icon-box-icon">
                 <img src="#" alt="">
@@ -142,7 +142,7 @@
               grid-reverse
             ">
           <!--================ Icon Box ================-->
-          <a href="#" class="mad-icon-box">
+          <a href="{{ route('packages')}}" target="_blank" class="mad-icon-box">
             <div class="mad-icon-box-content">
               <h6 class="mad-icon-box-title">Promo Packages </h6>
               <p> Get 15% less on combined selected services.
@@ -151,7 +151,7 @@
           </a>
           <!--================ End of Icon Box ================-->
           <!--================ Icon Box ================-->
-          <a href="#" class="mad-icon-box" data-bg-image-src="{{ asset('assets/img/home_section_2/04.jpg') }}">
+          <a href="{{ route('packages')}}" target="_blank" class="mad-icon-box" data-bg-image-src="{{ asset('assets/img/home_section_2/04.jpg') }}">
             <div class="back-side" style="background-image: url({{ asset('assets/img/home_section_2/hover/04.jpg') }});background-position: center!important;height: 488px!important;background-size: cover!important;">
               <i class="mad-icon-box-icon">
                 <img src="#" alt="">
@@ -160,7 +160,7 @@
           </a>
           <!--================ End of Icon Box ================-->
           <!--================ Icon Box ================-->
-          <a href="#" class="mad-icon-box">
+          <a href="{{ route('dining.private-dining')}}" target="_blank" class="mad-icon-box">
             <div class="mad-icon-box-content">
               <h6 class="mad-icon-box-title">Private Dining Experience </h6>
               <p> Pre-order your food with us or book our bohemian dinner package, glam picnic or romantic dinner table setup. </p>
@@ -168,7 +168,7 @@
           </a>
           <!--================ End of Icon Box ================-->
           <!--================ Icon Box ================-->
-          <a href="#" class="mad-icon-box" data-bg-image-src="{{ asset('assets/img/home_section_2/03.jpg') }}">
+          <a href="{{ route('dining.private-dining')}}" target="_blank" class="mad-icon-box" data-bg-image-src="{{ asset('assets/img/home_section_2/03.jpg') }}">
             <div class="back-side" style="background-image: url({{ asset('assets/img/home_section_2/hover/03.jpg') }});background-position: center!important;height: 488px!important;background-size: cover!important;">
               <i class="mad-icon-box-icon">
                 <img src="#" alt="">
@@ -195,7 +195,7 @@
           <!--================ Icon Boxes ================-->
           <div class="mad-icon-boxes grid-type hr-type item-col-4 no-gutters">
             <!--================ Icon Box ================-->
-            <a href="#" class="mad-icon-box">
+            <a href="{{ route('paid-services')}}" target="_blank" class="mad-icon-box">
               <div class="mad-icon-box-content">
                 <h6 class="mad-icon-box-title">Paid Services </h6>
                 <p> Check out our paid activities to enjoy more of your stay. </p>
@@ -203,7 +203,7 @@
             </a>
             <!--================ End of Icon Box ================-->
             <!--================ Icon Box ================-->
-            <a href="#" class="mad-icon-box empty-item" data-bg-image-src="{{ asset('assets/img/home_section_2/05.jpg') }}">
+            <a href="{{ route('paid-services')}}" target="_blank" class="mad-icon-box empty-item" data-bg-image-src="{{ asset('assets/img/home_section_2/05.jpg') }}">
               <div class="back-side" style="background-image: url({{ asset('assets/img/home_section_2/hover/05.jpg') }});background-position: center!important;height: 488px!important;background-size: cover!important;">
                 <i class="mad-icon-box-icon">
                     <img src="" alt="">
@@ -212,7 +212,7 @@
             </a>
             <!--================ End of Icon Box ================-->
             <!--================ Icon Box ================-->
-            <a href="#" class="mad-icon-box">
+            <a href="{{ route('wellness-village')}}" target="_blank" class="mad-icon-box">
               <div class="mad-icon-box-content">
                 <h6 class="mad-icon-box-title">Things To Do </h6>
                 <p> Experience or things you may love to do at Shanti (complimentary and self-experienced). </p>
@@ -220,7 +220,7 @@
             </a>
             <!--================ End of Icon Box ================-->
             <!--================ Icon Box ================-->
-            <a href="#" class="mad-icon-box" data-bg-image-src="{{ asset('assets/img/home_section_2/06.jpg') }}">
+            <a href="{{ route('wellness-village')}}" target="_blank" class="mad-icon-box" data-bg-image-src="{{ asset('assets/img/home_section_2/06.jpg') }}">
                 <div class="back-side" style="background-image: url({{ asset('assets/img/home_section_2/hover/06.jpg') }});background-position: center!important;height: 488px!important;background-size: cover!important;">
                 <i class="mad-icon-box-icon">
                     <img src="#" alt="">

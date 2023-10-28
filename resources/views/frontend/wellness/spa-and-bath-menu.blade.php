@@ -37,7 +37,6 @@
     <h1 class="mad-page-title">Spa & Bath Menu</h1>
     <nav class="mad-breadcrumb-path">
         <span><a href="{{ route('homepage') }}" class="mad-link">Home</a></span> /
-        <span>Wellness</span> /
         <span>Spa & Bath Menu</span>
     </nav>
     </div>
@@ -48,30 +47,18 @@
         <div class="container">
             <div class="mad-section">
                 <div class="mad-entities mad-entities-reverse type-4">
-                    <article class="mad-entity">
-                        <div style="max-width:100rem;font-size: 1.125rem;line-height:1.5rem;" >
-                            <div class="mad-entity-pre-title">Spa & Bath Menu</div>
-                            <h6 class="mad-entity-title" style="text-align:center;">
-                                Refresh.. relax.. renew.. reflect.. return.
-                            </h6>
-                            <h6 class="mad-entity-title" style="text-align:center;">
-                                Pamper the body and refresh the soul.
-                            </h6>
-                            <div role="alert" class="mad-alert-box mad-alert-box--info">
-                                <div class="mad-alert-box-inner">
-                                    Shanti Wellness Sanctuary promises a relaxing and refreshing escape.  The resort is surrounded by tropical forest, creating a peaceful ambience. An open-air sign concept allows the resort to blend seamlessly into its surrounds. Tranquility is a state which once experienced, lives in the memory forever.
-                                </div>
-                            </div>
-                        </div>
-                    </article>
-                    <div class="villa-item">
-                        <div data-isotope-layout="masonry" class="mad-gallery item-col-3 mad-grid--isotope g4">
+                <!--================ Entity ================-->
+                <article class="mad-entity">
+                    <div style="max-width:100rem;font-size: 1.125rem;line-height:1.5rem;" >
+                        <div class="mad-entity-pre-title">Spa & Bath Menu</div>
+
+                        <div data-isotope-layout="masonry" class="mad-gallery item-col-3 mad-grid--isotope g4 mt-3" style="margin-top:-2rem!important">
                             <div class="mad-grid-sizer"></div>
                             <div class="mad-grid-item">
                                 <!--================ Gallery Item ================-->
                                 <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/wellness/spa-and-bath-menu/1.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/wellness/spa-and-bath-menu/1.jpg')}}" alt=""
+                                    <a href="{{ asset('assets/img/wellness/signature-bath/menu/1.jpg')}}" data-fancybox="gallery"
+                                    ><img src="{{ asset('assets/img/wellness/signature-bath/menu/1.jpg')}}" alt=""
                                     /></a>
                                 </div>
                                 <!--================ End Of Gallery Item ================-->
@@ -79,8 +66,8 @@
                             <div class="mad-grid-item">
                                 <!--================ Gallery Item ================-->
                                 <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/wellness/spa-and-bath-menu/2.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/wellness/spa-and-bath-menu/2.jpg')}}" alt=""
+                                    <a href="{{ asset('assets/img/wellness/signature-bath/menu/2.jpg')}}" data-fancybox="gallery"
+                                    ><img src="{{ asset('assets/img/wellness/signature-bath/menu/2.jpg')}}" alt=""
                                     /></a>
                                 </div>
                                 <!--================ End Of Gallery Item ================-->
@@ -88,8 +75,8 @@
                             <div class="mad-grid-item">
                                 <!--================ Gallery Item ================-->
                                 <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/wellness/spa-and-bath-menu/3.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/wellness/spa-and-bath-menu/3.jpg')}}" alt=""
+                                    <a href="{{ asset('assets/img/wellness/signature-bath/menu/3.jpg')}}" data-fancybox="gallery"
+                                    ><img src="{{ asset('assets/img/wellness/signature-bath/menu/3.jpg')}}" alt=""
                                     /></a>
                                 </div>
                                 <!--================ End Of Gallery Item ================-->
@@ -97,8 +84,8 @@
                             <div class="mad-grid-item">
                                 <!--================ Gallery Item ================-->
                                 <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/wellness/spa-and-bath-menu/4.png')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/wellness/spa-and-bath-menu/4.png')}}" alt=""
+                                    <a href="{{ asset('assets/img/wellness/signature-bath/menu/4.jpg')}}" data-fancybox="gallery"
+                                    ><img src="{{ asset('assets/img/wellness/signature-bath/menu/4.jpg')}}" alt=""
                                     /></a>
                                 </div>
                                 <!--================ End Of Gallery Item ================-->
@@ -106,18 +93,8 @@
                             <div class="mad-grid-item">
                                 <!--================ Gallery Item ================-->
                                 <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/wellness/spa-and-bath-menu/5.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/wellness/spa-and-bath-menu/5.jpg')}}" alt=""
-                                    /></a>
-                                </div>
-                                <!--================ End Of Gallery Item ================-->
-                            </div>
-
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/wellness/spa-and-bath-menu/6.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/wellness/spa-and-bath-menu/6.jpg')}}" alt=""
+                                    <a href="{{ asset('assets/img/wellness/signature-bath/menu/5.jpg')}}" data-fancybox="gallery"
+                                    ><img src="{{ asset('assets/img/wellness/signature-bath/menu/5.jpg')}}" alt=""
                                     /></a>
                                 </div>
                                 <!--================ End Of Gallery Item ================-->
@@ -125,8 +102,8 @@
                             <div class="mad-grid-item">
                                 <!--================ Gallery Item ================-->
                                 <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/wellness/spa-and-bath-menu/7.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/wellness/spa-and-bath-menu/7.jpg')}}" alt=""
+                                    <a href="{{ asset('assets/img/wellness/signature-bath/menu/6.jpg')}}" data-fancybox="gallery"
+                                    ><img src="{{ asset('assets/img/wellness/signature-bath/menu/6.jpg')}}" alt=""
                                     /></a>
                                 </div>
                                 <!--================ End Of Gallery Item ================-->
@@ -134,8 +111,8 @@
                             <div class="mad-grid-item">
                                 <!--================ Gallery Item ================-->
                                 <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/wellness/spa-and-bath-menu/8.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/wellness/spa-and-bath-menu/8.jpg')}}" alt=""
+                                    <a href="{{ asset('assets/img/wellness/signature-bath/menu/7.jpg')}}" data-fancybox="gallery"
+                                    ><img src="{{ asset('assets/img/wellness/signature-bath/menu/7.jpg')}}" alt=""
                                     /></a>
                                 </div>
                                 <!--================ End Of Gallery Item ================-->
@@ -143,31 +120,18 @@
                             <div class="mad-grid-item">
                                 <!--================ Gallery Item ================-->
                                 <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/wellness/spa-and-bath-menu/9.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/wellness/spa-and-bath-menu/9.jpg')}}" alt=""
+                                    <a href="{{ asset('assets/img/wellness/signature-bath/menu/8.jpg')}}" data-fancybox="gallery"
+                                    ><img src="{{ asset('assets/img/wellness/signature-bath/menu/8.jpg')}}" alt=""
                                     /></a>
                                 </div>
                                 <!--================ End Of Gallery Item ================-->
                             </div>
                         </div>
                     </div>
-
-                    <div class="mad-testimonial-bg content-element-4 mt-5">
-                        <div class="mad-testimonial">
-                            <div class="mad-testimonial-info">
-                            <blockquote>
-                                <p style="text-align:center!important;">
-                                    Please book in advance and specify the service date and time. The last call for a massage is at 7pm.
-                                    <br>
-                                    <a href="https://drive.google.com/file/d/1oBDiivpWIMIgymgEtcFh1kpTOtkbFEet" class="btn btn-huge btn-style-3 mt-3"> Download Spa & Bath Menu </a>
-                                </p>
-                            </blockquote>
-                            </div>
-                        </div>
-                    </div>
+                </article>
+                <!--================ End of Entity ================-->
                 </div>
             </div>
-
         </div>
     </div>
 @endsection

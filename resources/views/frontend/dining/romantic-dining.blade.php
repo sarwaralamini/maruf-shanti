@@ -86,7 +86,7 @@
                             </div>
 
                             <p style="text-align:center!important;margin-top:-25px;">
-                                <a href="https://bit.ly/3Quag0z" class="btn btn-huge btn-style-3 mt-3"> View more photos of romantic dining setup  </a>
+                                <a href="https://bit.ly/3Quag0z" class="btn btn-huge btn-style-3 mt-3" target="_blank"> View more photos of romantic dining setup  </a>
                             </p>
                         </section>
                     </div>

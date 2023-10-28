@@ -53,15 +53,15 @@
                     <div style="max-width:100rem;font-size: 1.125rem;line-height:1.5rem;" >
                         <div class="mad-entity-pre-title">Private Dining</div>
 
-                        <p style="te-align:justify;">
+                        <p style="text-align:justify;">
                             Feel free to bring your own food and drinks. No corkage fee.
                         </p>
 
-                        <p style="te-align:justify;">
+                        <p style="text-align:justify;">
                             For dome villa guests: There's a private kitchen in each Villa. You may cook. It's fully-equipped. OR You may order food at SHANTI.
                         </p>
 
-                        <p style="te-align:justify;">
+                        <p style="text-align:justify;">
                             (NOTE: JTL is without a kitchen, but we provide bbq griller and drinking water)
                         </p>
                         <p style="text-align: center;">
@@ -69,7 +69,7 @@
                             <a href="{{ route('dining.private-dining.food-menu') }}" target="_new" class="btn btn-huge btn-style-3 mt-3"> SEE FOOD MENU </a>
                         </p>
                         <p style="text-align: center;">
-                            <img src="{{ asset('assets/img/dining/private-dining/1.jpg')}}" alt="">
+                            <img src="{{ asset('assets/img/dining/private-dining/5.jpg')}}" alt="">
                         </p>
                         <p>
                             <b>FOOD MENU POLICY:</b>
@@ -94,9 +94,6 @@
                                 </div>
                                 <div class="mad-col">
                                     <img src="{{ asset('assets/img/dining/private-dining/4.jpg')}}" alt="" />
-                                </div>
-                                <div class="mad-col">
-                                    <img src="{{ asset('assets/img/dining/private-dining/5.jpg')}}" alt="" />
                                 </div>
                                 <div class="mad-col">
                                     <img src="{{ asset('assets/img/dining/private-dining/6.jpg')}}" alt="" />

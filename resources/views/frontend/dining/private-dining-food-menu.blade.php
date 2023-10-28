@@ -37,8 +37,6 @@
     <h1 class="mad-page-title">Food Menu</h1>
     <nav class="mad-breadcrumb-path">
         <span><a href="{{ route('homepage') }}" class="mad-link">Home</a></span> /
-        <span>Dining</span> /
-        <span>Private Dining</span> /
         <span>Food Menu</span>
     </nav>
     </div>

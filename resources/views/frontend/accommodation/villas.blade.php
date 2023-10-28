@@ -1,7 +1,7 @@
 
 @extends('frontend.layouts.app')
 {{-- Website SEO --}}
-@section('title', 'Villas')
+@section('title', 'Villas and JTL')
 @section('meta_description', '')
 @section('meta_author', '')
 @section('meta_copyright', '')
@@ -9,7 +9,7 @@
 @section('meta_robot', '')
 
 {{-- Facebook SEO --}}
-@section('og_title', 'Villas')
+@section('og_title', 'Villas and JTL')
 @section('og_description', '')
 @section('og_type', '')
 @section('og_url', '')
@@ -34,11 +34,11 @@
     data-bg-image-src="{{ asset('assets/img/bc.jpg') }}"
     >
     <div class="container wide">
-    <h1 class="mad-page-title">Villas</h1>
+    <h1 class="mad-page-title">Villas and JTL</h1>
     <nav class="mad-breadcrumb-path">
         <span><a href="{{ route('homepage') }}" class="mad-link">Home</a></span> /
         <span>Accommodation</span> /
-        <span>Villas</span>
+        <span>Villas and JTL</span>
     </nav>
     </div>
     </div>
@@ -50,7 +50,7 @@
                 <div class="mad-entities mad-entities-reverse type-4">
                     <article class="mad-entity">
                         <div style="max-width:100rem;font-size: 1.125rem;line-height:1.5rem;" >
-                            <div class="mad-entity-pre-title">Villas</div>
+                            <div class="mad-entity-pre-title">Villas and JTL</div>
                             <h6 class="mad-entity-title" style="text-align:center;">
                                 The jungle-bound resort is the kind of place that offers unique accommodation with both relaxation and wellness.
                             </h6>
@@ -95,13 +95,31 @@
                                     <img src="{{ asset('assets/img/accommodation/villa/Drishti-Single-Dome-Pool-Villa/4.jpg')}}" alt="" />
                                 </div>
                                 <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Drishti-Single-Dome-Pool-Villa/8.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Drishti-Single-Dome-Pool-Villa/9.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Drishti-Single-Dome-Pool-Villa/10.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Drishti-Single-Dome-Pool-Villa/11.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
                                     <img src="{{ asset('assets/img/accommodation/villa/Drishti-Single-Dome-Pool-Villa/6.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Drishti-Single-Dome-Pool-Villa/12.jpg')}}" alt="" />
                                 </div>
                                 <div class="mad-col">
                                     <img src="{{ asset('assets/img/accommodation/villa/Drishti-Single-Dome-Pool-Villa/3.jpg')}}" alt="" />
                                 </div>
                                 <div class="mad-col">
                                     <img src="{{ asset('assets/img/accommodation/villa/Drishti-Single-Dome-Pool-Villa/2.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Drishti-Single-Dome-Pool-Villa/7.jpg')}}" alt="" />
                                 </div>
                             </div>
                         </div>
@@ -202,10 +220,25 @@
                         <div class="mad-section no-pd content-element-main mad-section--stretched-content-no-px mad-colorizer--scheme-" style="margin-bottom: 3rem!important; margin-top: -1rem!important;">
                             <div class=" mad-gallery-slider mad-grid owl-carousel mad-grid--cols-1 mad-owl-moving nav-size-2">
                                 <div class="mad-col">
-                                    <img src="{{ asset('assets/img/accommodation/villa/Shakti-Single-Dome-Pool-Villa/4.jpg')}}" alt="" />
+                                    <img src="{{ asset('assets/img/accommodation/villa/Shakti-Single-Dome-Pool-Villa/9.jpg')}}" alt="" />
                                 </div>
                                 <div class="mad-col">
                                     <img src="{{ asset('assets/img/accommodation/villa/Shakti-Single-Dome-Pool-Villa/3.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Shakti-Single-Dome-Pool-Villa/4.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Shakti-Single-Dome-Pool-Villa/5.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Shakti-Single-Dome-Pool-Villa/6.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Shakti-Single-Dome-Pool-Villa/7.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Shakti-Single-Dome-Pool-Villa/8.jpg')}}" alt="" />
                                 </div>
                             </div>
                         </div>
@@ -260,6 +293,30 @@
                                 <div class="mad-col">
                                     <img src="{{ asset('assets/img/accommodation/villa/Ananda-Single-Dome-Pool-Villa/5.jpg')}}" alt="" />
                                 </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Ananda-Single-Dome-Pool-Villa/6.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Ananda-Single-Dome-Pool-Villa/7.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Ananda-Single-Dome-Pool-Villa/8.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Ananda-Single-Dome-Pool-Villa/9.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Ananda-Single-Dome-Pool-Villa/10.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Ananda-Single-Dome-Pool-Villa/11.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Ananda-Single-Dome-Pool-Villa/12.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Ananda-Single-Dome-Pool-Villa/13.jpg')}}" alt="" />
+                                </div>
                             </div>
                         </div>
                         <div class="mad-table-wrap mt-5">
@@ -313,6 +370,18 @@
                                 <div class="mad-col">
                                     <img src="{{ asset('assets/img/accommodation/villa/Prana-Single-Dome-Pool-Villa/5.jpg')}}" alt="" />
                                 </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Prana-Single-Dome-Pool-Villa/6.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Prana-Single-Dome-Pool-Villa/7.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Prana-Single-Dome-Pool-Villa/8.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Prana-Single-Dome-Pool-Villa/9.jpg')}}" alt="" />
+                                </div>
                             </div>
                         </div>
                         <div class="mad-table-wrap mt-5">
@@ -355,13 +424,22 @@
                         <div class="mad-section no-pd content-element-main mad-section--stretched-content-no-px mad-colorizer--scheme-" style="margin-bottom: 3rem!important; margin-top: -1rem!important;">
                             <div class=" mad-gallery-slider mad-grid owl-carousel mad-grid--cols-1 mad-owl-moving nav-size-2">
                                 <div class="mad-col">
-                                    <img src="{{ asset('assets/img/accommodation/villa/Mandala-Single-Dome-Pool-Villa/2.jpg')}}" alt="" />
+                                    <img src="{{ asset('assets/img/accommodation/villa/Mandala-Single-Dome-Pool-Villa/6.jpg')}}" alt="" />
                                 </div>
                                 <div class="mad-col">
                                     <img src="{{ asset('assets/img/accommodation/villa/Mandala-Single-Dome-Pool-Villa/1.jpg')}}" alt="" />
                                 </div>
                                 <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Mandala-Single-Dome-Pool-Villa/2.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Mandala-Single-Dome-Pool-Villa/3.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
                                     <img src="{{ asset('assets/img/accommodation/villa/Mandala-Single-Dome-Pool-Villa/4.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Mandala-Single-Dome-Pool-Villa/5.jpg')}}" alt="" />
                                 </div>
                             </div>
                         </div>
@@ -405,13 +483,16 @@
                         <div class="mad-section no-pd content-element-main mad-section--stretched-content-no-px mad-colorizer--scheme-" style="margin-bottom: 3rem!important; margin-top: -1rem!important;">
                             <div class=" mad-gallery-slider mad-grid owl-carousel mad-grid--cols-1 mad-owl-moving nav-size-2">
                                 <div class="mad-col">
-                                    <img src="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/2.jpg')}}" alt="" />
-                                </div>
-                                <div class="mad-col">
                                     <img src="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/1.jpg')}}" alt="" />
                                 </div>
                                 <div class="mad-col">
-                                    <img src="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/9.jpg')}}" alt="" />
+                                    <img src="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/2.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/3.jpg')}}" alt="" />
+                                </div>
+                                <div class="mad-col">
+                                    <img src="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/4.jpg')}}" alt="" />
                                 </div>
                             </div>
                         </div>

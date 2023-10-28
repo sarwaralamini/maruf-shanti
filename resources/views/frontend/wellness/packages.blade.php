@@ -63,16 +63,13 @@
                                 <img src="{{ asset('assets/img/wellness/packages/1.jpg')}}" alt="">
                             </p>
                             <p style="text-align: center;">
-                                <img src="{{ asset('assets/img/wellness/packages/2.jpg')}}" alt="">
-                            </p>
-                            <p style="text-align: center;">
                                 <img src="{{ asset('assets/img/wellness/packages/3.jpg')}}" alt="">
                             </p>
                             <p style="text-align: center;">
-                                <img src="{{ asset('assets/img/wellness/packages/4.jpg')}}" alt="">
+                                <img src="{{ asset('assets/img/wellness/packages/990.jpg')}}" alt="">
                             </p>
                             <p style="text-align: center;">
-                                <img src="{{ asset('assets/img/wellness/packages/5.jpg')}}" alt="">
+                                <img src="{{ asset('assets/img/wellness/packages/4.jpg')}}" alt="">
                             </p>
                             <p style="text-align: center;">
                                 <img src="{{ asset('assets/img/wellness/packages/6.jpg')}}" alt="">
@@ -87,18 +84,8 @@
                                 <img src="{{ asset('assets/img/wellness/packages/8.jpg')}}" alt="">
                             </p>
                             <p style="text-align: center;">
-                                <img src="{{ asset('assets/img/wellness/packages/9.jpg')}}" alt="">
-                            </p>
-                            <p style="text-align: center;">
-                                <img src="{{ asset('assets/img/wellness/packages/10.jpg')}}" alt="">
-                            </p>
-                            <p style="text-align: center;">
-                                <img src="{{ asset('assets/img/wellness/packages/11.jpg')}}" alt="">
-                            </p>
-                            <p style="text-align: center;">
                                 <img src="{{ asset('assets/img/wellness/packages/12.jpg')}}" alt="">
                             </p>
-
                             <p style="text-align: center;">
                                 <img src="{{ asset('assets/img/wellness/packages/14.jpg')}}" alt="">
                             </p>
@@ -106,15 +93,13 @@
                                 <img src="{{ asset('assets/img/wellness/packages/15.jpg')}}" alt="">
                             </p>
                             <p style="text-align: center;">
+                                <img src="{{ asset('assets/img/wellness/packages/18.jpg')}}" alt="">
+                            </p>
+                            <p style="text-align: center;">
                                 <img src="{{ asset('assets/img/wellness/packages/16.jpg')}}" alt="">
                             </p>
                             <p style="text-align: center;">
                                 <img src="{{ asset('assets/img/wellness/packages/17.jpg')}}" alt="">
-                            </p>
-                            <p style="text-align: center;">
-                                <video width="100%" controls>
-                                    <source src="{{ asset('assets/img/wellness/packages/18.mp4')}}" type="video/mp4">
-                                  </video>
                             </p>
                         </section>
                     </div>

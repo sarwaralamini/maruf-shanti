@@ -27,7 +27,9 @@ Route::get('clear', function () {
     dd("Done");
 });
 //ABOUT ROUTES
-
+Route::get('book', function(){
+    return redirect('https://staahmax.staah.net/be/indexpackdetail?propertyId=MzQ3MA==&groupId=MzM5OQ==', 301);
+});
 Route::get('about/holistic-escapes', function () {
     return view('frontend.about.holistic-escapes');
 })->name('holistic-escapes');
@@ -79,13 +81,17 @@ Route::get('wellness/wellness-village', function () {
     return view('frontend.wellness.wellness-village');
 })->name('wellness-village');
 
-Route::get('wellness/activities', function () {
-    return view('frontend.wellness.activities');
-})->name('activities');
+Route::get('wellness/paid-services', function () {
+    return view('frontend.wellness.paid-services');
+})->name('paid-services');
 
 Route::get('wellness/spa-village', function () {
     return view('frontend.wellness.spa-village');
 })->name('spa-village');
+
+Route::get('wellness/signature-bath', function () {
+    return view('frontend.wellness.signature-bath');
+})->name('signature-bath');
 
 Route::get('wellness/spa-and-bath-menu', function () {
     return view('frontend.wellness.spa-and-bath-menu');
