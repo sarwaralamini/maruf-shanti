@@ -29,7 +29,7 @@ Route::get('clear', function () {
 //ABOUT ROUTES
 Route::get('book', function(){
     return redirect('https://staahmax.staah.net/be/indexpackdetail?propertyId=MzQ3MA==&groupId=MzM5OQ==', 301);
-});
+})->name('book.now');
 Route::get('about/holistic-escapes', function () {
     return view('frontend.about.holistic-escapes');
 })->name('holistic-escapes');
