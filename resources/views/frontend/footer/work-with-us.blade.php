@@ -71,22 +71,31 @@
                             </h4>
                             <p style="text-align:justify;">
                                 At BIGFISH HOSPITALITY GROUP, we don’t just want to fill jobs; we want to partner with people. We want to recruit unique individuals who share our values. Co-workers are not restricted at BIGFISH HOSPITALITY GROUP; we listen and support each individual to identify his or her needs, ambitions and capabilities.
+                                <br>
                                 <br>Work hard, be yourself.
+                                <br>
                                 <br>What do we look for in a job candidate?
+                                <br>
                                 <br>An ability to do the job is obviously the starting point. But beyond that we look for many other personal qualities such as a strong desire to learn, the motivation to continually do things better, simplicity and common sense, the ability to lead by example, efficiency and cost-consciousness. These values are important to us because our way of working is less structured than that of many other organizations.
                                 <br><br>Here are a few examples of our shared values:
+                                 <br>
                                 <br>TOGETHERNESS
+                                 <br>
                                 <br>COST-CONSCIOUSNESS
+                                 <br>
                                 <br>RESPECT SIMPLICITY
+                                 <br>
                                 <br><span style="font-weight:700;">If you… then we</span>
+                                 <br>
                                 <br><span style="font-weight:700;">A question of give and take</span>
+                                
                                 <br><br>BIGFISH HOSPITALITY GROUP co-workers enjoy many advantages and opportunities from working in such a free and open environment – but all freedoms are counter-balanced with expectations. For example, the expectation that each co-worker is able to assume responsibility for his or her own actions. Although on the surface it is evident that we have a lot of fun together working at BIGFISH HOSPITALITY GROUP, at the same time all are expected to be very hardworking and conscientious. Here are some more examples to illustrate give and take, BIGFISH MANILA style:
                             </p>
 
                             <h4 class="mad-title text-center" style="margin-bottom:0px;font-size:1.2rem!important;line-height:1.5rem;font-weight: 700;">
                                 What do we expect from you?
                             </h4>
-                            <ul style="padding-left: 15px;list-style: auto;text-align: justify;">
+                            <ul style="padding-left: 15px;list-style: auto;text-align: justify;list-style-type: disc;">
                                 <li>You have the ambition to do a good job and a desire to take on responsibility and to take the consequences that this entails</li>
                                 <li>You do your best on the basis of your abilities and experience</li>
                                 <li>You are service-oriented and have the customers’ best interests at heart</li>
@@ -100,7 +109,7 @@
                             <h4 class="mad-title text-center" style="margin-top:15px;margin-bottom:0px;font-size:1.2rem!important;line-height:1.5rem;font-weight: 700;">
                                 What do we offer you?
                             </h4>
-                            <ul style="padding-left: 15px;list-style: auto;text-align: justify;">
+                            <ul style="padding-left: 15px;list-style: auto;text-align: justify;list-style-type: disc;">
                                 <li>The chance to work in a growing company with a viable business idea</li>
                                 <li>We give you the opportunity to further develop your professional skills in your daily work</li>
                                 <li>We make it possible to choose between many different jobs within the company</li>
@@ -110,7 +119,7 @@
                             </ul>
 
                             <h4 class="mad-title text-center" style="margin-top:15px;margin-bottom:0px;font-size:1.2rem!important;line-height:1.5rem;font-weight: 700;">
-                                What do we expect from you?
+                                What would you actually do if you worked at BIGFISH HOSPITALITY GROUP?
                             </h4>
                             <p style="text-align:justify;">
                                 Now it’s time to get down to the nitty-gritty. If you wanted to work at BIGFISH HOSPITALITY GROUP– which we sincerely hope you do by now – what kind of job might we be able offer you?

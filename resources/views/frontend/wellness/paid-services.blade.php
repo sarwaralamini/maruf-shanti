@@ -95,7 +95,7 @@
                     </div>
                     <div class="villa-item">
                         <h4 class="mad-title text-center">
-                            Forest Sound Bath (Sound Wellness)
+                            Sound Bath (Sound Wellness)
                         </h4>
                         <p>
                             <img src="{{ asset('assets/img/wellness/activities/2.jpg') }}" alt="" />
@@ -148,7 +148,7 @@
                                         <td>Minimum of 2 pax</td>
                                     </tr>
                                     <tr>
-                                        <td>30-45 minutes</td>
+                                        <td>30 minutes</td>
                                     </tr>
                                 </tbody>
                             </table>

@@ -60,6 +60,9 @@
                                 We welcome day tour guests for wellness activities and private dining. Advance booking is required.
                             </p>
                             <p style="text-align: center;">
+                                <img src="{{ asset('assets/img/wellness/packages/499.jpg')}}" alt="">
+                            </p>
+                            <p style="text-align: center;">
                                 <img src="{{ asset('assets/img/wellness/packages/1.jpg')}}" alt="">
                             </p>
                             <p style="text-align: center;">

@@ -67,6 +67,15 @@
                     <div class="villa-item">
                         <div data-isotope-layout="masonry" class="mad-gallery item-col-3 mad-grid--isotope g4">
                             <div class="mad-grid-sizer"></div>
+                             <div class="mad-grid-item">
+                                <!--================ Gallery Item ================-->
+                                <div class="mad-gallery-item">
+                                    <a href="{{ asset('assets/img/wellness/signature-bath/2.jpg')}}" data-fancybox="gallery"
+                                    ><img src="{{ asset('assets/img/wellness/signature-bath/2.jpg')}}" alt=""
+                                    /></a>
+                                </div>
+                                <!--================ End Of Gallery Item ================-->
+                            </div>
                             <div class="mad-grid-item">
                                 <!--================ Gallery Item ================-->
                                 <div class="mad-gallery-item">
@@ -76,15 +85,7 @@
                                 </div>
                                 <!--================ End Of Gallery Item ================-->
                             </div>
-                            <div class="mad-grid-item">
-                                <!--================ Gallery Item ================-->
-                                <div class="mad-gallery-item">
-                                    <a href="{{ asset('assets/img/wellness/signature-bath/2.jpg')}}" data-fancybox="gallery"
-                                    ><img src="{{ asset('assets/img/wellness/signature-bath/2.jpg')}}" alt=""
-                                    /></a>
-                                </div>
-                                <!--================ End Of Gallery Item ================-->
-                            </div>
+                           
                             <div class="mad-grid-item">
                                 <!--================ Gallery Item ================-->
                                 <div class="mad-gallery-item">

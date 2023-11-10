@@ -105,6 +105,9 @@
                         <p style="text-align: center;margin-top:-25px;">
                             <a href="{{ route('spa-and-bath-menu') }}" target="_new" class="btn btn-huge btn-style-3 mt-3"> VIEW SPA & BATH MENU </a>
                         </p>
+                        <p style="text-align: center;margin-top:-25px;">
+                            <a href="{{ route('sweat-lounge') }}" target="_new" class="btn btn-huge btn-style-3 mt-3"> View Sweat Lounge </a>
+                        </p>
 
                     </div>
                 </article>
