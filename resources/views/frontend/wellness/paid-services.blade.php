@@ -63,11 +63,28 @@
                             <div role="alert" class="mad-alert-box mad-alert-box--info">
                                 <div class="mad-alert-box-inner">
                                     Try our unique wellness paid Services.
+                                    <br><a href="#one" style="color:#ff0000">Shinrin Yoku (Forest Bathing)</a>
+                                    <br><a href="#one1" style="color:#ff0000">Sound Bath (Sound Wellness)</a>
+                                    <br><a href="#one3" style="color:#ff0000">Kawa Bath</a>
+                                    <br><a href="#one4" style="color:#ff0000">Aqua Yoga</a>
+                                    <br><a href="#one5" style="color:#ff0000">Guided Forest Meditation</a>
+                                    <br><a href="#one6" style="color:#ff0000">Botanical Tour</a>
+                                    <br><a href="#one7" style="color:#ff0000">Yoga Class With A Yoga Instructor</a>
+                                    <br><a href="{{ route('spa-village') }}" target="_blank" style="color:#ff0000">SPA</a>
+                                    <br><a href="{{route('signature-bath')}}" target="_blank" style="color:#ff0000">Signature Bath</a>
+                                    <br><a href="{{route('sweat-lounge') }}" target="_blank" style="color:#ff0000">Sweat Lounge</a>
+                                    <br><a href="#" target="_blank" style="color:#ff0000">Shirodhara with Head Massage</a>
+                                    <br><a href="#" target="_blank" style="color:#ff0000">Banana Leaf Bath</a>
+                                    <br><a href="{{ route('birthday-setup') }}" target="_blank" style="color:#ff0000">Birthday Setup</a>
+                                    <br><a href="{{ route('make-it-romantic') }}" target="_blank" style="color:#ff0000">Romantic Setup</a>
+                                    <br><a href="{{ route('dining.bohemian-dining') }}" target="_blank" style="color:#ff0000">Bohemian Dinner</a>
+                                    <br><a href="{{ route('dining.glam-picnic') }}" target="_blank" style="color:#ff0000">Glam Picnic</a>
+                                    <br><a href="{{ route('dining.romantic-dining') }}" target="_blank" style="color:#ff0000">Romantic Dinner</a>
                                 </div>
                             </div>
                         </div>
                     </article>
-                    <div class="villa-item">
+                    <div class="villa-item" id="one">
                         <h4 class="mad-title text-center">
                             Shinrin Yoku (Forest Bathing)
                         </h4>
@@ -93,14 +110,14 @@
                             </table>
                         </div>
                     </div>
-                    <div class="villa-item">
+                    <div class="villa-item" id="one1">
                         <h4 class="mad-title text-center">
                             Sound Bath (Sound Wellness)
                         </h4>
                         <p>
                             <img src="{{ asset('assets/img/wellness/activities/2.jpg') }}" alt="" />
                         </p>
-                        <h4 class="mad-title text-center" style="margin-top: 25px;">
+                        <h4 class="mad-title text-center" style="margin-top: 25px;" id="one2">
                             In-room Sound Bath
                         </h4>
                         <p>
@@ -125,7 +142,7 @@
                             </table>
                         </div>
                     </div>
-                    <div class="villa-item">
+                    <div class="villa-item" id="one3">
                         <h4 class="mad-title text-center">
                             Kawa Bath
                         </h4>
@@ -159,7 +176,7 @@
                             BESTSELLER: Get a package deal for all three (Forest Bath, Sound Bath, and Kawa Bath) at P1290/person, minimum of 2 pax.
                         </div>
                     </div>
-                    <div class="villa-item">
+                    <div class="villa-item" id="one4">
                         <h4 class="mad-title text-center">
                             Aqua Yoga
                         </h4>
@@ -185,7 +202,7 @@
                             </table>
                         </div>
                     </div>
-                    <div class="villa-item">
+                    <div class="villa-item" id="one5">
                         <h4 class="mad-title text-center">
                             Guided Forest Meditation
                         </h4>
@@ -211,7 +228,7 @@
                             </table>
                         </div>
                     </div>
-                    <div class="villa-item">
+                    <div class="villa-item" id="one6">
                         <h4 class="mad-title text-center">
                             Botanical Tour
                         </h4>
@@ -236,6 +253,15 @@
                                 </tbody>
                             </table>
                         </div>
+                    </div>
+
+                    <div class="villa-item" id="one7">
+                        <h4 class="mad-title text-center">
+                            Yoga Class With A Yoga Instructor
+                        </h4>
+                        <p>
+                            <img src="{{ asset('assets/img/wellness/activities/12.jpg') }}" alt="" />
+                        </p>
                     </div>
 
                     <div class="mad-testimonial-bg content-element-4">
