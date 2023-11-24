@@ -77,7 +77,7 @@
                                 </div>
                             </div>
                             <p style="text-align:justify;">
-                                Our villas are built on natural ground without any tiles to look, feel and go along with nature, dome style with 30% transparency for nature view and feeling of living in real nature. White dome villas with bathtub and private pool. Overlooking forest, under shady palms. Private dining. Marshmallow and own bbq area. A stay at the Shanti is always too short!
+                                Our villas are built on natural ground without any tiles to look, feel and go along with nature, dome style with 30% transparency for nature view and feeling of living in real nature. White dome villas with bathtub and private pool. Overlooking forest, under shady palms. Private dining. Marshmallow and own bbq area. A stay at Shanti is always too short!
                             </p>
 
                         </div>
@@ -91,9 +91,9 @@
                                 <div class="mad-col">
                                     <img src="{{ asset('assets/img/accommodation/villa/Drishti-Single-Dome-Pool-Villa/1.jpg')}}" alt="" />
                                 </div>
-                                <div class="mad-col">
-                                    <img src="{{ asset('assets/img/accommodation/villa/Drishti-Single-Dome-Pool-Villa/4.jpg')}}" alt="" />
-                                </div>
+                                <!--<div class="mad-col">-->
+                                <!--    <img src="{{ asset('assets/img/accommodation/villa/Drishti-Single-Dome-Pool-Villa/4.jpg')}}" alt="" />-->
+                                <!--</div>-->
                                 <div class="mad-col">
                                     <img src="{{ asset('assets/img/accommodation/villa/Drishti-Single-Dome-Pool-Villa/8.jpg')}}" alt="" />
                                 </div>

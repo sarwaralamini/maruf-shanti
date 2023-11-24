@@ -86,7 +86,7 @@
                             </li>
 
                             <li class="menu-item">
-                                <a href="{{ route('packages') }}">Packages</a>
+                                <a href="{{ route('packages') }}">Packages and Promos</a>
                             </li>
 
                             <li class="menu-item">

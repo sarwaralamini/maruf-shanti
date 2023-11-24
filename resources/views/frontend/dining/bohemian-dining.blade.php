@@ -68,37 +68,37 @@
                             RATES:
                         </p>
                         <div class="mad-list-content">
-                            <span style="display:block;font-weight:700;">Bohemian Dinner for 2 PERSONS (PHP 2748.90)</span>
+                            <span style="display:block;font-weight:700;">Bohemian Dinner for 2 PERSONS (PHP 3298.90)</span>
                             <ul class="mad-list--icon" style="margin-top:-15px;">
                                 <li style="margin-bottom:0rem;"><i class="icon material-icons">check</i>2 rice</li>
                                 <li style="margin-bottom:0rem;"><i class="icon material-icons">check</i>1 choice of appetizer</li>
                                 <li style="margin-bottom:0rem;"><i class="icon material-icons">check</i>1 choice of soup</li>
-                                <li style="margin-bottom:0rem;"><i class="icon material-icons">check</i>1 choice of vegetable or chicken or beef or seafood dish</li>
+                                <li style="margin-bottom:0rem;"><i class="icon material-icons">check</i>1 choice of vegetable or chicken or seafood dish</li>
                                 <li style="margin-bottom:0rem;"><i class="icon material-icons">check</i>1 choice of dessert</li>
                             </ul>
                         </div>
                         <br>
                         <div class="mad-list-content">
-                            <span style="display:block;;font-weight:700;">Bohemian Dinner for 4 PERSONS (PHP 3298.90)</span>
+                            <span style="display:block;;font-weight:700;">Bohemian Dinner for 4 PERSONS (PHP 4398.90)</span>
                             <ul class="mad-list--icon" style="margin-top:-15px;">
                                 <li style="margin-bottom:0rem;"><i class="icon material-icons">check</i>4 rice</li>
                                 <li style="margin-bottom:0rem;"><i class="icon material-icons">check</i>1 choice of appetizer</li>
                                 <li style="margin-bottom:0rem;"><i class="icon material-icons">check</i>1 choice of soup</li>
                                 <li style="margin-bottom:0rem;"><i class="icon material-icons">check</i>1 choice of vegetable dish</li>
-                                <li style="margin-bottom:0rem;"><i class="icon material-icons">check</i>1 choice of chicken or beef or seafood dish</li>
+                                <li style="margin-bottom:0rem;"><i class="icon material-icons">check</i>1 choice of chicken or seafood dish</li>
                                 <li style="margin-bottom:0rem;"><i class="icon material-icons">check</i>2 choices of dessert</li>
                             </ul>
                         </div>
 
                         <br>
                         <div class="mad-list-content">
-                            <span style="display:block;;font-weight:700;">Bohemian Dinner for 6 PERSONS (PHP 3958.90)</span>
+                            <span style="display:block;;font-weight:700;">Bohemian Dinner for 6 PERSONS (PHP 5828.90)</span>
                             <ul class="mad-list--icon" style="margin-top:-15px;">
                                 <li style="margin-bottom:0rem;"><i class="icon material-icons">check</i>6 rice</li>
                                 <li style="margin-bottom:0rem;"><i class="icon material-icons">check</i>2 choice of appetizer</li>
                                 <li style="margin-bottom:0rem;"><i class="icon material-icons">check</i>1 choice of soup</li>
                                 <li style="margin-bottom:0rem;"><i class="icon material-icons">check</i>1 choice of vegetable dish</li>
-                                <li style="margin-bottom:0rem;"><i class="icon material-icons">check</i>2 choices of chicken/beef/seafood dish</li>
+                                <li style="margin-bottom:0rem;"><i class="icon material-icons">check</i>2 choices of chicken or seafood dish</li>
                                 <li style="margin-bottom:0rem;"><i class="icon material-icons">check</i>2 choices of dessert</li>
                             </ul>
                         </div>

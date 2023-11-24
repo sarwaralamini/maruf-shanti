@@ -63,23 +63,23 @@
                             <div role="alert" class="mad-alert-box mad-alert-box--info">
                                 <div class="mad-alert-box-inner">
                                     Try our unique wellness paid Services.
-                                    <br><a href="#one" style="color:#ff0000">Shinrin Yoku (Forest Bathing)</a>
-                                    <br><a href="#one1" style="color:#ff0000">Sound Bath (Sound Wellness)</a>
-                                    <br><a href="#one3" style="color:#ff0000">Kawa Bath</a>
-                                    <br><a href="#one4" style="color:#ff0000">Aqua Yoga</a>
-                                    <br><a href="#one5" style="color:#ff0000">Guided Forest Meditation</a>
-                                    <br><a href="#one6" style="color:#ff0000">Botanical Tour</a>
-                                    <br><a href="#one7" style="color:#ff0000">Yoga Class With A Yoga Instructor</a>
-                                    <br><a href="{{ route('spa-village') }}" target="_blank" style="color:#ff0000">SPA</a>
-                                    <br><a href="{{route('signature-bath')}}" target="_blank" style="color:#ff0000">Signature Bath</a>
-                                    <br><a href="{{route('sweat-lounge') }}" target="_blank" style="color:#ff0000">Sweat Lounge</a>
-                                    <br><a href="#" target="_blank" style="color:#ff0000">Shirodhara with Head Massage</a>
-                                    <br><a href="#" target="_blank" style="color:#ff0000">Banana Leaf Bath</a>
-                                    <br><a href="{{ route('birthday-setup') }}" target="_blank" style="color:#ff0000">Birthday Setup</a>
-                                    <br><a href="{{ route('make-it-romantic') }}" target="_blank" style="color:#ff0000">Romantic Setup</a>
-                                    <br><a href="{{ route('dining.bohemian-dining') }}" target="_blank" style="color:#ff0000">Bohemian Dinner</a>
-                                    <br><a href="{{ route('dining.glam-picnic') }}" target="_blank" style="color:#ff0000">Glam Picnic</a>
-                                    <br><a href="{{ route('dining.romantic-dining') }}" target="_blank" style="color:#ff0000">Romantic Dinner</a>
+                                    <br><a href="#one" style="color:#4f585a">Shinrin Yoku (Forest Bathing)</a>
+                                    <br><a href="#one1" style="color:#4f585a">Sound Bath (Sound Wellness)</a>
+                                    <br><a href="#one3" style="color:#4f585a">Kawa Bath</a>
+                                    <br><a href="#one4" style="color:#4f585a">Aqua Yoga</a>
+                                    <br><a href="#one5" style="color:#4f585a">Guided Forest Meditation</a>
+                                    <br><a href="#one6" style="color:#4f585a">Botanical Tour</a>
+                                    <br><a href="#one7" style="color:#4f585a">Yoga Class With A Yoga Instructor</a>
+                                    <br><a href="{{ route('spa-and-bath-menu') }}" target="_blank" style="color:#4f585a">SPA and Signature Bath</a>
+                                    <br><a href="{{route('sweat-lounge') }}" target="_blank" style="color:#4f585a">Sweat Lounge</a>
+                                    <br><a href="#" target="_blank" style="color:#4f585a">Sauna and Steam Bath</a>
+                                    <br><a href="#one9" style="color:#4f585a">Shirodhara with Head Massage</a>
+                                    <br><a href="#one10" style="color:#4f585a">Banana Leaf Bath</a>
+                                    <br><a href="{{ route('birthday-setup') }}" target="_blank" style="color:#4f585a">Birthday Dome or Tent Setup</a>
+                                    <br><a href="{{ route('make-it-romantic') }}" target="_blank" style="color:#4f585a">Romantic Setup</a>
+                                    <br><a href="{{ route('dining.bohemian-dining') }}" target="_blank" style="color:#4f585a">Bohemian Dinner</a>
+                                    <br><a href="{{ route('dining.glam-picnic') }}" target="_blank" style="color:#4f585a">Glam Picnic</a>
+                                    <br><a href="{{ route('dining.romantic-dining') }}" target="_blank" style="color:#4f585a">Romantic Dinner Table Setup</a>
                                 </div>
                             </div>
                         </div>
@@ -95,7 +95,7 @@
                             <table class="mad-table mad-table--vertical">
                                 <tbody>
                                     <tr>
-                                        <td>Experience the connection with nature! Unique offer. Highly recommended.</td>
+                                        <td style="text-align:justify;">Forest bathing, or Shinrin-yoku, is a Japanese practice that involves immersing oneself in a forest environment to experience the healing and therapeutic benefits of nature. It's a mindful and intentional way of connecting with the natural world, promoting relaxation, stress reduction, and overall well-being.</td>
                                     </tr>
                                     <tr>
                                         <td>P499/person</td>
@@ -127,7 +127,7 @@
                             <table class="mad-table mad-table--vertical">
                                 <tbody>
                                     <tr>
-                                        <td>Meditative experience. Unique offer. Highly recommended.</td>
+                                        <td style="text-align:justify;">A sound bath is a therapeutic and meditative experience where participants are immersed in sound vibrations, often produced by instruments such as singing bowls, gongs, chimes, drums, and other resonant tools. The aim is to promote relaxation, reduce stress, and enhance overall well-being through the healing power of sound.</td>
                                     </tr>
                                     <tr>
                                         <td>P499/person</td>
@@ -153,7 +153,7 @@
                             <table class="mad-table mad-table--vertical">
                                 <tbody>
                                     <tr>
-                                        <td>Kawa bath is indeed a sweet indulgence for both body and soul to enhance a blissful experience.</td>
+                                        <td style="text-align:justify;">Indulging in a kawa bath is the SPA experience you didn’t know you needed. If you haven’t tried it yet, come to 𝑺𝒉𝒂𝒏𝒕𝒊 𝑾𝒆𝒍𝒍𝒏𝒆𝒔𝒔 𝑺𝒂𝒏𝒄𝒕𝒖𝒂𝒓𝒚, take a warm dip in our kawas, just relax and enjoy the view. Kawa bath's benefit is to lower your body's stress and strain level. This hot bath soothes the stressed-out muscles in the body and calms the mind.</td>
                                     </tr>
                                     <tr>
                                         <td>Bath in an oversized wok. 2 persons at a time.</td>
@@ -187,7 +187,7 @@
                             <table class="mad-table mad-table--vertical">
                                 <tbody>
                                     <tr>
-                                        <td>A guided therapeutic yoga done in the checked-in villa pool. Aqua yoga increases strength, decreases pressure on joints, and relaxes the entire body.</td>
+                                        <td style="text-align:justify;">A guided therapeutic yoga done in the checked-in villa pool. Aqua yoga increases strength, decreases pressure on joints, and relaxes the entire body.</td>
                                     </tr>
                                     <tr>
                                         <td>P499/person</td>
@@ -213,7 +213,7 @@
                             <table class="mad-table mad-table--vertical">
                                 <tbody>
                                     <tr>
-                                        <td>A voice-recorded guided meditation with a series of breathing exercises and mantras. This slows down racing thoughts, lets go of negativity, and calms your mind and body.</td>
+                                        <td style="text-align:justify;">A voice-recorded guided meditation with a series of breathing exercises and mantras. This slows down racing thoughts, lets go of negativity, and calms your mind and body.</td>
                                     </tr>
                                     <tr>
                                         <td>P199/person</td>
@@ -239,7 +239,7 @@
                             <table class="mad-table mad-table--vertical">
                                 <tbody>
                                     <tr>
-                                        <td>A guided nature therapy that focuses on boosting growth and healing, especially of the mental health in the presence of nature. Walks in the forest and learning about the different plants and trees and their characteristics.</td>
+                                        <td style="text-align:justify;">A guided nature therapy that focuses on boosting growth and healing, especially of the mental health in the presence of nature. Walks in the forest and learning about the different plants and trees and their characteristics.</td>
                                     </tr>
                                     <tr>
                                         <td>P499/person</td>
@@ -262,13 +262,101 @@
                         <p>
                             <img src="{{ asset('assets/img/wellness/activities/12.jpg') }}" alt="" />
                         </p>
+                        <div class="mad-table-wrap mt-5">
+                            <table class="mad-table mad-table--vertical">
+                                <tbody>
+                                    <tr>
+                                        <td style="text-align:justify;">A wonderful way to enhance flexibility, strength, and overall well-being. If you're new to yoga or looking to deepen your practice, book this service today.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Ask for rate</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Minimum of 4 pax</td>
+                                    </tr>
+                                    <tr>
+                                        <td>1 hr</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    
+                    <div class="villa-item" id="one9">
+                        <h4 class="mad-title text-center">
+                            Shirodhara with Head Massage
+                        </h4>
+                        <p>
+                            <img src="{{ asset('assets/img/wellness/activities/13.jpg') }}" alt="" />
+                        </p>
+                        <div class="mad-table-wrap mt-5">
+                            <table class="mad-table mad-table--vertical">
+                                <tbody>
+                                    <tr>
+                                        <td style="text-align:justify;">Shirodhara is a traditional Ayurvedic therapy that involves a continuous, gentle pouring of warm, medicated oil or liquid over the forehead, specifically the "third eye" region. It's a deeply relaxing and rejuvenating treatment designed to calm the mind, balance the nervous system, and promote overall well-being. The steady stream of oil induces a state of blissful relaxation, helping to alleviate stress, anxiety, insomnia, and related ailments. Shirodhara is known for its ability to enhance mental clarity, improve focus, and restore equilibrium to the body and mind.</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="text-align:justify;">Shirodhara with head massage (using herbal medicated oil)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>P2490/person</td>
+                                    </tr>
+                                    <tr>
+                                        <td>1 hr session</td>
+                                    </tr>
+                                    <tr>
+                                         <td style="text-align:justify;">Shirodhara with head massage (using herbs infused water)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>P1690/person</td>
+                                    </tr>
+                                    <tr>
+                                        <td>1 hr session</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    
+                    <div class="villa-item" id="one10">
+                        <h4 class="mad-title text-center">
+                            Banana Leaf Bath
+                        </h4>
+                        <p>
+                            <img src="{{ asset('assets/img/wellness/activities/14.jpg') }}" alt="" />
+                        </p>
+                        <div class="mad-table-wrap mt-5">
+                            <table class="mad-table mad-table--vertical">
+                                <tbody>
+                                    <tr>
+                                        <td style="text-align:justify;">
+                                            An ancient way of detox. Banana leaf detox bath also called natural banana leaf sauna.The banana leaf treatment helps greatly in detoxifying the body. This therapy flushes the toxins from the body. The green color of banana leaves has great healing properties which deters the harmful rays and toxins from entering the body and allows the energy to flow into various parts into the body.
+                                            <br>
+                                            <b>Benefits:</b>
+                                            <br>-Helps in removal of toxins.
+                                            <br>--Detoxifies the body and aids in weight loss.
+                                            <br>--Curative for all sorts of skin diseases.
+                                            <br>--Maintains the skin's glow and clears the acne and black heads from the skin.
+                                            <br>--Induces to open the pores and clears the dirt away.
+                                            <br>--Possesses excellent anti-inflammatory properties.
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>P499/person</td>
+                                    </tr>
+                                    <tr>
+                                        <td>15-20 minutes under the sun</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
                     </div>
 
                     <div class="mad-testimonial-bg content-element-4">
                         <div class="mad-testimonial">
                             <div class="mad-testimonial-info">
                             <blockquote>
-                                <p>
+                                <p style="text-align:justify;">
                                     In the case of rain, we will find an alternative time to perform the Forest Bath, Sound Bath, and Meditative Botanical Tour. Other activities may be performed in the villa or in the SPA Village. This is non-refundable.
                                 </p>
                             </blockquote>

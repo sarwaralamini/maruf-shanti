@@ -52,7 +52,7 @@ Route::get('about/our-vision', function () {
 
 //ACCOMMODATION ROUTES
 
-Route::get('accommodation/villas', function () {
+Route::get('accommodation/villas-and-jtl', function () {
     return view('frontend.accommodation.villas');
 })->name('villas');
 
@@ -101,7 +101,7 @@ Route::get('wellness/sweat-lounge', function () {
     return view('frontend.wellness.sweat-lounge');
 })->name('sweat-lounge');
 
-Route::get('wellness/packages', function () {
+Route::get('wellness/packages-and-promos', function () {
     return view('frontend.wellness.packages');
 })->name('packages');
 

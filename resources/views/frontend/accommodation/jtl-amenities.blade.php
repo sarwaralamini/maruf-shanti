@@ -61,7 +61,7 @@
                         </h4>
                         <div class="mad-list-content">
                             <ul class="mad-list--icon-2" style="padding-top:0rem;">
-                                <li style=" margin-bottom: 3px;"><i class="icon material-icons">check</i>Complimentary Filipino breakfast (<span style="font-weight:700">for 4 pax booking ONLY</span>)</li>
+                                <li style=" margin-bottom: 3px;"><i class="icon material-icons">check</i>&nbsp;Complimentary Filipino breakfast (<span style="font-weight:700">for 4 pax booking ONLY</span>)</li>
                                 <li style=" margin-bottom: 3px;"><i class="icon material-icons">check</i>&nbsp;Complimentary water</li>
                                 <li style=" margin-bottom: 3px;"><i class="icon material-icons">check</i>&nbsp;Private Bonfire</li>
                                 <li style=" margin-bottom: 3px;"><i class="icon material-icons">check</i>&nbsp;Private BBQ area</li>

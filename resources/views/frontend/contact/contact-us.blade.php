@@ -62,7 +62,7 @@
                       <div class="mad-vr-list mad-text-medium content-element-3">
                         <ul>
                           <li>Manila Sales and Reservations: 9am to 4pm</li>
-                          <li><b>Phone:</b> +63 920 972 3346</li>
+                          <li><b>Phone:</b> +63 998 972 3345,&nbsp;+63 920 972 3346</li>
                           <li>
                             <b>Email:</b>
                             <a href="mailto:life@shanti.ph" class="mad-link">life@shanti.ph</a>

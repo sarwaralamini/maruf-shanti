@@ -108,14 +108,12 @@ h4 {
     padding-left: 0rem;
     line-height: 1.5rem;
     position: relative;
-    text-align: justify;
 }
 
 .mad-list--icon>li, .mad-list-content>ul:not(.mad-list--icon):not(.mad-list--unstyled)>li {
     padding-left: 0rem;
     line-height: 1.5rem;
     position: relative;
-    text-align: justify;
 }
 
 .mad-list-content>ul:not(.mad-list--icon-1):not(.mad-list--unstyled)>li::before, .mad-list-content>ul>li i {
@@ -127,7 +125,6 @@ h4 {
     padding-left: 0rem;
     line-height: 1.5rem;
     position: relative;
-    text-align: justify;
 }
 
 .mad-list--icon-1>li>.icon, .mad-list-content>ul:not(.mad-list--icon-1):not(.mad-list--unstyled)>li::before {

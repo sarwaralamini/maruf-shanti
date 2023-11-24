@@ -65,14 +65,14 @@
                             <a href="#two" class="mad-link">Mandala Arrangement</a> <br>
                             <a href="#three" class="mad-link">Rock Balancing</a> <br>
                             <a href="#four" class="mad-link">Stone Walk (foot reflexology)</a> <br>
-                            <a class="mad-link">Labyrinth Walk</a> <br>
-                            Use the wellness platform for yoga, sound bath or guided forest meditation <br>
-                            Grounding or Earthing <br>
-                            Enjoy our pumice garden <br>
+                            <a href="#five" class="mad-link">Labyrinth Walk</a> <br>
+                            <a href="#six" class="mad-link">Use the wellness platform for yoga, sound bath or guided forest meditation</a> <br>
+                            <a href="#seven" class="mad-link">Grounding or Earthing</a> <br>
+                            <a href="#eight" class="mad-link">Enjoy our pumice garden</a> <br>
                         </p>
 
                         <h4 id="one" class="mad-title text-center" style="margin-bottom:0px;font-size:1.2rem!important;line-height:1.5rem;font-weight: 700;">
-                            Balance Walk.
+                            Balance Walk
                         </h4>
                         <p style="text-align:justify;">
                             Balance is an asset at any age and level of physical fitness. By adding extra balance challenges as you walk, you will train yourself to be better able to maintain your balance and agility when you have to make a sudden move, such as in sports. You can also be better able to respond to tripping and slipping hazards, whether hiking a rough trail or in daily life.
@@ -89,7 +89,7 @@
                         </p>
                         <br>
                         <h4  id="two" class="mad-title text-center" style="margin-bottom:0px;font-size:1.2rem!important;line-height:1.5rem;font-weight: 700;">
-                            Mandala Arrangement.
+                            Mandala Arrangement
                         </h4>
                         <p style="text-align:justify;">
                             A Mandala flower arrangement shows balance in visual forms which symbolizes unity and harmony.
@@ -114,7 +114,7 @@
                         </p>
                         <br>
                         <h4 id="three" class="mad-title text-center" style="margin-bottom:0px;font-size:1.2rem!important;line-height:1.5rem;font-weight: 700;">
-                            Rock Balancing.
+                            Rock Balancing
                         </h4>
                         <p style="text-align:justify;">
                             Also stone balancing, or stacking is a form of recreation or artistic expression in which rocks are piled in balanced stacks, often in a precarious manner.
@@ -128,7 +128,7 @@
                         </p>
                         
                         <h4 id="four" class="mad-title text-center" style="margin-bottom:0px;font-size:1.2rem!important;line-height:1.5rem;font-weight: 700;">
-                            Stone Walk (<span style="font-weight:400;">foot reflexology</span>).
+                            Stone Walk (<span style="font-weight:400;">foot reflexology</span>)
                         </h4>
                         <p style="text-align:justify;">
                             By walking on stones of different sizes, the feet reflexes are activated and the energy of the whole body is stimulated.
@@ -139,6 +139,62 @@
                         <p style="text-align:center;margin-top:15px;">
                             <img src="{{ asset('assets/img/wellness/wellness-village/stone_walk.jpg')}}" alt="">
                         </p>
+                        
+                         <h4 id="five" class="mad-title text-center" style="margin-bottom:0px;font-size:1.2rem!important;line-height:1.5rem;font-weight: 700;">
+                            Labyrinth Walk
+                        </h4>
+                        <p style="text-align:justify;">
+                            Walking a labyrinth is a meditative and contemplative practice that involves navigating a winding path leading to a central point and then back out again. It's often used as a form of moving meditation or a metaphorical journey. Here's a reflection inspired by a labyrinth walk:
+                        </p>
+                        <p style="text-align:justify;">
+                            As I step onto the labyrinth's path, each turn becomes a metaphor for life's journey. The twists and turns, the moments of uncertainty, all leading to the center—the heart of understanding.
+                        </p>
+                        <p style="text-align:justify;">
+                            With each step, I release the noise of the outside world. The labyrinth becomes a sacred space, a quiet refuge for self-discovery. The rhythm of my breath aligns with the cadence of my footsteps, creating a harmony that resonates within.
+                        </p>
+                        <p style="text-align:justify;">
+                            The journey to the center mirrors my quest for inner peace. There, in the stillness, I find clarity. The answers may not always be apparent, but the quietude allows my thoughts to settle like falling leaves.
+                        </p>
+                        <p style="text-align:justify;">
+                            Turning back towards the entrance, I carry with me the insights gained in the center. The labyrinth reflects the cyclical nature of life—a continuous journey of learning, growing, and returning to the world with renewed purpose.
+                        </p>
+                         <p style="text-align:justify;">
+                            As I exit the labyrinth, I am reminded that every step, no matter how small, contributes to the larger path of my existence. The labyrinth walk, a dance of introspection and serenity, becomes a metaphor for the beauty found in the journey itself.
+                        </p>
+                        <p style="text-align:center;margin-top:15px;">
+                            <img src="{{ asset('assets/img/wellness/wellness-village/5.jpg')}}" alt="">
+                        </p>
+                        
+                        <h4 id="six" class="mad-title text-center" style="margin-bottom:0px;font-size:1.2rem!important;line-height:1.5rem;font-weight: 700;">
+                            Use the wellness platform for yoga, sound bath, or guided forest meditation 
+                        </h4>
+                        <p style="text-align:justify;">
+                           Welcome to our wellness platform, a haven for your journey towards balance and tranquility. Whether you seek the grounding embrace of yoga, the ethereal melodies of a sound bath, or the rejuvenating connection with nature through guided forest meditation, our platform is here to accompany you on your path to well-being.
+                        </p>
+                        <p style="text-align:center;margin-top:15px;">
+                            <img src="{{ asset('assets/img/wellness/wellness-village/6.jpg')}}" alt="">
+                        </p>
+                        
+                        <h4 id="seven" class="mad-title text-center" style="margin-bottom:0px;font-size:1.2rem!important;line-height:1.5rem;font-weight: 700;">
+                            Grounding or Earthing
+                        </h4>
+                        <p style="text-align:justify;">
+                           Grounding, also known as earthing, is a practice that involves connecting with the Earth's natural energy by physically touching the ground, such as walking barefoot on soil, grass, and sand. Proponents of grounding believe that direct contact with the Earth's surface can have various health benefits by balancing the body's electrical charge and reducing inflammation.
+                        </p>
+                        <p style="text-align:center;margin-top:15px;">
+                            <img src="{{ asset('assets/img/wellness/wellness-village/7.jpg')}}" alt="">
+                        </p>
+                        
+                        <h4 id="eight" class="mad-title text-center" style="margin-bottom:0px;font-size:1.2rem!important;line-height:1.5rem;font-weight: 700;">
+                            Enjoy our pumice garden
+                        </h4>
+                        <p style="text-align:justify;">
+                           These beautiful pumice stones were collected by the local people near Mt. Pinatubo. They were from the magma, erupted last 1991. This disaster became the living of hundreds of the families in the area. 𝑾𝒆 𝒍𝒐𝒗𝒆 𝒕𝒐 𝒔𝒖𝒑𝒑𝒐𝒓𝒕 𝒍𝒐𝒄𝒂𝒍. Observe small things in Shanti when you visit this sanctuary. Each is with its own character.
+                        </p>
+                        <p style="text-align:center;margin-top:15px;">
+                            <img src="{{ asset('assets/img/wellness/wellness-village/8.jpg')}}" alt="">
+                        </p>
+                        
                         <div data-isotope-layout="masonry" class="mad-gallery item-col-3 mad-grid--isotope g4" style="display:none;">
                             <div class="mad-grid-sizer"></div>
                             <div class="mad-grid-item">
