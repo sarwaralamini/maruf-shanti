@@ -52,24 +52,27 @@
                 <article class="mad-entity">
                     <div style="max-width:100rem;font-size: 1.125rem;line-height:1.5rem;" >
                         <div class="mad-entity-pre-title">Glam Picnic</div>
-                        <p style="text-align:center;">
-                            <b>Glam picnic, short for Glamorous Picnic, is an alfresco picnic setup from 3PM to 6PM. The setup includes a low table, a fancy dining setup, and pillows.</b>
+                        <p style="text-align: justify;">
+                            Glam Picnic, short for Glamorous Picnic, is an alfresco picnic setup (weather permitting) from 3 PM - 6 PM. The setup includes a low table, a fancy dining setup, and pillows.
                         </p>
 
-                        <p  style="text-align:center;">
-                            <b>MENU 1:</b>
-                        </p>
-
-                        <p style="text-align: center;">
-                            <img src="{{ asset('assets/img/dining/glam-picnic/1.jpg')}}" alt="">
-                        </p>
-
-                        <p style="text-align:center;">
-                            <b>MENU 2:</b>
+                        <p>
+                            <b>We have sets for:</b>
+                            <br>2 pax • 4 pax • 6 pax
+                            <br>
+                            <br>𝐒𝐄𝐓 𝐀: Pizza, fries & onion rings, sandwiches, & fresh fruit platter
+                            <br>𝐒𝐄𝐓 𝐁: Pizza, pasta, nachos, & fresh fruit platter
+                            <br>𝐒𝐄𝐓 𝐂: Pasta, sandwiches, fries, & fresh fruit platter
                         </p>
 
                         <p style="text-align: center;">
-                            <img src="{{ asset('assets/img/dining/glam-picnic/2.jpg')}}" alt="">
+                            <img src="{{ asset('assets/img/dining/glam-picnic/3.jpg')}}" alt="">
+                        </p>
+                        <p style="text-align:center!important;margin-bottom:0px">
+                            <a href="{{ route('contact.contact-us') }}" target="_new" class="btn btn-huge btn-style-3 mt-3"> Message us to book this service </a>
+                        </p>
+                        <p style="text-align:center!important;margin-bottom:0px">
+                            <a href="https://bit.ly/3YtrlNn" target="_new" class="btn btn-huge btn-style-3 mt-3"> VIEW MORE PHOTOS OF GLAM PICNIC </a>
                         </p>
                     </div>
                 </article>

@@ -61,8 +61,13 @@
                                 <br>
                                 P1000/table setup with petals, candles, etc.
                             </p>
-                            <p style="text-align:center!important;margin-top:-15px; margin-bottom:35px;">
-                                <a href="{{ route('contact.contact-us') }}" target="_new" class="btn btn-huge btn-style-3 mt-3"> Message us to book this service </a>
+                            <h4 class="mad-title text-center" style="margin-bottom:0px;font-size:1.2rem!important;line-height:1.5rem;font-weight: 700;">
+                                Add-ons:
+                            </h4>
+                            <p style="text-align:justify;">
+                                P1,000 for a small cake (subject to availability in local bakeshop), provide any 3 flavors choices 1-2-3 whichever is available, also your cake dedication.
+                                <br>P2,000 for 1 dz rose bouquet
+                                <br>P1,000 if you want real rose petals to be used in the table setup
                             </p>
 
                             <div class="mad-section no-pd content-element-main mad-section--stretched-content-no-px mad-colorizer--scheme-" style="margin-bottom: 3rem!important; margin-top: -1rem!important;">
@@ -84,9 +89,11 @@
                                     </div>
                                 </div>
                             </div>
-
+                            <p style="text-align:center!important;margin-top:-15px; margin-bottom:35px;">
+                                <a href="{{ route('contact.contact-us') }}" target="_new" class="btn btn-huge btn-style-3 mt-3"> Message us to book this service </a>
+                            </p>
                             <p style="text-align:center!important;margin-top:-25px;">
-                                <a href="https://bit.ly/3Quag0z" class="btn btn-huge btn-style-3 mt-3" target="_blank"> View more photos of romantic dining setup  </a>
+                                <a href="https://bit.ly/3Quag0z" class="btn btn-huge btn-style-3 mt-3" target="_blank"> VIEW MORE PHOTOS OF ROMANTIC DINING  </a>
                             </p>
                         </section>
                     </div>

@@ -90,7 +90,7 @@
                             </li>
 
                             <li class="menu-item">
-                                <a href="{{ route('healthy-living') }}">Healthy Living</a>
+                                <a href="{{ route('retreat-programs') }}">Retreat Programs</a>
                             </li>
                         </ul>
                         <!--================ End of Sub Menu ================-->

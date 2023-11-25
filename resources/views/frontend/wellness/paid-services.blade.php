@@ -72,11 +72,11 @@
                                     <br><a href="#one7" style="color:#4f585a">Yoga Class With A Yoga Instructor</a>
                                     <br><a href="{{ route('spa-and-bath-menu') }}" target="_blank" style="color:#4f585a">SPA and Signature Bath</a>
                                     <br><a href="{{route('sweat-lounge') }}" target="_blank" style="color:#4f585a">Sweat Lounge</a>
-                                    <br><a href="#" target="_blank" style="color:#4f585a">Sauna and Steam Bath</a>
+                                    <br><a href="#one8" style="color:#4f585a">Sauna and Steam Bath</a>
                                     <br><a href="#one9" style="color:#4f585a">Shirodhara with Head Massage</a>
                                     <br><a href="#one10" style="color:#4f585a">Banana Leaf Bath</a>
                                     <br><a href="{{ route('birthday-setup') }}" target="_blank" style="color:#4f585a">Birthday Dome or Tent Setup</a>
-                                    <br><a href="{{ route('make-it-romantic') }}" target="_blank" style="color:#4f585a">Romantic Setup</a>
+                                    <br><a href="{{ route('make-it-romantic') }}" target="_blank" style="color:#4f585a">Romantic Dome or Tent Setup</a>
                                     <br><a href="{{ route('dining.bohemian-dining') }}" target="_blank" style="color:#4f585a">Bohemian Dinner</a>
                                     <br><a href="{{ route('dining.glam-picnic') }}" target="_blank" style="color:#4f585a">Glam Picnic</a>
                                     <br><a href="{{ route('dining.romantic-dining') }}" target="_blank" style="color:#4f585a">Romantic Dinner Table Setup</a>
@@ -281,7 +281,33 @@
                             </table>
                         </div>
                     </div>
-                    
+
+                    <div class="villa-item" id="one8">
+                        <h4 class="mad-title text-center">
+                            Sauna and Steam Bath
+                        </h4>
+                        <p>
+                            <img src="{{ asset('assets/img/wellness/activities/15.jpg') }}" alt="" />
+                        </p>
+                        <div class="mad-table-wrap mt-5">
+                            <table class="mad-table mad-table--vertical">
+                                <tbody>
+                                    <tr>
+                                        <td style="text-align:justify;">The River Rock Sauna and Herbs Infused Steam Bath can house up to ten guests and features glass doors that connect individuals to the surrounding lush environment. Complimentary herbal foot baths are provided.</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="text-align:justify;">P499 per guest (if availing guest booked a massage)</td>
+                                    </tr>
+
+                                    <tr>
+                                         <td style="text-align:justify;">P990 per guest (includes usage of 𝐒𝐰𝐞𝐚𝐭 𝐋𝐨𝐮𝐧𝐠𝐞 for 1 hr with sauna & steam)</td>
+                                    </tr>
+
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
                     <div class="villa-item" id="one9">
                         <h4 class="mad-title text-center">
                             Shirodhara with Head Massage
@@ -317,7 +343,7 @@
                             </table>
                         </div>
                     </div>
-                    
+
                     <div class="villa-item" id="one10">
                         <h4 class="mad-title text-center">
                             Banana Leaf Bath

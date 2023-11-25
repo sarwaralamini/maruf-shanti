@@ -105,9 +105,9 @@ Route::get('wellness/packages-and-promos', function () {
     return view('frontend.wellness.packages');
 })->name('packages');
 
-Route::get('wellness/healthy-living', function () {
-    return view('frontend.wellness.healthy-living');
-})->name('healthy-living');
+Route::get('wellness/retreat-programs', function () {
+    return view('frontend.wellness.retreat-programs');
+})->name('retreat-programs');
 
 Route::get('events-meetings/celebrate', function () {
     return view('frontend.events-meetings.celebrate');
