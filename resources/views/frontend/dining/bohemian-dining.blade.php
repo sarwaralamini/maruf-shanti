@@ -103,10 +103,22 @@
                             </ul>
                         </div>
 
+                        <p style="text-align:center;margin-top:10px;">
+                            <img src="{{ asset('assets/img/dining/bohemian-dining/3.jpg') }}" alt="">
+                        </p>
+
+                        <p style="text-align:center;">
+                            <img src="{{ asset('assets/img/dining/bohemian-dining/4.jpg') }}" alt="">
+                        </p>
+
+                        <p style="text-align:center;">
+                            <img src="{{ asset('assets/img/dining/bohemian-dining/5.jpg') }}" alt="">
+                        </p>
+
                         <p style="text-align:center!important;margin-bottom:0px">
                             <a href="{{ route('contact.contact-us') }}" target="_new" class="btn btn-huge btn-style-3 mt-3"> Message us to book this service </a>
                         </p>
-                        
+
                         <p style="text-align:center!important;">
                             <a href="https://www.facebook.com/media/set/?set=a.5789105154445478&type=3" target="_new" class="btn btn-huge btn-style-3 mt-3">VIEW MORE PHOTOS OF BOHEMIAN DINING</a>
                         </p>
