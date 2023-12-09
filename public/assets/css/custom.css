@@ -73,6 +73,7 @@ h4 {
 .mad-entity-title {
     font-size: 1.125rem;
     text-align: justify!important;
+    line-height: 1.5rem!important;
 }
 
 .mad-alert-box--info .mad-alert-box-inner::before{
@@ -142,12 +143,6 @@ h4 {
     margin-bottom: 1rem;
 }
 
-@media only screen and (max-width: 1600px)
-{
-    p br, .mad-entity-title br {
-        display: block!important;
-    }
-}
 
 .villa-item>p{
     margin-top: -20px!important;
@@ -223,3 +218,35 @@ table td{
     font-size: .8rem;
     padding: 0.5rem 2rem;
 }
+
+.mad-text-medium {
+    line-height: 1.5rem;
+}
+
+/* RESPONSIVE */
+@media only screen and (max-width: 1600px)
+{
+    p br, .mad-entity-title br {
+        display: block!important;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .text-center-on-medium-device{
+        text-align: center!important;
+    }
+    .text-justify-on-medium-device{
+        text-align: justify!important;
+    }
+    .margin-top-minus-10-medium-device{
+        margin-top: -10px!important;
+    }
+ }
+
+ @media only screen and (min-width: 1440px)
+ {
+    .mad-icon-box h6.mad-icon-box-title, .mad-entities.type-4 .mad-entity .mad-entity-title {
+        white-space: inherit!important;
+    }
+ }
+

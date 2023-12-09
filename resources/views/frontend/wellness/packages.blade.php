@@ -86,9 +86,7 @@
                             <p style="text-align: center;">
                                 <img src="{{ asset('assets/img/wellness/packages/7.jpg')}}" alt="">
                             </p>
-                            <p style="text-align: center;">
-                                <img src="{{ asset('assets/img/wellness/packages/8.jpg')}}" alt="">
-                            </p>
+                           
                             <p style="text-align: center;">
                                 <img src="{{ asset('assets/img/wellness/packages/12.jpg')}}" alt="">
                             </p>
@@ -97,6 +95,12 @@
                             </p>
                             <p style="text-align: center;">
                                 <img src="{{ asset('assets/img/wellness/packages/15.jpg')}}" alt="">
+                            </p>
+                            <p style="text-align: center;">
+                                <img src="{{ asset('assets/img/wellness/packages/p1799_1.jpg')}}" alt="">
+                            </p>
+                             <p style="text-align: center;">
+                                <img src="{{ asset('assets/img/wellness/packages/p1899_1.jpg')}}" alt="">
                             </p>
                             <p style="text-align: center;">
                                 <img src="{{ asset('assets/img/wellness/packages/18.jpg')}}" alt="">

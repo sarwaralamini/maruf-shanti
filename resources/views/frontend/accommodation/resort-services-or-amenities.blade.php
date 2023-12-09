@@ -69,20 +69,24 @@
                             <div class="mad-testimonial">
                                 <div class="mad-testimonial-info">
                                 <blockquote>
-                                    <p>
-                                        If you commute by bus, we can fetch you at Tagaytay-Nasugbo highway near Welcome to Nasugbu Arch, without any charge.
+                                    <p style="text-align:justify;">
+                                        If you are in Tagaytay proper, we can arrange pick up with a fee of P1,200 per way, a maximum of 12 pax per trip.
+                                        <br>
+                                        For Overnight Guests: If you commute by bus, we can fetch you at Tagaytay-Nasugbo highway near Welcome to Nasugbu Arch in 7-11, without any charge.
                                     </p>
                                     <p style="text-align:justify;">
                                         <span style="font-weight:700;">Please note:</span>
                                     <br>
                                     <i>
-                                        *One time pick up and one time drop off is free of charge at the Tagaytay-Nasugbu Highway Arch for check in and check out guests only.
+                                        *One time pick up and one time drop off is free of charge at the Tagaytay-Nasugbu Highway Arch for pre-booked guests only.
                                         <br>
-                                        *Cab capacity is maximum of 12 persons and must be scheduled in advance but may not be available from 11AM to 3PM. Please coordinate with our ground staff for proper arrangement.
+                                        *Cab capacity is maximum of 12 persons and must be scheduled in advance (but subject to availability from 11AM to 3PM). Please coordinate with our ground staff for proper arrangement.
                                         <br>
-                                        *During your stay, our shuttle cab service is for within the resort premises use Only.
+                                        *During your stay, our shuttle cab service is for within the resort premises only.
                                     </i>
-                                </p>
+                                    <p style="text-align:justify;">
+                                        For Day Tour Guests: Minimum of P2,000 total booked services is required for a complimentary pick-up in 7-11.  For those who will not meet the  minimum purchase requirement, we charge pick up and drop off at P500 per way. Alternatively, please take a tricycle from the arch going to Shanti in Barangay Talaga.
+                                    </p>
                                 </blockquote>
                                 </div>
                             </div>
@@ -191,11 +195,13 @@
                             </div>
                         </div>
                         <p style="text-align:justify;">
-                            While in the dome, must keep them away from the tent. Stains, scratches to any areas or any damages by the pet will be charged.
-                            <br>
-                            Please be advised that we shall allow 3 pets maximum per dome, fully domesticated & non-aggressive.
-                            <br>
-                            You will be asked to sign "Pet Policy" upon check in. P5,000 security deposit is required upon check-in for any damage by the pet.  This is refundable upon check out. Thank you.
+                            Please be advised that we shall allow 3 pets maximum per dome or tent lodge, fully domesticated & non-aggressive. You will be asked to sign "Pet Policy" upon check in.
+                            <br><b>Small pets:</b>Generally under 15 inches in height or length and approximately up to 11 kg. P500 per pet.
+                            <br><b>Medium pets:</b> Roughly between 15 to 20 inches in height or length and about 11 to 23 kg. P750 per pet.
+                            <br><b>Large pets:</b> Over 20 inches in height or length and weighing over 23 kg. P1000 per pet.
+                            <br>Damages and/ or cleaning fee will be charged separately for improper handling of pets.
+                            <br>Non-refundable.
+                            <br>Thank you.
                         </p>
                         <p style="text-align:center">
                             <img src="{{ asset('assets/img/accommodation/Pet.jpg') }}" alt="" />

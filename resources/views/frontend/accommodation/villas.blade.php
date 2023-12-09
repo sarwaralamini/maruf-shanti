@@ -86,7 +86,7 @@
                         <h4 class="mad-title text-center">
                             Drishti Twin Dome Pool Villa
                         </h4>
-                        <div class="mad-section no-pd content-element-main mad-section--stretched-content-no-px mad-colorizer--scheme-" style="margin-bottom: 3rem!important; margin-top: -1rem!important;">
+                        <div class="mad-section no-pd content-element-main  mad-colorizer--scheme-" style="margin-bottom: 3rem!important; margin-top: -1rem!important;">
                             <div class=" mad-gallery-slider mad-grid owl-carousel mad-grid--cols-1 mad-owl-moving nav-size-2">
                                 <div class="mad-col">
                                     <img src="{{ asset('assets/img/accommodation/villa/Drishti-Single-Dome-Pool-Villa/1.jpg')}}" alt="" />
@@ -217,7 +217,7 @@
                         <h4 class="mad-title text-center">
                             Shakti Single Dome Pool Villa
                         </h4>
-                        <div class="mad-section no-pd content-element-main mad-section--stretched-content-no-px mad-colorizer--scheme-" style="margin-bottom: 3rem!important; margin-top: -1rem!important;">
+                        <div class="mad-section no-pd content-element-main  mad-colorizer--scheme-" style="margin-bottom: 3rem!important; margin-top: -1rem!important;">
                             <div class=" mad-gallery-slider mad-grid owl-carousel mad-grid--cols-1 mad-owl-moving nav-size-2">
                                 <div class="mad-col">
                                     <img src="{{ asset('assets/img/accommodation/villa/Shakti-Single-Dome-Pool-Villa/9.jpg')}}" alt="" />
@@ -279,7 +279,7 @@
                         <h4 class="mad-title text-center">
                             Ananda Single Dome Pool Villa
                         </h4>
-                        <div class="mad-section no-pd content-element-main mad-section--stretched-content-no-px mad-colorizer--scheme-" style="margin-bottom: 3rem!important; margin-top: -1rem!important;">
+                        <div class="mad-section no-pd content-element-main  mad-colorizer--scheme-" style="margin-bottom: 3rem!important; margin-top: -1rem!important;">
                             <div class=" mad-gallery-slider mad-grid owl-carousel mad-grid--cols-1 mad-owl-moving nav-size-2">
                                 <div class="mad-col">
                                     <img src="{{ asset('assets/img/accommodation/villa/Ananda-Single-Dome-Pool-Villa/1.jpg')}}" alt="" />
@@ -356,7 +356,7 @@
                         <h4 class="mad-title text-center">
                             Prana Single Dome Pool Villa
                         </h4>
-                        <div class="mad-section no-pd content-element-main mad-section--stretched-content-no-px mad-colorizer--scheme-" style="margin-bottom: 3rem!important; margin-top: -1rem!important;">
+                        <div class="mad-section no-pd content-element-main  mad-colorizer--scheme-" style="margin-bottom: 3rem!important; margin-top: -1rem!important;">
                             <div class=" mad-gallery-slider mad-grid owl-carousel mad-grid--cols-1 mad-owl-moving nav-size-2">
                                 <div class="mad-col">
                                     <img src="{{ asset('assets/img/accommodation/villa/Prana-Single-Dome-Pool-Villa/2.jpg')}}" alt="" />
@@ -421,7 +421,7 @@
                         <h4 class="mad-title text-center">
                             Mandala Single Dome Pool Villa
                         </h4>
-                        <div class="mad-section no-pd content-element-main mad-section--stretched-content-no-px mad-colorizer--scheme-" style="margin-bottom: 3rem!important; margin-top: -1rem!important;">
+                        <div class="mad-section no-pd content-element-main  mad-colorizer--scheme-" style="margin-bottom: 3rem!important; margin-top: -1rem!important;">
                             <div class=" mad-gallery-slider mad-grid owl-carousel mad-grid--cols-1 mad-owl-moving nav-size-2">
                                 <div class="mad-col">
                                     <img src="{{ asset('assets/img/accommodation/villa/Mandala-Single-Dome-Pool-Villa/6.jpg')}}" alt="" />
@@ -480,7 +480,7 @@
                         <h4 class="mad-title text-center">
                             Junior Tent Lodges 1 & 2
                         </h4>
-                        <div class="mad-section no-pd content-element-main mad-section--stretched-content-no-px mad-colorizer--scheme-" style="margin-bottom: 3rem!important; margin-top: -1rem!important;">
+                        <div class="mad-section no-pd content-element-main  mad-colorizer--scheme-" style="margin-bottom: 3rem!important; margin-top: -1rem!important;">
                             <div class=" mad-gallery-slider mad-grid owl-carousel mad-grid--cols-1 mad-owl-moving nav-size-2">
                                 <div class="mad-col">
                                     <img src="{{ asset('assets/img/accommodation/villa/Junior-Tent-Lodges-1-and-2/1.jpg')}}" alt="" />

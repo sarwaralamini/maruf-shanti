@@ -126,6 +126,31 @@
                                 </div>
                                 <!--================ End Of Gallery Item ================-->
                             </div>
+                            <div class="mad-grid-item">
+                                <!--================ Gallery Item ================-->
+                                <div class="mad-gallery-item">
+                                    <a href="{{ asset('assets/img/wellness/signature-bath/menu/9.jpg')}}" data-fancybox="gallery"
+                                    ><img src="{{ asset('assets/img/wellness/signature-bath/menu/9.jpg')}}" alt=""
+                                    /></a>
+                                </div>
+                                <!--================ End Of Gallery Item ================-->
+                            </div><div class="mad-grid-item">
+                                <!--================ Gallery Item ================-->
+                                <div class="mad-gallery-item">
+                                    <a href="{{ asset('assets/img/wellness/signature-bath/menu/10.jpg')}}" data-fancybox="gallery"
+                                    ><img src="{{ asset('assets/img/wellness/signature-bath/menu/10.jpg')}}" alt=""
+                                    /></a>
+                                </div>
+                                <!--================ End Of Gallery Item ================-->
+                            </div><div class="mad-grid-item">
+                                <!--================ Gallery Item ================-->
+                                <div class="mad-gallery-item">
+                                    <a href="{{ asset('assets/img/wellness/signature-bath/menu/11.jpg')}}" data-fancybox="gallery"
+                                    ><img src="{{ asset('assets/img/wellness/signature-bath/menu/11.jpg')}}" alt=""
+                                    /></a>
+                                </div>
+                                <!--================ End Of Gallery Item ================-->
+                            </div>
                         </div>
                     </div>
                 </article>

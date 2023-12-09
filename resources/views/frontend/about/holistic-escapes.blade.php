@@ -52,13 +52,13 @@
                 <article class="mad-entity">
                     <div style="max-width:100rem;font-size: 1.125rem;line-height:1.5rem;" >
                         <div class="mad-entity-pre-title">Holistic Escapes</div>
-                        <p style="text-align:center;">
+                        <p style="text-align:center;" class="text-justify-on-medium-device">
                             Minutes away from the charming city of Tagaytay, within 4 hectares of tropical greenery, serenity awaits.
                         </p>
-                        <p style="text-align:center;">
+                        <p style="text-align:center;" class="text-justify-on-medium-device">
                             Shanti Wellness Sanctuary. The haven of life. A beautiful sanctuary where enrichment thrives and creates good memories.
                         </p>
-                        <p style="text-align:center;">
+                        <p style="text-align:center;" class="text-justify-on-medium-device">
                             <b>A MEANINGFUL JOURNEY.  A MEANINGFUL VACATION. A JOURNEY WITH A PURPOSE.</b>
                         </p>
                         <p style="text-align:center;">
@@ -67,13 +67,13 @@
 
                         <div class="mad-list-content">
                             <ul class="mad-list--icon">
-                                <li style="padding-left:0px!important;">The resort along with the eastern and western boundaries of the property is all surrounded by vibrant tropical gardens, flowering trees and coconut palms.</li>
-                                <li style="padding-left:0px!important;">Each morning, your senses slowly awaken to a perfect day in paradise. Open your eyes to a profusion of tropical flowers and colors.</li>
-                                <li style="padding-left:0px!important;">Here is a haven of tranquil seclusion. A place where you can relax and enjoy the serene beauty of the lush green valleys. Here you feel the special magic of wellness that purifies the spirit.</li>
-                                <li style="padding-left:0px!important;">Blending unique design and secluded courtyards, spacious villa and private gardens create an intimate feeling like no other. </li>
-                                <li style="padding-left:0px!important;">Rejuvenation.. relaxation… renewal..</li>
-                                <li style="padding-left:0px!important;">A haven of sensual bliss…</li>
-                                <li style="padding-left:0px!important;">A journey to wellness.</li>
+                                <li style="padding-left:0px!important;text-align:justify;">The resort along with the eastern and western boundaries of the property is all surrounded by vibrant tropical gardens, flowering trees and coconut palms.</li>
+                                <li style="padding-left:0px!important;text-align:justify;">Each morning, your senses slowly awaken to a perfect day in paradise. Open your eyes to a profusion of tropical flowers and colors.</li>
+                                <li style="padding-left:0px!important;text-align:justify;">Here is a haven of tranquil seclusion. A place where you can relax and enjoy the serene beauty of the lush green valleys. Here you feel the special magic of wellness that purifies the spirit.</li>
+                                <li style="padding-left:0px!important;text-align:justify;">Blending unique design and secluded courtyards, spacious villa and private gardens create an intimate feeling like no other. </li>
+                                <li style="padding-left:0px!important;" class="text-center-on-medium-device">Rejuvenation.. relaxation… renewal..</li>
+                                <li style="padding-left:0px!important;" class="text-center-on-medium-device margin-top-minus-10-medium-device">A haven of sensual bliss…</li>
+                                <li style="padding-left:0px!important;" class="text-center-on-medium-device margin-top-minus-10-medium-device">A journey to wellness.</li>
                             </ul>
                         </div>
                     </div>

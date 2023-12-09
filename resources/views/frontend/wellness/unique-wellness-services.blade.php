@@ -1,7 +1,7 @@
 
 @extends('frontend.layouts.app')
 {{-- Website SEO --}}
-@section('title', 'Paid Services')
+@section('title', 'Unique Wellness Services')
 @section('meta_description', '')
 @section('meta_author', '')
 @section('meta_copyright', '')
@@ -9,7 +9,7 @@
 @section('meta_robot', '')
 
 {{-- Facebook SEO --}}
-@section('og_title', 'Paid Services')
+@section('og_title', 'Unique Wellness Services')
 @section('og_description', '')
 @section('og_type', '')
 @section('og_url', '')
@@ -34,11 +34,11 @@
     data-bg-image-src="{{ asset('assets/img/bc.jpg') }}"
     >
     <div class="container wide">
-    <h1 class="mad-page-title">Paid Services</h1>
+    <h1 class="mad-page-title">Unique Wellness Services</h1>
     <nav class="mad-breadcrumb-path">
         <span><a href="{{ route('homepage') }}" class="mad-link">Home</a></span> /
         <span>Wellness</span> /
-        <span>Paid Services</span>
+        <span>Unique Wellness Services</span>
     </nav>
     </div>
     </div>
@@ -50,24 +50,20 @@
                 <div class="mad-entities mad-entities-reverse type-4">
                     <article class="mad-entity">
                         <div style="max-width:100rem;font-size: 1.125rem;line-height:1.5rem;" >
-                            <div class="mad-entity-pre-title">Paid Services</div>
-                            <h6 class="mad-entity-title">
+                            <div class="mad-entity-pre-title">Unique Wellness Services</div>
+                            <h6 class="mad-entity-title text-center-on-medium-device">
                                 …far from the everyday world.
-                            </h6>
-                            <h6 class="mad-entity-title">
-                                …perched majestically between hills and valleys.
-                            </h6>
-                            <h6 class="mad-entity-title" style="text-align:center;">
-                                Shanti Wellness Sanctuary is a unique concept, amidst the lushness of nature. A place where the mind can escape. An oasis for body, mind and spirit. Minutes away from Tagaytay.
+                                <br>  …perched majestically between hills and valleys.
+                                <br> Shanti Wellness Sanctuary is a unique concept, amidst the lushness of nature. A place where the mind can escape. An oasis for body, mind and spirit. Minutes away from Tagaytay.
                             </h6>
                             <div role="alert" class="mad-alert-box mad-alert-box--info">
                                 <div class="mad-alert-box-inner">
-                                    Try our unique wellness paid Services.
+                                   Try our unique wellness services:
                                     <br><a href="#one" style="color:#4f585a">Shinrin Yoku (Forest Bathing)</a>
                                     <br><a href="#one1" style="color:#4f585a">Sound Bath (Sound Wellness)</a>
                                     <br><a href="#one3" style="color:#4f585a">Kawa Bath</a>
                                     <br><a href="#one4" style="color:#4f585a">Aqua Yoga</a>
-                                    <br><a href="#one5" style="color:#4f585a">Guided Forest Meditation</a>
+                                    <br><a href="#one5" style="color:#4f585a">Pre-recorded Voice Guided Forest Meditation</a>
                                     <br><a href="#one6" style="color:#4f585a">Botanical Tour</a>
                                     <br><a href="#one7" style="color:#4f585a">Yoga Class With A Yoga Instructor</a>
                                     <br><a href="{{ route('spa-and-bath-menu') }}" target="_blank" style="color:#4f585a">SPA and Signature Bath</a>
@@ -204,7 +200,7 @@
                     </div>
                     <div class="villa-item" id="one5">
                         <h4 class="mad-title text-center">
-                            Guided Forest Meditation
+                            Pre-recorded Voice Guided Forest Meditation
                         </h4>
                         <p>
                             <img src="{{ asset('assets/img/wellness/activities/5.jpg') }}" alt="" />

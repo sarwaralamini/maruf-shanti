@@ -72,10 +72,10 @@
                         </p>
                         <div class="mad-list-content">
                             <ul class="mad-list--icon">
-                                <li><i class="icon material-icons">check</i>Stretch the body as well as the mind.</li>
-                                <li><i class="icon material-icons">check</i>Experience the sights, sounds and scents, at your own speed or under your own power.</li>
-                                <li><i class="icon material-icons">check</i>Wander the valleys and nature… explore village life.</li>
-                                <li><i class="icon material-icons">check</i>The timeless spirituality of this setting penetrates the senses to nurture the body, mind and soul. A place of healing, reflection, contemplation, meditation and serenity.</li>
+                                <li class="text-justify-on-medium-device"><i class="icon material-icons">check</i>Stretch the body as well as the mind.</li>
+                                <li class="text-justify-on-medium-device"><i class="icon material-icons">check</i>Experience the sights, sounds and scents, at your own speed or under your own power.</li>
+                                <li class="text-justify-on-medium-device"><i class="icon material-icons">check</i>Wander the valleys and nature… explore village life.</li>
+                                <li class="text-justify-on-medium-device"><i class="icon material-icons">check</i>The timeless spirituality of this setting penetrates the senses to nurture the body, mind and soul. A place of healing, reflection, contemplation, meditation and serenity.</li>
                             </ul>
                         </div>
                     </div>

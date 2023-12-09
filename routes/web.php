@@ -81,9 +81,9 @@ Route::get('wellness/wellness-village', function () {
     return view('frontend.wellness.wellness-village');
 })->name('wellness-village');
 
-Route::get('wellness/paid-services', function () {
-    return view('frontend.wellness.paid-services');
-})->name('paid-services');
+Route::get('wellness/unique-wellness-services', function () {
+    return view('frontend.wellness.unique-wellness-services');
+})->name('unique-wellness-services');
 
 Route::get('wellness/spa-village', function () {
     return view('frontend.wellness.spa-village');

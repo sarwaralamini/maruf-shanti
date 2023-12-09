@@ -72,7 +72,7 @@
                                 <a href="{{ route('wellness-village') }}">Wellness Village</a>
                             </li>
                             <li class="menu-item">
-                                <a href="{{ route('paid-services') }}">Paid Services</a>
+                                <a href="{{ route('unique-wellness-services') }}">Unique Wellness Services</a>
                             </li>
                             <li class="menu-item">
                                 <a href="{{ route('spa-village') }}">Spa Village</a>

@@ -52,7 +52,7 @@
                 <article class="mad-entity">
                     <div style="max-width:100rem;font-size: 1.125rem;line-height:1.5rem;" >
                         <div class="mad-entity-pre-title">History</div>
-                        <h6 class="mad-entity-title" style="text-align:center;">
+                        <h6 class="mad-entity-title" style="text-align:center!important;;">
                             Welcome to nothing! but a beautiful hillside, four hectares of land where I dreamed of developing a destination SPA resort!
                         </h6>
                         <p>

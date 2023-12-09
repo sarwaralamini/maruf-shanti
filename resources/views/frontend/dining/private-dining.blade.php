@@ -81,7 +81,7 @@
                             </ul>
                         </div>
 
-                        <div class="mad-section no-pd content-element-main mad-section--stretched-content-no-px mad-colorizer--scheme-" style="margin-bottom: 3rem!important; margin-top: 2rem!important;">
+                        <div class="mad-section no-pd content-element-main mad-colorizer--scheme-" style="margin-bottom: 3rem!important; margin-top: 2rem!important;">
                             <div class=" mad-gallery-slider mad-grid owl-carousel mad-grid--cols-1 mad-owl-moving nav-size-2">
                                 <div class="mad-col">
                                     <img src="{{ asset('assets/img/dining/private-dining/1.jpg')}}" alt="" />

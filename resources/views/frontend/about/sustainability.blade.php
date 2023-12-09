@@ -52,7 +52,7 @@
                 <article class="mad-entity">
                     <div style="max-width:100rem;font-size: 1.125rem;line-height:1.5rem;" >
                         <div class="mad-entity-pre-title">Sustainability</div>
-                        <h6 class="mad-entity-title" style="text-align:center;">
+                        <h6 class="mad-entity-title" style="text-align:center!important;">
                             This 4 hectares (9.8-acre) land within a pristine forest has allowed us to create a destination spa, which is completely accessible yet blissfully secluded.
                         </h6>
                         <p style="text-align:center;">

@@ -92,6 +92,9 @@
                         <p>
                             <img src="{{ asset('assets/img/wellness/retreat-programs/4.jpg') }}" alt="" />
                         </p>
+                        <p>
+                            <img src="{{ asset('assets/img/wellness/retreat-programs/5.jpg') }}" alt="" />
+                        </p>
                     </div>
                 </article>
                 <!--================ End of Entity ================-->

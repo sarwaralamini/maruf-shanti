@@ -71,6 +71,23 @@
                             <a href="#eight" class="mad-link">Enjoy our pumice garden</a> <br>
                         </p>
 
+                        <p>
+                            <b>Unique Wellness Service:</b>
+                        </p>
+                         <h4 class="mad-title text-center" style="margin-bottom:0px;font-size:1.2rem!important;line-height:1.5rem;font-weight: 700;">
+                            Kawa Bath
+                        </h4>
+                        
+                         <p style="text-align:justify;">
+                            P499 per pax. Minimum of 2 pax to book.
+                            <br>
+                            Indulging in a kawa bath is the SPA experience you didn’t know you needed. If you haven’t tried it yet, come to 𝑺𝒉𝒂𝒏𝒕𝒊 𝑾𝒆𝒍𝒍𝒏𝒆𝒔𝒔 𝑺𝒂𝒏𝒄𝒕𝒖𝒂𝒓𝒚, take a warm dip in our kawas, just relax and enjoy the view. Kawa bath's benefit is to lower your body's stress and strain level. This hot bath soothes the stressed-out muscles in the body and calms the mind.
+                        </p>
+                        
+                        <p style="text-align:center;margin-top:15px;margin-bottom:0px;">
+                            <img src="{{ asset('assets/img/wellness/wellness-village/new_kawa_bath.jpg')}}" alt="">
+                        </p>
+                        <br>
                         <h4 id="one" class="mad-title text-center" style="margin-bottom:0px;font-size:1.2rem!important;line-height:1.5rem;font-weight: 700;">
                             Balance Walk
                         </h4>

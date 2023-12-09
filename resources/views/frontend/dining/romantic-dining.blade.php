@@ -69,8 +69,8 @@
                                 <br>P2,000 for 1 dz rose bouquet
                                 <br>P1,000 if you want real rose petals to be used in the table setup
                             </p>
-
-                            <div class="mad-section no-pd content-element-main mad-section--stretched-content-no-px mad-colorizer--scheme-" style="margin-bottom: 3rem!important; margin-top: -1rem!important;">
+<br>
+                            <div class="mad-section no-pd content-element-main  mad-colorizer--scheme-" style="margin-bottom: 3rem!important; margin-top: -1rem!important;">
                                 <div class=" mad-gallery-slider mad-grid owl-carousel mad-grid--cols-1 mad-owl-moving nav-size-2">
                                     <div class="mad-col">
                                         <img src="{{ asset('assets/img/dining/romantic-dining/5.jpg')}}" alt="" />

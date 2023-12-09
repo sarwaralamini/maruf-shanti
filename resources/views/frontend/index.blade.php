@@ -78,13 +78,13 @@
         <div class="mad-title-wrap">
           <div class="mad-pre-title-custom">WELCOME TO</div>
           <h2 class="mad-section-title">Shanti Wellness Sanctuary</h2>
-          <h4 class="mad-section-title">Lemery, Batangas</h4>
+          <h4 class="mad-section-title" style="margin-top:-15px;">Lemery, Batangas</h4>
         </div>
-        <div class="content-element-6">
+        <div class="content-element-6" style="margin-top:-15px;">
           <p class="mad-text-medium content-element-3">
             <b>15 mins away from Twin Lakes Tagaytay</b>
           </p>
-          <p class="mad-text-medium"> A resort in a haven of tranquility. Nestled deep in the heart of Tagaytay-Batangas valleys. Offering unique accommodation and wellness.</p>
+          <p class="mad-text-medium" style="margin-top:-15px;"> A resort in a haven of tranquility. Nestled deep in the heart of Tagaytay-Batangas valleys. Offering unique accommodation and wellness.</p>
         </div>
       </div>
       <div class="
@@ -145,7 +145,8 @@
           <a href="{{ route('packages')}}" target="_blank" class="mad-icon-box">
             <div class="mad-icon-box-content">
               <h6 class="mad-icon-box-title">Promo Packages </h6>
-              <p> Get 15% less on combined selected services.
+              <p>
+              Get more discount on combined selected services.
               </p>
             </div>
           </a>
@@ -195,15 +196,15 @@
           <!--================ Icon Boxes ================-->
           <div class="mad-icon-boxes grid-type hr-type item-col-4 no-gutters">
             <!--================ Icon Box ================-->
-            <a href="{{ route('paid-services')}}" target="_blank" class="mad-icon-box">
+            <a href="{{ route('unique-wellness-services')}}" target="_blank" class="mad-icon-box">
               <div class="mad-icon-box-content">
-                <h6 class="mad-icon-box-title">Paid Services </h6>
-                <p> Check out our paid activities to enjoy more of your stay. </p>
+                <h6 class="mad-icon-box-title">Unique Wellness Services</h6>
+                <p> Check out our unique wellness services to enjoy more of your stay. </p>
               </div>
             </a>
             <!--================ End of Icon Box ================-->
             <!--================ Icon Box ================-->
-            <a href="{{ route('paid-services')}}" target="_blank" class="mad-icon-box empty-item" data-bg-image-src="{{ asset('assets/img/home_section_2/05.jpg') }}">
+            <a href="{{ route('unique-wellness-services')}}" target="_blank" class="mad-icon-box empty-item" data-bg-image-src="{{ asset('assets/img/home_section_2/05.jpg') }}">
               <div class="back-side" style="background-image: url({{ asset('assets/img/home_section_2/hover/05.jpg') }});background-position: center!important;height: 488px!important;background-size: cover!important;">
                 <i class="mad-icon-box-icon">
                     <img src="" alt="">
